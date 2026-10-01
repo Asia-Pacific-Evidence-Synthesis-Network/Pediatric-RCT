@@ -1,0 +1,5 @@
+income_group,n_trials,median_n,iqr_n_low,iqr_n_high,median_mde_5pct
+LIC,558,207.5,90.0,474.0,8.5
+LMIC,1293,76.0,50.0,124.0,14.0
+UMIC,1394,79.0,50.0,120.0,13.7
+HIC,4192,64.0,34.0,133.0,15.3

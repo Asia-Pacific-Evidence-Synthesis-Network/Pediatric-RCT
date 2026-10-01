@@ -1,0 +1,284 @@
+PDF_name,Disease_clean,trial_level_gbd_l2_cause,confidence,note
+11569,Heart failure,Cardiovascular diseases,high,"PANORAMA-HF: HF due to systemic LV systolic dysfunction (cardiomyopathy), not CHD"
+23646,Heart failure,Other non-communicable diseases,high,HF due to congenital heart disease with L-to-R shunt -> congenital defect bucket
+2286,Heart failure,Cardiovascular diseases,high,HF due to dilated cardiomyopathy (acquired)
+280,Heart failure,Other non-communicable diseases,high,HF due to VSD (congenital heart defect)
+11304,Heart failure,Cardiovascular diseases,low,"Heart failure in infants, etiology not stated in title; defaulted to acquired/general HF"
+941,Heart failure,Cardiovascular diseases,low,Heart transplant listing after carvedilol; underlying cardiomyopathy/etiology not specified
+18056,Heart failure,Cardiovascular diseases,low,"Heart failure in children, etiology (congenital vs acquired) not stated in title"
+5187,Hypertension,Cardiovascular diseases,high,"Systemic BP control, pediatric hypertension"
+11849,Hypertension,Cardiovascular diseases,high,Hypertension secondary to renal disease - systemic hypertension treated as CV disease
+11850,Hypertension,Maternal and neonatal disorders,high,Persistent pulmonary hypertension of the newborn / neonatal pulmonary hypertension
+11994,Hypertension,Cardiovascular diseases,high,Essential/systemic pediatric hypertension
+12065,Hypertension,Cardiovascular diseases,high,Pediatric hypertension
+12225,Hypertension,Maternal and neonatal disorders,high,Persistent pulmonary hypertension of the newborn / neonatal pulmonary hypertension
+12276,Hypertension,Cardiovascular diseases,high,Pulmonary hypertension risk after cardiac surgery
+4520,Hypertension,Cardiovascular diseases,high,Paradoxical systemic hypertension after coarctation repair
+50,Hypertension,Cardiovascular diseases,high,Pulmonary hypertension during cardiac surgery
+4466,Hypertension,Cardiovascular diseases,high,Pulmonary hypertension under congenital heart surgery
+11599,Hypertension,Cardiovascular diseases,high,"Hypertension in children, losartan"
+12819,Hypertension,Cardiovascular diseases,high,Essential hypertension
+12820,Hypertension,Cardiovascular diseases,high,"Hypertension, candesartan"
+4060,Hypertension,Cardiovascular diseases,high,Postoperative pulmonary hypertension after CHD surgery
+3989,Hypertension,Cardiovascular diseases,high,"Hypertension, amlodipine"
+8769,Hypertension,Cardiovascular diseases,high,"Hypertension, felodipine vs nifedipine"
+3717,Hypertension,Maternal and neonatal disorders,high,Persistent pulmonary hypertension of the newborn / neonatal pulmonary hypertension
+3692,Hypertension,Maternal and neonatal disorders,high,Persistent pulmonary hypertension of the newborn / neonatal pulmonary hypertension
+3657,Hypertension,Sense organ diseases,high,Ocular/intraocular hypertension (steroid- or surgery-related)
+4494,Hypertension,Maternal and neonatal disorders,high,Persistent pulmonary hypertension of the newborn / neonatal pulmonary hypertension
+12359,Hypertension,Cardiovascular diseases,high,"Hypertension, aliskiren"
+11320,Hypertension,Cardiovascular diseases,high,"Hypertension, valsartan vs enalapril"
+11321,Hypertension,Cardiovascular diseases,high,"Hypertension, valsartan"
+8729,Hypertension,Cardiovascular diseases,high,"Pulmonary arterial hypertension due to systemic-to-pulmonary shunts, post-surgery"
+8721,Hypertension,Maternal and neonatal disorders,high,Persistent pulmonary hypertension of the newborn / neonatal pulmonary hypertension
+7954,Hypertension,Cardiovascular diseases,high,Pulmonary hypertension after cardiopulmonary bypass surgery
+7884,Hypertension,Maternal and neonatal disorders,high,Persistent pulmonary hypertension of the newborn / neonatal pulmonary hypertension
+7705,Hypertension,Cardiovascular diseases,high,"Hypertension, eplerenone"
+7591,Hypertension,Cardiovascular diseases,high,Postoperative hypertension after coarctation repair
+7384,Hypertension,Sense organ diseases,high,Ocular/intraocular hypertension (steroid- or surgery-related)
+9475,Hypertension,Cardiovascular diseases,high,Pulmonary artery hypertension after congenital heart surgery
+9856,Hypertension,Cardiovascular diseases,high,Pulmonary hypertension after congenital heart surgery
+11545,Hypertension,Cardiovascular diseases,low,"Hypertension in pediatric kidney transplant recipients - systemic BP management; could alternatively be argued as kidney-disease-related, but disease framing is hypertension"
+10034,Hypertension,Maternal and neonatal disorders,high,Persistent pulmonary hypertension of the newborn / neonatal pulmonary hypertension
+6790,Hypertension,Cardiovascular diseases,high,Pulmonary hypertension after cardiac surgery
+10814,Hypertension,Cardiovascular diseases,high,"Pediatric hypertension, amlodipine"
+10993,Hypertension,Cardiovascular diseases,high,"Pulmonary arterial hypertension, exercise capacity"
+6015,Hypertension,Cardiovascular diseases,high,"Pulmonary arterial hypertension, tadalafil"
+6014,Hypertension,Cardiovascular diseases,high,"Pulmonary arterial hypertension, ambrisentan"
+5789,Hypertension,Maternal and neonatal disorders,high,Persistent pulmonary hypertension of the newborn / neonatal pulmonary hypertension
+11319,Hypertension,Cardiovascular diseases,high,"Hypertension, candesartan"
+5364,Hypertension,Cardiovascular diseases,high,"Hypertension, olmesartan"
+3630,Hypertension,Cardiovascular diseases,high,Adolescent hypertension
+6863,Hypertension,Cardiovascular diseases,high,Pulmonary hypertension after cardiopulmonary bypass
+13179,Hypertension,Maternal and neonatal disorders,high,Persistent pulmonary hypertension of the newborn / neonatal pulmonary hypertension
+3758,Hypertension,Cardiovascular diseases,high,"Essential hypertension, allopurinol"
+3365,Hypertension,Cardiovascular diseases,high,Pulmonary hypertension in infants undergoing VSD closure surgery
+15425,Hypertension,Maternal and neonatal disorders,high,Persistent pulmonary hypertension of the newborn / neonatal pulmonary hypertension
+15527,Hypertension,Cardiovascular diseases,high,Pulmonary arterial hypertension related to congenital heart defects
+15729,Hypertension,Cardiovascular diseases,high,"Pulmonary hypertension associated with congenital heart disease, post-surgery"
+16089,Hypertension,Maternal and neonatal disorders,high,Persistent pulmonary hypertension of the newborn / neonatal pulmonary hypertension
+16396,Hypertension,Cardiovascular diseases,low,"Hypertension with/without CKD, valsartan; CKD mentioned as comorbidity but hypertension is the treated condition"
+1389,Hypertension,Cardiovascular diseases,high,"Pulmonary arterial hypertension, bosentan PK"
+17292,Hypertension,Cardiovascular diseases,high,"Pulmonary arterial hypertension with CHD, cardiac surgery"
+1258,Hypertension,Cardiovascular diseases,high,"Hypertension, metoprolol"
+1201,Hypertension,Cardiovascular diseases,high,"Pulmonary arterial hypertension, sildenafil"
+1174,Hypertension,Cardiovascular diseases,high,"Pulmonary hypertension, milrinone open heart surgery"
+17735,Hypertension,Cardiovascular diseases,high,"Pulmonary hypertension in children with CHD, post-surgery"
+1042,Hypertension,Cardiovascular diseases,high,"Pediatric hypertension, ACEI/ARB cough side effect"
+852,Hypertension,Cardiovascular diseases,high,"Hypertension in children on hemodialysis, ramipril"
+464,Hypertension,Maternal and neonatal disorders,high,Persistent pulmonary hypertension of the newborn / neonatal pulmonary hypertension
+434,Hypertension,Maternal and neonatal disorders,high,Persistent pulmonary hypertension of the newborn / neonatal pulmonary hypertension
+405,Hypertension,Sense organ diseases,high,Ocular/intraocular hypertension (steroid- or surgery-related)
+21192,Hypertension,Cardiovascular diseases,high,"Adolescent hypertension, clonidine"
+22978,Hypertension,Cardiovascular diseases,high,Hyperuricemic essential hypertension
+63,Hypertension,Maternal and neonatal disorders,high,Persistent pulmonary hypertension of the newborn / neonatal pulmonary hypertension
+2245,Hypertension,Maternal and neonatal disorders,high,Persistent pulmonary hypertension of the newborn / neonatal pulmonary hypertension
+15075,Hypertension,Maternal and neonatal disorders,high,Persistent pulmonary hypertension of the newborn / neonatal pulmonary hypertension
+8999,Hypertension,Cardiovascular diseases,low,"Rebound pulmonary hypertension after NO withdrawal in children; population is 'children' not explicitly neonates, so classified as general pediatric CV pulmonary hypertension rather than PPHN"
+13765,Hypertension,Cardiovascular diseases,high,"Hypertension in children, telmisartan"
+14651,Hypertension,Cardiovascular diseases,high,Pulmonary hypertension after CHD corrective surgery
+3352,Hypertension,Maternal and neonatal disorders,high,Persistent pulmonary hypertension of the newborn / neonatal pulmonary hypertension
+14134,Hypertension,Cardiovascular diseases,high,Functional single ventricle pulmonary arterial hypertension
+3349,Hypertension,Cardiovascular diseases,low,Pulmonary hypertension in beta thalassemia major children; underlying etiology is beta-thalassemia (hemoglobinopathy) but PAH itself is the treated CV condition per rubric
+2940,Hypertension,Cardiovascular diseases,high,Hypertension after aortic coarctation repair
+3311,Hypertension,Maternal and neonatal disorders,high,Persistent pulmonary hypertension of the newborn / neonatal pulmonary hypertension
+2989,Hypertension,Sense organ diseases,high,Ocular/intraocular hypertension (steroid- or surgery-related)
+13764,Hypertension,Cardiovascular diseases,high,"Hypertension in children, enalapril"
+13766,Hypertension,Cardiovascular diseases,high,"Hypertension, valsartan"
+3179,Hypotension,Maternal and neonatal disorders,high,Hypotension in preterm/low-birth-weight/ELBW/VLBW neonates
+9881,Hypotension,Maternal and neonatal disorders,high,Hypotension in preterm/low-birth-weight/ELBW/VLBW neonates
+9880,Hypotension,Maternal and neonatal disorders,high,Hypotension in preterm/low-birth-weight/ELBW/VLBW neonates
+3861,Hypotension,Maternal and neonatal disorders,high,Hypotension in preterm/low-birth-weight/ELBW/VLBW neonates
+4232,Hypotension,Maternal and neonatal disorders,high,Hypotension in preterm/low-birth-weight/ELBW/VLBW neonates
+9154,Hypotension,Maternal and neonatal disorders,high,Hypotension in preterm/low-birth-weight/ELBW/VLBW neonates
+13055,Hypotension,Maternal and neonatal disorders,high,Hypotension in preterm/low-birth-weight/ELBW/VLBW neonates
+10920,Hypotension,Maternal and neonatal disorders,high,Hypotension in preterm/low-birth-weight/ELBW/VLBW neonates
+1668,Hypotension,Maternal and neonatal disorders,high,Hypotension in preterm/low-birth-weight/ELBW/VLBW neonates
+14305,Hypotension,Not applicable,high,"Pharmacologically induced hypotension for surgery - procedural, not intrinsic disease"
+6091,Hypotension,Not applicable,high,Propofol-induced hypotension during sedation - procedural
+3070,Hypotension,Not applicable,high,Controlled hypotension technique during surgery - procedural
+1375,Hypotension,Cardiovascular diseases,high,"Data mismatch: title/content concerns sustained HIGH blood pressure (hypertension) in childhood, not hypotension"
+2045,Hypotension,Not applicable,high,Bradycardia/hypotension during anesthesia induction - procedural
+5590,Hypotension,Maternal and neonatal disorders,high,Hypotension in preterm/low-birth-weight/ELBW/VLBW neonates
+10949,Hypotension,Maternal and neonatal disorders,high,Hypotension in preterm/low-birth-weight/ELBW/VLBW neonates
+3563,Hypotension,Maternal and neonatal disorders,high,Hypotension in preterm/low-birth-weight/ELBW/VLBW neonates
+15868,Hypotension,Not applicable,high,Hypotension after induction of general anesthesia in neonates/infants - procedural
+9058,Hypothyroidism,Other non-communicable diseases,high,"General/acquired childhood hypothyroidism, levothyroxine dosing timing"
+9157,Hypothyroidism,Maternal and neonatal disorders,high,Levothyroxine supplementation trial in <28-week preterm infants
+14700,Infection,Maternal and neonatal disorders,low,"Neonatal infection context (antibiotic exposure, gut microbiota) - probiotics trial in neonates"
+15564,Infection,Neglected tropical diseases and malaria,high,Uncomplicated Plasmodium falciparum infection = malaria
+13722,Infection,Maternal and neonatal disorders,high,"Neonatal infections, IVIG pharmacokinetics in neonates"
+18222,Infection,Neglected tropical diseases and malaria,high,Wuchereria bancrofti = lymphatic filariasis (NTD)
+13780,Infection,Other infectious diseases,low,"Generic 'systemic infections' in children, no specific pathogen/site named"
+12963,Infection,Other infectious diseases,low,"Postoperative wound infection after inguinal hernia surgery; genuine bacterial infection though procedural context, could alternatively be Not applicable"
+10965,Infection,Maternal and neonatal disorders,high,Systemic fungal infection prophylaxis in very low birth weight preterm infants
+10259,Infection,Other infectious diseases,low,"Acute severe infections, hospitalized children, no specific pathogen named"
+13317,Infection,Maternal and neonatal disorders,high,Systemic fungal infection prophylaxis in very low birthweight infants
+11836,Infection,Neglected tropical diseases and malaria,high,Wuchereria bancrofti infection = lymphatic filariasis (NTD)
+24247,Infection,Not applicable,low,"Generic 'various infections requiring antibiotics'; study is about taste/compliance of antibiotic suspensions, no specific disease"
+8888,Infection,Maternal and neonatal disorders,high,"Suspected nosocomial infection in preterm neonates, vancomycin PK"
+4052,Infection,Neglected tropical diseases and malaria,high,Wuchereria bancrofti and intestinal helminth infections - both NTDs
+2866,Infection,Other infectious diseases,low,"Generic suspected/confirmed infection requiring vancomycin in hospitalized children, no specific pathogen/site named"
+158,Infection,Neglected tropical diseases and malaria,high,Wuchereria bancrofti infection = lymphatic filariasis (NTD)
+6169,Infection,Maternal and neonatal disorders,high,Systemic fungal infection prophylaxis in preterm infants
+3285,Infection,Maternal and neonatal disorders,high,"Suspected or confirmed infection in neonates, gentamicin dosing"
+5439,Osteopenia,Neurological disorders,high,Osteopenia secondary to immobility from quadriplegic cerebral palsy
+12872,Osteopenia,Maternal and neonatal disorders,high,Osteopenia of prematurity / extremely preterm infants
+4651,Osteopenia,Mental disorders,high,Osteopenia secondary to anorexia nervosa
+4457,Osteopenia,Maternal and neonatal disorders,high,Osteopenia of prematurity in neonates
+16079,Respiratory Complications,Not applicable,high,Postoperative respiratory complications after tonsillectomy/extubation - procedural
+7289,Respiratory Complications,Maternal and neonatal disorders,high,Respiratory complications in low-birth-weight infants (phenobarbital)
+15811,anemia,Diabetes and kidney diseases,low,Anemia of chronic kidney disease - hematologic complication managed within nephrology/CKD context
+2115,anemia,Nutritional deficiencies,high,Iron-deficiency / nutritional anemia framing
+2119,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+2177,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+15426,anemia,Nutritional deficiencies,high,Iron-deficiency / nutritional anemia framing
+2191,anemia,Nutritional deficiencies,high,Iron-deficiency / nutritional anemia framing
+15381,anemia,Other infectious diseases,low,"Biannual azithromycin MDA effect on anemia; etiology unclear (likely subclinical infection-mediated), not clearly nutritional"
+15272,anemia,Nutritional deficiencies,high,Iron-deficiency / nutritional anemia framing
+15219,anemia,Nutritional deficiencies,high,Iron-deficiency / nutritional anemia framing
+15093,anemia,Nutritional deficiencies,low,"Community 'moderate anemia' treatment trial, etiology unspecified; assumed predominantly nutritional"
+75,anemia,Other non-communicable diseases,high,Cancer/chemotherapy-induced anemia - non-malignant hematologic manifestation per rubric guidance
+15061,anemia,Other non-communicable diseases,high,Sickle cell anemia - non-malignant hemoglobinopathy (GBD: Other non-communicable diseases)
+14761,anemia,Nutritional deficiencies,high,Iron-deficiency / nutritional anemia framing
+2475,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+2531,anemia,Other non-communicable diseases,high,Cancer/chemotherapy-induced anemia - non-malignant hematologic manifestation per rubric guidance
+14348,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+23745,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+23765,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+14220,anemia,Diabetes and kidney diseases,low,Anemia in children on peritoneal dialysis - complication of end-stage renal disease
+2890,anemia,Nutritional deficiencies,low,Combined iron supplementation + malaria chemoprevention; iron/nutritional framing primary
+3027,anemia,Nutritional deficiencies,high,Iron-deficiency / nutritional anemia framing
+3049,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+2028,anemia,Not applicable,high,Data mismatch: Disease field is 'anaesthesia' not anemia; trial is about anesthesia for ear tube insertion
+2260,anemia,Nutritional deficiencies,high,Iron-deficiency / nutritional anemia framing
+1635,anemia,Not applicable,high,"Data mismatch: 'anaesthesia in children' - propofol induction characteristics, not anemia"
+1455,anemia,Nutritional deficiencies,high,Iron-deficiency / nutritional anemia framing
+23517,anemia,Nutritional deficiencies,high,Iron-deficiency / nutritional anemia framing
+23514,anemia,Nutritional deficiencies,high,Iron-deficiency / nutritional anemia framing
+23513,anemia,Nutritional deficiencies,high,Iron-deficiency / nutritional anemia framing
+23485,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+23412,anemia,Nutritional deficiencies,high,Iron-deficiency / nutritional anemia framing
+23202,anemia,Nutritional deficiencies,low,"Anemia recurrence prevention post-discharge, etiology unspecified; assumed nutritional/iron"
+23178,anemia,Neglected tropical diseases and malaria,low,Severe anemia requiring transfusion in Ugandan children; high-malaria-burden setting strongly suggests malaria-associated severe anemia though not explicit in title
+23006,anemia,Other non-communicable diseases,high,Sickle cell anemia - non-malignant hemoglobinopathy (GBD: Other non-communicable diseases)
+22980,anemia,Other non-communicable diseases,high,Sickle cell anemia - non-malignant hemoglobinopathy (GBD: Other non-communicable diseases)
+22979,anemia,Other non-communicable diseases,high,Sickle cell anemia - non-malignant hemoglobinopathy (GBD: Other non-communicable diseases)
+90,anemia,Other non-communicable diseases,high,Sickle cell anemia - non-malignant hemoglobinopathy (GBD: Other non-communicable diseases)
+23657,anemia,Nutritional deficiencies,high,Iron-deficiency / nutritional anemia framing
+22947,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+22934,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+23661,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+22883,anemia,Nutritional deficiencies,high,Iron-deficiency / nutritional anemia framing
+23712,anemia,Other non-communicable diseases,high,Sickle cell anemia - non-malignant hemoglobinopathy (GBD: Other non-communicable diseases)
+18711,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+885,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+977,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+17895,anemia,Nutritional deficiencies,high,Iron-deficiency / nutritional anemia framing
+1068,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+3230,anemia,Other non-communicable diseases,high,Sickle cell anemia crisis with osteoarticular pain - hemoglobinopathy
+1302,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+22946,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+17565,anemia,Nutritional deficiencies,high,Iron-deficiency / nutritional anemia framing
+3323,anemia,Not applicable,high,"Data mismatch: anesthesia for pediatric bronchoscopy, not anemia"
+13601,anemia,Other non-communicable diseases,high,Sickle cell anemia - non-malignant hemoglobinopathy (GBD: Other non-communicable diseases)
+11239,anemia,Nutritional deficiencies,high,Iron-deficiency / nutritional anemia framing
+11166,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+11072,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+11018,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+6036,anemia,Nutritional deficiencies,high,Iron-deficiency / nutritional anemia framing
+6134,anemia,Not applicable,high,"Data mismatch: intranasal ketamine preinduction trial, no anemia mentioned"
+6320,anemia,Other non-communicable diseases,high,Sickle cell anemia - non-malignant hemoglobinopathy (GBD: Other non-communicable diseases)
+10817,anemia,Nutritional deficiencies,low,"Multi-intervention anemia-control trial (iron fortification, deworming, malaria IPT); iron fortification is primary framing"
+6425,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+10773,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+10632,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+6695,anemia,Nutritional deficiencies,high,Iron-deficiency / nutritional anemia framing
+10214,anemia,Nutritional deficiencies,high,Iron-deficiency / nutritional anemia framing
+10132,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+6882,anemia,Nutritional deficiencies,high,Iron-deficiency / nutritional anemia framing
+7029,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+7096,anemia,Other non-communicable diseases,high,Aplastic anemia (acquired non-malignant hematologic disorder)
+9486,anemia,Other non-communicable diseases,high,Sickle cell anemia - non-malignant hemoglobinopathy (GBD: Other non-communicable diseases)
+7379,anemia,Neglected tropical diseases and malaria,high,Malaria chemoprevention in postdischarge management of severe anemia - explicitly malaria-focused
+9427,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+9352,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+8142,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+8143,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+23774,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+8620,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+5551,anemia,Other non-communicable diseases,high,Cancer/chemotherapy-induced anemia - non-malignant hematologic manifestation per rubric guidance
+13617,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+5353,anemia,Not applicable,high,"Data mismatch: anesthesia for tonsillectomy, not anemia"
+5245,anemia,Not applicable,high,"Data mismatch: anesthesia for tracheal intubation, not anemia"
+8893,anemia,Other non-communicable diseases,high,Cancer/chemotherapy-induced anemia - non-malignant hematologic manifestation per rubric guidance
+13209,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+3592,anemia,Other non-communicable diseases,high,Fanconi anemia (genetic bone marrow failure syndrome)
+13174,anemia,Other non-communicable diseases,high,Cancer/chemotherapy-induced anemia - non-malignant hematologic manifestation per rubric guidance
+13054,anemia,Not applicable,high,"Data mismatch: anesthesia for CT brain imaging, not anemia"
+4104,anemia,Other non-communicable diseases,high,Cancer/chemotherapy-induced anemia - non-malignant hematologic manifestation per rubric guidance
+12927,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+4182,anemia,Not applicable,high,"Data mismatch: oral preanesthetic medication trial, not anemia"
+4319,anemia,Other non-communicable diseases,high,Sickle cell anemia - non-malignant hemoglobinopathy (GBD: Other non-communicable diseases)
+12707,anemia,Other non-communicable diseases,high,Sickle cell anemia - non-malignant hemoglobinopathy (GBD: Other non-communicable diseases)
+5246,anemia,Not applicable,high,"Data mismatch: halothane-propofol anesthesia for tracheal intubation, not anemia"
+4618,anemia,Nutritional deficiencies,low,Iron-fortified food + malaria IPT combination trial; iron/nutritional framing primary
+12571,anemia,Nutritional deficiencies,high,Iron-deficiency / nutritional anemia framing
+12068,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+12067,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+12066,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+4715,anemia,Nutritional deficiencies,high,Iron-deficiency / nutritional anemia framing
+4730,anemia,Other non-communicable diseases,high,Aplastic anemia (acquired non-malignant hematologic disorder)
+4986,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+5117,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+5175,anemia,Other non-communicable diseases,high,Fanconi anemia (genetic bone marrow failure syndrome)
+11616,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+5233,anemia,Other non-communicable diseases,high,Sickle cell anemia - non-malignant hemoglobinopathy (GBD: Other non-communicable diseases)
+5238,anemia,Not applicable,high,"Data mismatch: anesthesia in various pediatric surgeries, not anemia"
+12069,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+9147,anemia,Maternal and neonatal disorders,high,Anemia of prematurity / preterm or low-birth-weight infants
+9708,invasive fungal infection,Maternal and neonatal disorders,high,Invasive fungal infection/colonization in very low birth weight infants
+3141,invasive fungal infection,Other infectious diseases,high,Invasive fungal disease in pediatric allogeneic HCT recipients - infection is the treated disease
+15681,Behavior management,Not applicable,high,"postoperative behavior change after anesthesia, transient perioperative phenomenon"
+14857,Behavior management,Not applicable,high,"dental procedural sedation/behavior management, not a disease"
+1007,Behavior management,Not applicable,high,"dental procedural sedation, not a disease"
+8111,Behavior management,Not applicable,high,"dental procedural sedation, not a disease"
+1750,Behavior management,Maternal and neonatal disorders,low,thyroxine supplementation and behavioral outcome in very preterm infants; prematurity framing
+9043,Behavior management,Not applicable,high,"dental procedural sedation, not a disease"
+9591,Behavior management,Not applicable,high,"preoperative anxiety/behavior before anesthesia induction, procedural"
+13085,Behavior management,Mental disorders,high,behavioral disturbance treated with risperidone in children with intellectual disability
+2412,Behavior management,Mental disorders,low,"juvenile delinquent boys treated with stimulant/anticonvulsant, conduct-disorder-type framing"
+4368,Behavior management,Mental disorders,high,explicit 'behavioral disorders' treated with psychotropic drugs
+3478,Mechanically ventilated critically ill children,Not applicable,high,"generic ICU sedation trial, no specific disease named"
+8537,Mechanically ventilated critically ill children,Respiratory infections and tuberculosis,high,"RSV lower respiratory tract disease, explicit infection"
+13650,Mechanically ventilated critically ill children,Chronic respiratory diseases,high,"explicit bronchopulmonary dysplasia prevention, per established BPD convention"
+13652,Mechanically ventilated critically ill children,Maternal and neonatal disorders,low,growth/neurodevelopmental outcome after hydrocortisone in extremely low birth weight infants; prematurity framing rather than respiratory-specific
+13770,Mechanically ventilated critically ill children,Not applicable,high,"generic ICU analgesia/sedation trial, no specific disease named"
+13649,Mechanically ventilated critically ill children,Chronic respiratory diseases,high,"explicit chronic lung disease (BPD) prevention, per established BPD convention"
+6467,Undergoing surgery,Not applicable,high,"generic surgery, no specific disease named"
+14067,Undergoing surgery,Other non-communicable diseases,high,explicit congenital heart disease surgery
+8995,cough,Not applicable,high,"fentanyl-induced cough, a transient anesthesia-induction drug side effect"
+12598,cough,Not applicable,high,"generic cough symptom, cough-suppressant efficacy trial, no cause named"
+11570,cough,Respiratory infections and tuberculosis,high,explicit upper respiratory infection-induced cough
+9877,cough,Chronic respiratory diseases,low,"recurrent/chronic wheeze-cough treated with budesonide, asthma/reactive-airway framing"
+9791,cough,Respiratory infections and tuberculosis,high,explicit upper respiratory infection with cough
+14398,cough,Respiratory infections and tuberculosis,high,explicit nocturnal cough due to upper respiratory infection
+13347,cough,Not applicable,high,"generic 'dry cough' symptom trial, no cause named"
+153,cough,Digestive diseases,high,explicit gastroesophageal reflux-related cough
+15017,cough,Chronic respiratory diseases,low,"persistent wheezing with atopic tendency treated with inhaled fluticasone, asthma-type framing"
+830,cough,Chronic respiratory diseases,low,"chronic cough/wheeze treated with ketotifen, asthma-type framing"
+1089,cough,Not applicable,high,"generic non-productive cough symptom trial, no cause named"
+1967,cough,Not applicable,high,"generic persisting-cough symptom trial, no cause named"
+2126,cough,Chronic respiratory diseases,low,"recurrent cough treated with inhaled salbutamol/beclomethasone, asthma-type framing"
+2327,cough,Chronic respiratory diseases,low,"explicit allergic cough with pollen allergy, atopic/chronic-respiratory framing consistent with rhinitis convention"
+2667,cough,Respiratory infections and tuberculosis,low,"Moraxella catarrhalis-associated cough, bacterial respiratory infection"
+8285,cough,Respiratory infections and tuberculosis,low,"chronic wet cough treated with amoxicillin-clavulanate, bacterial respiratory infection (protracted bacterial bronchitis)"
+2723,cough,Chronic respiratory diseases,low,"persistent nocturnal cough treated with high-dose inhaled corticosteroid, asthma-type framing"
+4741,cough,Respiratory infections and tuberculosis,low,"persistent cough with Moraxella catarrhalis role investigated, bacterial respiratory infection"
+5718,cough,Respiratory infections and tuberculosis,high,"explicit common-cold-induced cough, viral URI"
+6085,cough,Not applicable,high,"generic acute cough symptom trial (cough linctus), no cause named"
+6861,cough,Not applicable,high,"periextubation coughing, anesthesia-procedural phenomenon"
+6920,cough,Not applicable,high,"remifentanil-induced cough, a transient anesthesia drug side effect"
+7462,cough,Other infectious diseases,high,"explicit pertussis (whooping cough), per rubric's explicit inclusion"
+4349,cough,Not applicable,high,"fentanyl-induced cough, a transient anesthesia-induction drug side effect"
+7581,cough,Respiratory infections and tuberculosis,high,"acute inspiratory stridor and barking cough is croup, a viral upper respiratory infection"

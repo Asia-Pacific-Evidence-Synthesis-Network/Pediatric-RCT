@@ -1,0 +1,5 @@
+income_group,n_trials,pct_registered,pct_funding_reported,pct_data_sharing_stmt,n_registered,pct_ipd_of_registered
+LIC,565,32.7,78.8,5.7,185,3.2
+LMIC,1296,35.3,50.8,5.9,458,14.2
+UMIC,1394,38.1,56.0,5.5,531,14.5
+HIC,4199,27.9,69.5,4.3,1171,5.7

@@ -1,0 +1,1403 @@
+{
+  "matched": [
+    [
+      "abacavir + lamivudine",
+      "abacavir",
+      11
+    ],
+    [
+      "acetylcysteine",
+      "acetylcysteine",
+      10
+    ],
+    [
+      "aciclovir",
+      "aciclovir",
+      2
+    ],
+    [
+      "adalimumab",
+      "adalimumab",
+      13
+    ],
+    [
+      "albendazole",
+      "albendazole",
+      81
+    ],
+    [
+      "allopurinol",
+      "allopurinol",
+      9
+    ],
+    [
+      "amikacin",
+      "amikacin",
+      28
+    ],
+    [
+      "amitriptyline",
+      "amitriptyline",
+      17
+    ],
+    [
+      "amodiaquine",
+      "amodiaquine",
+      110
+    ],
+    [
+      "amoxicillin",
+      "amoxicillin",
+      210
+    ],
+    [
+      "amoxicillin + clavulanic acid",
+      "amoxicillin",
+      210
+    ],
+    [
+      "amphotericin b",
+      "amphotericin b",
+      11
+    ],
+    [
+      "ampicillin",
+      "ampicillin",
+      47
+    ],
+    [
+      "aprepitant",
+      "aprepitant",
+      9
+    ],
+    [
+      "arsenic trioxide",
+      "arsenic trioxide",
+      3
+    ],
+    [
+      "artemether",
+      "artemether",
+      100
+    ],
+    [
+      "artemether + lumefantrine",
+      "artemether",
+      100
+    ],
+    [
+      "artesunate",
+      "artesunate",
+      137
+    ],
+    [
+      "artesunate + amodiaquine",
+      "artesunate",
+      137
+    ],
+    [
+      "artesunate + mefloquine",
+      "artesunate",
+      137
+    ],
+    [
+      "artesunate + pyronaridine tetraphosphate",
+      "artesunate",
+      137
+    ],
+    [
+      "ascorbic acid",
+      "ascorbic acid",
+      5
+    ],
+    [
+      "asparaginase",
+      "asparaginase",
+      15
+    ],
+    [
+      "atropine",
+      "atropine",
+      124
+    ],
+    [
+      "azathioprine",
+      "azathioprine",
+      9
+    ],
+    [
+      "azithromycin",
+      "azithromycin",
+      195
+    ],
+    [
+      "benzathine benzylpenicillin",
+      "benzathine benzylpenicillin",
+      4
+    ],
+    [
+      "benznidazole",
+      "benznidazole",
+      2
+    ],
+    [
+      "benzoyl peroxide",
+      "benzoyl peroxide",
+      2
+    ],
+    [
+      "benzyl benzoate",
+      "benzyl benzoate",
+      2
+    ],
+    [
+      "benzylpenicillin",
+      "benzylpenicillin",
+      5
+    ],
+    [
+      "betamethasone",
+      "betamethasone",
+      13
+    ],
+    [
+      "bleomycin",
+      "bleomycin",
+      10
+    ],
+    [
+      "budesonide",
+      "budesonide",
+      227
+    ],
+    [
+      "bupivacaine",
+      "bupivacaine",
+      267
+    ],
+    [
+      "caffeine citrate",
+      "caffeine citrate",
+      9
+    ],
+    [
+      "calcipotriol",
+      "calcipotriol",
+      2
+    ],
+    [
+      "carbamazepine",
+      "carbamazepine",
+      13
+    ],
+    [
+      "carboplatin",
+      "carboplatin",
+      13
+    ],
+    [
+      "cefazolin",
+      "cefazolin",
+      5
+    ],
+    [
+      "cefixime",
+      "cefixime",
+      34
+    ],
+    [
+      "cefotaxime",
+      "cefotaxime",
+      19
+    ],
+    [
+      "ceftazidime",
+      "ceftazidime",
+      20
+    ],
+    [
+      "ceftazidime + avibactam",
+      "ceftazidime",
+      20
+    ],
+    [
+      "ceftolozane + tazobactam",
+      "ceftolozane",
+      1
+    ],
+    [
+      "ceftriaxone",
+      "ceftriaxone",
+      50
+    ],
+    [
+      "cefuroxime",
+      "cefuroxime",
+      27
+    ],
+    [
+      "chloramphenicol",
+      "chloramphenicol",
+      16
+    ],
+    [
+      "chlorhexidine",
+      "chlorhexidine",
+      42
+    ],
+    [
+      "chloroquine",
+      "chloroquine",
+      55
+    ],
+    [
+      "ciclosporin",
+      "ciclosporin",
+      6
+    ],
+    [
+      "ciprofloxacin",
+      "ciprofloxacin",
+      38
+    ],
+    [
+      "cisplatin",
+      "cisplatin",
+      18
+    ],
+    [
+      "clarithromycin",
+      "clarithromycin",
+      58
+    ],
+    [
+      "clindamycin",
+      "clindamycin",
+      25
+    ],
+    [
+      "cloxacillin",
+      "cloxacillin",
+      5
+    ],
+    [
+      "coagulation factor viii",
+      "coagulation factor viii",
+      1
+    ],
+    [
+      "colistin",
+      "colistin",
+      8
+    ],
+    [
+      "cyclophosphamide",
+      "cyclophosphamide",
+      49
+    ],
+    [
+      "cycloserine",
+      "cycloserine",
+      1
+    ],
+    [
+      "cytarabine",
+      "cytarabine",
+      34
+    ],
+    [
+      "dacarbazine",
+      "dacarbazine",
+      7
+    ],
+    [
+      "daclatasvir + sofosbuvir",
+      "sofosbuvir",
+      1
+    ],
+    [
+      "dactinomycin",
+      "dactinomycin",
+      16
+    ],
+    [
+      "dapsone",
+      "dapsone",
+      20
+    ],
+    [
+      "darunavir",
+      "darunavir",
+      1
+    ],
+    [
+      "dasatinib",
+      "dasatinib",
+      1
+    ],
+    [
+      "daunorubicin",
+      "daunorubicin",
+      18
+    ],
+    [
+      "deferasirox",
+      "deferasirox",
+      8
+    ],
+    [
+      "deferoxamine",
+      "deferoxamine",
+      4
+    ],
+    [
+      "desmopressin",
+      "desmopressin",
+      61
+    ],
+    [
+      "dexamethasone",
+      "dexamethasone",
+      302
+    ],
+    [
+      "dextran 70",
+      "dextran 70",
+      1
+    ],
+    [
+      "diazepam",
+      "diazepam",
+      58
+    ],
+    [
+      "diazoxide",
+      "diazoxide",
+      2
+    ],
+    [
+      "diethylcarbamazine",
+      "diethylcarbamazine",
+      4
+    ],
+    [
+      "digoxin",
+      "digoxin",
+      4
+    ],
+    [
+      "dihydroartemisinin + piperaquine phosphate",
+      "dihydroartemisinin",
+      42
+    ],
+    [
+      "docusate sodium",
+      "docusate sodium",
+      1
+    ],
+    [
+      "dolutegravir",
+      "dolutegravir",
+      4
+    ],
+    [
+      "dopamine",
+      "dopamine",
+      20
+    ],
+    [
+      "doxorubicin",
+      "doxorubicin",
+      35
+    ],
+    [
+      "doxorubicin (as pegylated liposomal)",
+      "doxorubicin",
+      35
+    ],
+    [
+      "doxycycline",
+      "doxycycline",
+      7
+    ],
+    [
+      "enalapril",
+      "enalapril",
+      14
+    ],
+    [
+      "enoxaparin",
+      "enoxaparin",
+      5
+    ],
+    [
+      "entecavir",
+      "entecavir",
+      3
+    ],
+    [
+      "epinephrine (adrenaline)",
+      "epinephrine",
+      135
+    ],
+    [
+      "erythromycin",
+      "erythromycin",
+      67
+    ],
+    [
+      "ethambutol",
+      "ethambutol",
+      2
+    ],
+    [
+      "ethanol",
+      "ethanol",
+      5
+    ],
+    [
+      "ethosuximide",
+      "ethosuximide",
+      3
+    ],
+    [
+      "etoposide",
+      "etoposide",
+      23
+    ],
+    [
+      "everolimus",
+      "everolimus",
+      8
+    ],
+    [
+      "filgrastim",
+      "filgrastim",
+      26
+    ],
+    [
+      "fluconazole",
+      "fluconazole",
+      22
+    ],
+    [
+      "fludrocortisone",
+      "fludrocortisone",
+      3
+    ],
+    [
+      "fluoride",
+      "fluoride",
+      21
+    ],
+    [
+      "fluorouracil",
+      "fluorouracil",
+      4
+    ],
+    [
+      "folic acid",
+      "folic acid",
+      14
+    ],
+    [
+      "fosfomycin",
+      "fosfomycin",
+      2
+    ],
+    [
+      "furosemide",
+      "furosemide",
+      37
+    ],
+    [
+      "gentamicin",
+      "gentamicin",
+      51
+    ],
+    [
+      "glucagon",
+      "glucagon",
+      4
+    ],
+    [
+      "glucose",
+      "glucose",
+      6
+    ],
+    [
+      "griseofulvin",
+      "griseofulvin",
+      9
+    ],
+    [
+      "halothane",
+      "halothane",
+      44
+    ],
+    [
+      "hepatitis b vaccine",
+      "hepatitis b vaccine",
+      1
+    ],
+    [
+      "hydrochlorothiazide",
+      "hydrochlorothiazide",
+      7
+    ],
+    [
+      "hydrocortisone",
+      "hydrocortisone",
+      52
+    ],
+    [
+      "hydroxocobalamin",
+      "hydroxocobalamin",
+      2
+    ],
+    [
+      "hydroxycarbamide (hydroxyurea)",
+      "hydroxyurea",
+      14
+    ],
+    [
+      "hydroxychloroquine",
+      "hydroxychloroquine",
+      6
+    ],
+    [
+      "ibuprofen",
+      "ibuprofen",
+      164
+    ],
+    [
+      "ifosfamide",
+      "ifosfamide",
+      7
+    ],
+    [
+      "imatinib",
+      "imatinib",
+      1
+    ],
+    [
+      "irinotecan",
+      "irinotecan",
+      4
+    ],
+    [
+      "isoflurane",
+      "isoflurane",
+      37
+    ],
+    [
+      "isoniazid",
+      "isoniazid",
+      9
+    ],
+    [
+      "isoniazid + pyrazinamide + rifampicin",
+      "isoniazid",
+      9
+    ],
+    [
+      "isoniazid + pyridoxine + sulfamethoxazole + trimethoprim",
+      "isoniazid",
+      9
+    ],
+    [
+      "isoniazid + rifampicin",
+      "isoniazid",
+      9
+    ],
+    [
+      "isoniazid + rifapentine",
+      "isoniazid",
+      9
+    ],
+    [
+      "itraconazole",
+      "itraconazole",
+      5
+    ],
+    [
+      "ivermectin",
+      "ivermectin",
+      18
+    ],
+    [
+      "ketamine",
+      "ketamine",
+      315
+    ],
+    [
+      "lactulose",
+      "lactulose",
+      3
+    ],
+    [
+      "lamivudine",
+      "lamivudine",
+      31
+    ],
+    [
+      "lamivudine + zidovudine",
+      "lamivudine",
+      31
+    ],
+    [
+      "lamotrigine",
+      "lamotrigine",
+      13
+    ],
+    [
+      "levamisole",
+      "levamisole",
+      16
+    ],
+    [
+      "levetiracetam",
+      "levetiracetam",
+      40
+    ],
+    [
+      "levofloxacin",
+      "levofloxacin",
+      8
+    ],
+    [
+      "levothyroxine",
+      "levothyroxine",
+      34
+    ],
+    [
+      "lidocaine",
+      "lidocaine",
+      263
+    ],
+    [
+      "lidocaine + epinephrine (adrenaline)",
+      "lidocaine",
+      263
+    ],
+    [
+      "linezolid",
+      "linezolid",
+      6
+    ],
+    [
+      "lopinavir + ritonavir",
+      "lopinavir",
+      17
+    ],
+    [
+      "loratadine",
+      "loratadine",
+      18
+    ],
+    [
+      "lorazepam",
+      "lorazepam",
+      13
+    ],
+    [
+      "mannitol",
+      "mannitol",
+      9
+    ],
+    [
+      "mebendazole",
+      "mebendazole",
+      27
+    ],
+    [
+      "mefloquine",
+      "mefloquine",
+      18
+    ],
+    [
+      "meglumine antimoniate",
+      "meglumine antimoniate",
+      3
+    ],
+    [
+      "mercaptopurine",
+      "mercaptopurine",
+      24
+    ],
+    [
+      "meropenem",
+      "meropenem",
+      10
+    ],
+    [
+      "metformin",
+      "metformin",
+      83
+    ],
+    [
+      "methadone",
+      "methadone",
+      6
+    ],
+    [
+      "methimazole",
+      "methimazole",
+      1
+    ],
+    [
+      "methotrexate",
+      "methotrexate",
+      94
+    ],
+    [
+      "methylprednisolone",
+      "methylprednisolone",
+      74
+    ],
+    [
+      "metoclopramide",
+      "metoclopramide",
+      35
+    ],
+    [
+      "metronidazole",
+      "metronidazole",
+      48
+    ],
+    [
+      "micafungin",
+      "micafungin",
+      1
+    ],
+    [
+      "miconazole",
+      "miconazole",
+      3
+    ],
+    [
+      "midazolam",
+      "midazolam",
+      397
+    ],
+    [
+      "miltefosine",
+      "miltefosine",
+      2
+    ],
+    [
+      "morphine",
+      "morphine",
+      130
+    ],
+    [
+      "moxifloxacin",
+      "moxifloxacin",
+      2
+    ],
+    [
+      "mupirocin",
+      "mupirocin",
+      7
+    ],
+    [
+      "naloxone",
+      "naloxone",
+      10
+    ],
+    [
+      "neostigmine",
+      "neostigmine",
+      18
+    ],
+    [
+      "nevirapine",
+      "nevirapine",
+      25
+    ],
+    [
+      "nitrofurantoin",
+      "nitrofurantoin",
+      7
+    ],
+    [
+      "nitrous oxide",
+      "nitrous oxide",
+      60
+    ],
+    [
+      "nystatin",
+      "nystatin",
+      7
+    ],
+    [
+      "ofloxacin",
+      "ofloxacin",
+      9
+    ],
+    [
+      "omeprazole",
+      "omeprazole",
+      38
+    ],
+    [
+      "ondansetron",
+      "ondansetron",
+      96
+    ],
+    [
+      "oseltamivir",
+      "oseltamivir",
+      8
+    ],
+    [
+      "oxamniquine",
+      "oxamniquine",
+      1
+    ],
+    [
+      "oxygen",
+      "oxygen",
+      2
+    ],
+    [
+      "paracetamol (acetaminophen)",
+      "paracetamol",
+      206
+    ],
+    [
+      "pegaspargase",
+      "pegaspargase",
+      9
+    ],
+    [
+      "pegfilgrastim",
+      "pegfilgrastim",
+      4
+    ],
+    [
+      "permethrin",
+      "permethrin",
+      6
+    ],
+    [
+      "phenobarbital",
+      "phenobarbital",
+      56
+    ],
+    [
+      "phenoxymethylpenicillin",
+      "phenoxymethylpenicillin",
+      5
+    ],
+    [
+      "phenytoin",
+      "phenytoin",
+      12
+    ],
+    [
+      "piperacillin + tazobactam",
+      "piperacillin",
+      21
+    ],
+    [
+      "polymyxin b",
+      "polymyxin b",
+      4
+    ],
+    [
+      "potassium iodide",
+      "potassium iodide",
+      1
+    ],
+    [
+      "praziquantel",
+      "praziquantel",
+      44
+    ],
+    [
+      "prednisolone",
+      "prednisolone",
+      140
+    ],
+    [
+      "primaquine",
+      "primaquine",
+      12
+    ],
+    [
+      "procaine benzylpenicillin",
+      "procaine benzylpenicillin",
+      3
+    ],
+    [
+      "procarbazine",
+      "procarbazine",
+      8
+    ],
+    [
+      "proguanil",
+      "proguanil",
+      6
+    ],
+    [
+      "propofol",
+      "propofol",
+      272
+    ],
+    [
+      "propranolol",
+      "propranolol",
+      48
+    ],
+    [
+      "pyrantel",
+      "pyrantel",
+      5
+    ],
+    [
+      "pyrazinamide",
+      "pyrazinamide",
+      3
+    ],
+    [
+      "pyridostigmine",
+      "pyridostigmine",
+      3
+    ],
+    [
+      "pyridoxine",
+      "pyridoxine",
+      9
+    ],
+    [
+      "pyrimethamine",
+      "pyrimethamine",
+      121
+    ],
+    [
+      "quinine",
+      "quinine",
+      21
+    ],
+    [
+      "ranitidine",
+      "ranitidine",
+      22
+    ],
+    [
+      "rasburicase",
+      "rasburicase",
+      2
+    ],
+    [
+      "ribavirin",
+      "ribavirin",
+      25
+    ],
+    [
+      "riboflavin",
+      "riboflavin",
+      2
+    ],
+    [
+      "rifampicin",
+      "rifampicin",
+      7
+    ],
+    [
+      "ritonavir",
+      "ritonavir",
+      26
+    ],
+    [
+      "rituximab",
+      "rituximab",
+      15
+    ],
+    [
+      "salbutamol",
+      "salbutamol",
+      180
+    ],
+    [
+      "salicylic acid",
+      "salicylic acid",
+      5
+    ],
+    [
+      "selenium sulfide",
+      "selenium sulfide",
+      1
+    ],
+    [
+      "senna",
+      "senna",
+      2
+    ],
+    [
+      "sevoflurane",
+      "sevoflurane",
+      184
+    ],
+    [
+      "silver diamine fluoride",
+      "silver diamine fluoride",
+      14
+    ],
+    [
+      "silver sulfadiazine",
+      "silver sulfadiazine",
+      5
+    ],
+    [
+      "sodium chloride",
+      "sodium chloride",
+      1
+    ],
+    [
+      "sofosbuvir",
+      "sofosbuvir",
+      1
+    ],
+    [
+      "sofosbuvir + velpatasvir",
+      "sofosbuvir",
+      1
+    ],
+    [
+      "spironolactone",
+      "spironolactone",
+      9
+    ],
+    [
+      "streptomycin",
+      "streptomycin",
+      2
+    ],
+    [
+      "succimer",
+      "succimer",
+      8
+    ],
+    [
+      "sulfadiazine",
+      "sulfadiazine",
+      4
+    ],
+    [
+      "sulfadoxine + pyrimethamine",
+      "sulfadoxine",
+      107
+    ],
+    [
+      "sulfamethoxazole + trimethoprim",
+      "sulfamethoxazole",
+      98
+    ],
+    [
+      "surfactant",
+      "surfactant",
+      18
+    ],
+    [
+      "suxamethonium",
+      "suxamethonium",
+      8
+    ],
+    [
+      "tacrolimus",
+      "tacrolimus",
+      48
+    ],
+    [
+      "terbinafine",
+      "terbinafine",
+      14
+    ],
+    [
+      "tetracaine",
+      "tetracaine",
+      42
+    ],
+    [
+      "tetracycline",
+      "tetracycline",
+      11
+    ],
+    [
+      "tioguanine",
+      "tioguanine",
+      3
+    ],
+    [
+      "triclabendazole",
+      "triclabendazole",
+      1
+    ],
+    [
+      "trimethoprim",
+      "trimethoprim",
+      102
+    ],
+    [
+      "tropicamide",
+      "tropicamide",
+      10
+    ],
+    [
+      "urea",
+      "urea",
+      3
+    ],
+    [
+      "valproic acid (sodium valproate)",
+      "valproic acid",
+      41
+    ],
+    [
+      "vancomycin",
+      "vancomycin",
+      23
+    ],
+    [
+      "vecuronium",
+      "vecuronium",
+      8
+    ],
+    [
+      "vinblastine",
+      "vinblastine",
+      6
+    ],
+    [
+      "vincristine",
+      "vincristine",
+      80
+    ],
+    [
+      "vinorelbine",
+      "vinorelbine",
+      1
+    ],
+    [
+      "voriconazole",
+      "voriconazole",
+      2
+    ],
+    [
+      "warfarin",
+      "warfarin",
+      3
+    ],
+    [
+      "xylometazoline",
+      "xylometazoline",
+      4
+    ],
+    [
+      "zidovudine",
+      "zidovudine",
+      25
+    ],
+    [
+      "zinc sulfate",
+      "zinc sulfate",
+      6
+    ]
+  ],
+  "unmatched": [
+    "acetic acid",
+    "acetylsalicylic acid",
+    "alcohol based hand rub",
+    "all-trans retinoid acid (atra)",
+    "ansuvimab",
+    "anti-rabies immunoglobulin",
+    "anti-rabies monoclonal antibodies",
+    "anti-tetanus immunoglobulin",
+    "antivenom immunoglobulin",
+    "atoltivimab + maftivimab + odesivimab",
+    "barium sulfate",
+    "bcg vaccine",
+    "bedaquiline",
+    "calamine",
+    "calcium folinate (leucovorin calcium)",
+    "calcium gluconate",
+    "cefalexin",
+    "charcoal, activated",
+    "chlorine base compound",
+    "chloroxylenol",
+    "cholera vaccine",
+    "clofazimine",
+    "coagulation factor ix",
+    "coal tar",
+    "colecalciferol",
+    "cryoprecipitate, pathogen-reduced",
+    "cyclizine",
+    "daclatasvir",
+    "delamanid",
+    "dengue vaccine",
+    "diloxanide",
+    "dimercaprol",
+    "diphtheria antitoxin",
+    "diphtheria vaccine",
+    "eflornithine",
+    "equine rabies immunoglobulin",
+    "erythropoiesis-stimulating agents",
+    "ethionamide",
+    "ferrous salt",
+    "fexinidazole",
+    "flucytosine",
+    "fluorescein",
+    "fomepizole",
+    "frozen plasma",
+    "glass ionomer cement",
+    "glecaprevir + pibrentasvir",
+    "glucose with sodium chloride",
+    "glutaral",
+    "haemophilus influenzae type b vaccine",
+    "heparin sodium",
+    "hepatitis a vaccine",
+    "human papilloma virus (hpv) vaccine",
+    "hyoscine hydrobromide",
+    "influenza vaccine",
+    "insulin injection (soluble)",
+    "intermediate-acting insulin",
+    "intraperitoneal dialysis solution",
+    "iodine",
+    "japanese encephalitis vaccine",
+    "long-acting insulin analogues",
+    "lugol's solution",
+    "measles vaccine",
+    "melarsoprol",
+    "meningococcal meningitis vaccine",
+    "mesna",
+    "multiple micronutrient powder",
+    "mumps vaccine",
+    "natamycin",
+    "nifurtimox",
+    "nilotinib",
+    "normal immunoglobulin",
+    "oral rehydration salts",
+    "oxaliplatin",
+    "p-aminosalicylate sodium",
+    "paclitaxel",
+    "pancreatic enzymes",
+    "paromomycin",
+    "pentamidine",
+    "pertussis vaccine",
+    "phytomenadione",
+    "platelets",
+    "pneumococcal vaccine",
+    "podophyllum resin",
+    "poliomyelitis vaccine",
+    "potassium chloride",
+    "potassium permanganate",
+    "povidone iodine",
+    "propylthiouracil",
+    "prostaglandin e1",
+    "protamine sulfate",
+    "rabies vaccine",
+    "raltegravir",
+    "ready-to-use therapeutic food",
+    "realgar-indigo naturalis formulation",
+    "red blood cells",
+    "resin-based composite (high-viscosity)",
+    "resin-based composite (low-viscosity)",
+    "retinol",
+    "rifapentine",
+    "rotavirus vaccine",
+    "rubella vaccine",
+    "sodium calcium edetate",
+    "sodium hydrogen carbonate",
+    "sodium lactate, compound solution",
+    "suramin sodium",
+    "tetanus vaccine",
+    "thiamine",
+    "tick-borne encephalitis vaccine",
+    "triamcinolone hexacetonide",
+    "tuberculin, purified protein derivative (ppd)",
+    "typhoid vaccine",
+    "valganciclovir",
+    "varicella vaccine",
+    "water for injection",
+    "whole blood",
+    "yellow fever vaccine",
+    "niclosamide",
+    "sodium stibogluconate"
+  ],
+  "group_coverage": {
+    "A": {
+      "n_total": 29,
+      "n_matched": 15,
+      "pct": 51.7
+    },
+    "B": {
+      "n_total": 21,
+      "n_matched": 8,
+      "pct": 38.1
+    },
+    "C": {
+      "n_total": 9,
+      "n_matched": 8,
+      "pct": 88.9
+    },
+    "D": {
+      "n_total": 21,
+      "n_matched": 10,
+      "pct": 47.6
+    },
+    "G": {
+      "n_total": 0,
+      "n_matched": 0,
+      "pct": null
+    },
+    "H": {
+      "n_total": 15,
+      "n_matched": 12,
+      "pct": 80.0
+    },
+    "J": {
+      "n_total": 121,
+      "n_matched": 77,
+      "pct": 63.6
+    },
+    "L": {
+      "n_total": 41,
+      "n_matched": 35,
+      "pct": 85.4
+    },
+    "M": {
+      "n_total": 3,
+      "n_matched": 3,
+      "pct": 100.0
+    },
+    "N": {
+      "n_total": 29,
+      "n_matched": 28,
+      "pct": 96.6
+    },
+    "P": {
+      "n_total": 40,
+      "n_matched": 30,
+      "pct": 75.0
+    },
+    "R": {
+      "n_total": 6,
+      "n_matched": 6,
+      "pct": 100.0
+    },
+    "S": {
+      "n_total": 3,
+      "n_matched": 1,
+      "pct": 33.3
+    },
+    "V": {
+      "n_total": 21,
+      "n_matched": 8,
+      "pct": 38.1
+    }
+  },
+  "overall_matched": 241,
+  "overall_total": 359
+}

@@ -1,0 +1,6 @@
+# Superseded/unused analysis scripts and historical pipeline scripts -- kept locally for
+# reference but not part of the tracked manuscript analysis codebase.
+NEEDS_REVIEW/
+_legacy_pipeline_history/
+.DS_Store
+**/.DS_Store

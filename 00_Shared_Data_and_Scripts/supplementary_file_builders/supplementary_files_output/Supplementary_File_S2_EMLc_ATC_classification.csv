@@ -1,0 +1,360 @@
+emlc_medicine_name,ATC_first_level_code,ATC_first_level_group,has_supporting_pediatric_RCT,n_supporting_trials
+aprepitant,A,Alimentary tract and metabolism,Yes,9
+ascorbic acid,A,Alimentary tract and metabolism,Yes,5
+atropine,A,Alimentary tract and metabolism,Yes,124
+calcium gluconate,A,Alimentary tract and metabolism,No,0
+colecalciferol,A,Alimentary tract and metabolism,No,0
+cyclizine,A,Alimentary tract and metabolism,No,0
+docusate sodium,A,Alimentary tract and metabolism,Yes,1
+fluoride,A,Alimentary tract and metabolism,Yes,21
+hyoscine hydrobromide,A,Alimentary tract and metabolism,No,0
+insulin injection (soluble),A,Alimentary tract and metabolism,No,0
+intermediate-acting insulin,A,Alimentary tract and metabolism,No,0
+lactulose,A,Alimentary tract and metabolism,Yes,3
+long-acting insulin analogues,A,Alimentary tract and metabolism,No,0
+metformin,A,Alimentary tract and metabolism,Yes,83
+metoclopramide,A,Alimentary tract and metabolism,Yes,35
+multiple micronutrient powder,A,Alimentary tract and metabolism,No,0
+omeprazole,A,Alimentary tract and metabolism,Yes,38
+ondansetron,A,Alimentary tract and metabolism,Yes,96
+oral rehydration salts,A,Alimentary tract and metabolism,No,0
+pancreatic enzymes,A,Alimentary tract and metabolism,No,0
+potassium chloride,A,Alimentary tract and metabolism,No,0
+pyridoxine,A,Alimentary tract and metabolism,Yes,9
+ranitidine,A,Alimentary tract and metabolism,Yes,22
+ready-to-use therapeutic food,A,Alimentary tract and metabolism,No,0
+retinol,A,Alimentary tract and metabolism,No,0
+riboflavin,A,Alimentary tract and metabolism,Yes,2
+senna,A,Alimentary tract and metabolism,Yes,2
+thiamine,A,Alimentary tract and metabolism,No,0
+zinc sulfate,A,Alimentary tract and metabolism,Yes,6
+coagulation factor ix,B,Blood and blood-forming organs,No,0
+coagulation factor viii,B,Blood and blood-forming organs,Yes,1
+"cryoprecipitate, pathogen-reduced",B,Blood and blood-forming organs,No,0
+dextran 70,B,Blood and blood-forming organs,Yes,1
+enoxaparin,B,Blood and blood-forming organs,Yes,5
+erythropoiesis-stimulating agents,B,Blood and blood-forming organs,No,0
+ferrous salt,B,Blood and blood-forming organs,No,0
+folic acid,B,Blood and blood-forming organs,Yes,14
+frozen plasma,B,Blood and blood-forming organs,No,0
+glucose,B,Blood and blood-forming organs,Yes,6
+glucose with sodium chloride,B,Blood and blood-forming organs,No,0
+heparin sodium,B,Blood and blood-forming organs,No,0
+mannitol,B,Blood and blood-forming organs,Yes,9
+phytomenadione,B,Blood and blood-forming organs,No,0
+platelets,B,Blood and blood-forming organs,No,0
+red blood cells,B,Blood and blood-forming organs,No,0
+sodium chloride,B,Blood and blood-forming organs,Yes,1
+sodium hydrogen carbonate,B,Blood and blood-forming organs,No,0
+"sodium lactate, compound solution",B,Blood and blood-forming organs,No,0
+warfarin,B,Blood and blood-forming organs,Yes,3
+whole blood,B,Blood and blood-forming organs,No,0
+digoxin,C,Cardiovascular system,Yes,4
+dopamine,C,Cardiovascular system,Yes,20
+enalapril,C,Cardiovascular system,Yes,14
+epinephrine (adrenaline),C,Cardiovascular system,Yes,135
+furosemide,C,Cardiovascular system,Yes,37
+hydrochlorothiazide,C,Cardiovascular system,Yes,7
+propranolol,C,Cardiovascular system,Yes,48
+prostaglandin e1,C,Cardiovascular system,No,0
+spironolactone,C,Cardiovascular system,Yes,9
+acetic acid,D,Dermatologicals,No,0
+alcohol based hand rub,D,Dermatologicals,No,0
+benzoyl peroxide,D,Dermatologicals,Yes,2
+calamine,D,Dermatologicals,No,0
+calcipotriol,D,Dermatologicals,Yes,2
+chlorhexidine,D,Dermatologicals,Yes,42
+chlorine base compound,D,Dermatologicals,No,0
+chloroxylenol,D,Dermatologicals,No,0
+coal tar,D,Dermatologicals,No,0
+glutaral,D,Dermatologicals,No,0
+iodine,D,Dermatologicals,No,0
+miconazole,D,Dermatologicals,Yes,3
+mupirocin,D,Dermatologicals,Yes,7
+podophyllum resin,D,Dermatologicals,No,0
+potassium permanganate,D,Dermatologicals,No,0
+povidone iodine,D,Dermatologicals,No,0
+salicylic acid,D,Dermatologicals,Yes,5
+selenium sulfide,D,Dermatologicals,Yes,1
+silver diamine fluoride,D,Dermatologicals,Yes,14
+silver sulfadiazine,D,Dermatologicals,Yes,5
+urea,D,Dermatologicals,Yes,3
+betamethasone,H,"Systemic hormonal preparations, excluding sex hormones and insulins",Yes,13
+desmopressin,H,"Systemic hormonal preparations, excluding sex hormones and insulins",Yes,61
+dexamethasone,H,"Systemic hormonal preparations, excluding sex hormones and insulins",Yes,302
+diazoxide,H,"Systemic hormonal preparations, excluding sex hormones and insulins",Yes,2
+fludrocortisone,H,"Systemic hormonal preparations, excluding sex hormones and insulins",Yes,3
+glucagon,H,"Systemic hormonal preparations, excluding sex hormones and insulins",Yes,4
+hydrocortisone,H,"Systemic hormonal preparations, excluding sex hormones and insulins",Yes,52
+levothyroxine,H,"Systemic hormonal preparations, excluding sex hormones and insulins",Yes,34
+lugol's solution,H,"Systemic hormonal preparations, excluding sex hormones and insulins",No,0
+methimazole,H,"Systemic hormonal preparations, excluding sex hormones and insulins",Yes,1
+methylprednisolone,H,"Systemic hormonal preparations, excluding sex hormones and insulins",Yes,74
+potassium iodide,H,"Systemic hormonal preparations, excluding sex hormones and insulins",Yes,1
+prednisolone,H,"Systemic hormonal preparations, excluding sex hormones and insulins",Yes,140
+propylthiouracil,H,"Systemic hormonal preparations, excluding sex hormones and insulins",No,0
+triamcinolone hexacetonide,H,"Systemic hormonal preparations, excluding sex hormones and insulins",No,0
+abacavir + lamivudine,J,Antiinfectives for systemic use,Yes,11
+aciclovir,J,Antiinfectives for systemic use,Yes,2
+amikacin,J,Antiinfectives for systemic use,Yes,28
+amoxicillin,J,Antiinfectives for systemic use,Yes,210
+amoxicillin + clavulanic acid,J,Antiinfectives for systemic use,Yes,210
+amphotericin b,J,Antiinfectives for systemic use,Yes,11
+ampicillin,J,Antiinfectives for systemic use,Yes,47
+ansuvimab,J,Antiinfectives for systemic use,No,0
+anti-rabies immunoglobulin,J,Antiinfectives for systemic use,No,0
+anti-rabies monoclonal antibodies,J,Antiinfectives for systemic use,No,0
+anti-tetanus immunoglobulin,J,Antiinfectives for systemic use,No,0
+antivenom immunoglobulin,J,Antiinfectives for systemic use,No,0
+atoltivimab + maftivimab + odesivimab,J,Antiinfectives for systemic use,No,0
+azithromycin,J,Antiinfectives for systemic use,Yes,195
+bcg vaccine,J,Antiinfectives for systemic use,No,0
+bedaquiline,J,Antiinfectives for systemic use,No,0
+benzathine benzylpenicillin,J,Antiinfectives for systemic use,Yes,4
+benzylpenicillin,J,Antiinfectives for systemic use,Yes,5
+cefalexin,J,Antiinfectives for systemic use,No,0
+cefazolin,J,Antiinfectives for systemic use,Yes,5
+cefixime,J,Antiinfectives for systemic use,Yes,34
+cefotaxime,J,Antiinfectives for systemic use,Yes,19
+ceftazidime,J,Antiinfectives for systemic use,Yes,20
+ceftazidime + avibactam,J,Antiinfectives for systemic use,Yes,20
+ceftolozane + tazobactam,J,Antiinfectives for systemic use,Yes,1
+ceftriaxone,J,Antiinfectives for systemic use,Yes,50
+cefuroxime,J,Antiinfectives for systemic use,Yes,27
+chloramphenicol,J,Antiinfectives for systemic use,Yes,16
+cholera vaccine,J,Antiinfectives for systemic use,No,0
+ciprofloxacin,J,Antiinfectives for systemic use,Yes,38
+clarithromycin,J,Antiinfectives for systemic use,Yes,58
+clindamycin,J,Antiinfectives for systemic use,Yes,25
+clofazimine,J,Antiinfectives for systemic use,No,0
+cloxacillin,J,Antiinfectives for systemic use,Yes,5
+colistin,J,Antiinfectives for systemic use,Yes,8
+cycloserine,J,Antiinfectives for systemic use,Yes,1
+daclatasvir,J,Antiinfectives for systemic use,No,0
+daclatasvir + sofosbuvir,J,Antiinfectives for systemic use,Yes,1
+dapsone,J,Antiinfectives for systemic use,Yes,20
+darunavir,J,Antiinfectives for systemic use,Yes,1
+delamanid,J,Antiinfectives for systemic use,No,0
+dengue vaccine,J,Antiinfectives for systemic use,No,0
+diphtheria antitoxin,J,Antiinfectives for systemic use,No,0
+diphtheria vaccine,J,Antiinfectives for systemic use,No,0
+dolutegravir,J,Antiinfectives for systemic use,Yes,4
+doxycycline,J,Antiinfectives for systemic use,Yes,7
+entecavir,J,Antiinfectives for systemic use,Yes,3
+equine rabies immunoglobulin,J,Antiinfectives for systemic use,No,0
+erythromycin,J,Antiinfectives for systemic use,Yes,67
+ethambutol,J,Antiinfectives for systemic use,Yes,2
+ethionamide,J,Antiinfectives for systemic use,No,0
+fluconazole,J,Antiinfectives for systemic use,Yes,22
+flucytosine,J,Antiinfectives for systemic use,No,0
+fosfomycin,J,Antiinfectives for systemic use,Yes,2
+gentamicin,J,Antiinfectives for systemic use,Yes,51
+glecaprevir + pibrentasvir,J,Antiinfectives for systemic use,No,0
+griseofulvin,J,Antiinfectives for systemic use,Yes,9
+haemophilus influenzae type b vaccine,J,Antiinfectives for systemic use,No,0
+hepatitis a vaccine,J,Antiinfectives for systemic use,No,0
+hepatitis b vaccine,J,Antiinfectives for systemic use,Yes,1
+human papilloma virus (hpv) vaccine,J,Antiinfectives for systemic use,No,0
+influenza vaccine,J,Antiinfectives for systemic use,No,0
+isoniazid,J,Antiinfectives for systemic use,Yes,9
+isoniazid + pyrazinamide + rifampicin,J,Antiinfectives for systemic use,Yes,9
+isoniazid + pyridoxine + sulfamethoxazole + trimethoprim,J,Antiinfectives for systemic use,Yes,9
+isoniazid + rifampicin,J,Antiinfectives for systemic use,Yes,9
+isoniazid + rifapentine,J,Antiinfectives for systemic use,Yes,9
+itraconazole,J,Antiinfectives for systemic use,Yes,5
+japanese encephalitis vaccine,J,Antiinfectives for systemic use,No,0
+lamivudine,J,Antiinfectives for systemic use,Yes,31
+lamivudine + zidovudine,J,Antiinfectives for systemic use,Yes,31
+levofloxacin,J,Antiinfectives for systemic use,Yes,8
+linezolid,J,Antiinfectives for systemic use,Yes,6
+lopinavir + ritonavir,J,Antiinfectives for systemic use,Yes,17
+measles vaccine,J,Antiinfectives for systemic use,No,0
+meningococcal meningitis vaccine,J,Antiinfectives for systemic use,No,0
+meropenem,J,Antiinfectives for systemic use,Yes,10
+metronidazole,J,Antiinfectives for systemic use,Yes,48
+micafungin,J,Antiinfectives for systemic use,Yes,1
+moxifloxacin,J,Antiinfectives for systemic use,Yes,2
+mumps vaccine,J,Antiinfectives for systemic use,No,0
+nevirapine,J,Antiinfectives for systemic use,Yes,25
+nitrofurantoin,J,Antiinfectives for systemic use,Yes,7
+normal immunoglobulin,J,Antiinfectives for systemic use,No,0
+nystatin,J,Antiinfectives for systemic use,Yes,7
+ofloxacin,J,Antiinfectives for systemic use,Yes,9
+oseltamivir,J,Antiinfectives for systemic use,Yes,8
+p-aminosalicylate sodium,J,Antiinfectives for systemic use,No,0
+pertussis vaccine,J,Antiinfectives for systemic use,No,0
+phenoxymethylpenicillin,J,Antiinfectives for systemic use,Yes,5
+piperacillin + tazobactam,J,Antiinfectives for systemic use,Yes,21
+pneumococcal vaccine,J,Antiinfectives for systemic use,No,0
+poliomyelitis vaccine,J,Antiinfectives for systemic use,No,0
+polymyxin b,J,Antiinfectives for systemic use,Yes,4
+procaine benzylpenicillin,J,Antiinfectives for systemic use,Yes,3
+pyrazinamide,J,Antiinfectives for systemic use,Yes,3
+rabies vaccine,J,Antiinfectives for systemic use,No,0
+raltegravir,J,Antiinfectives for systemic use,No,0
+ribavirin,J,Antiinfectives for systemic use,Yes,25
+rifampicin,J,Antiinfectives for systemic use,Yes,7
+rifapentine,J,Antiinfectives for systemic use,No,0
+ritonavir,J,Antiinfectives for systemic use,Yes,26
+rotavirus vaccine,J,Antiinfectives for systemic use,No,0
+rubella vaccine,J,Antiinfectives for systemic use,No,0
+sofosbuvir,J,Antiinfectives for systemic use,Yes,1
+sofosbuvir + velpatasvir,J,Antiinfectives for systemic use,Yes,1
+streptomycin,J,Antiinfectives for systemic use,Yes,2
+sulfadiazine,J,Antiinfectives for systemic use,Yes,4
+sulfamethoxazole + trimethoprim,J,Antiinfectives for systemic use,Yes,98
+terbinafine,J,Antiinfectives for systemic use,Yes,14
+tetanus vaccine,J,Antiinfectives for systemic use,No,0
+tetracycline,J,Antiinfectives for systemic use,Yes,11
+tick-borne encephalitis vaccine,J,Antiinfectives for systemic use,No,0
+trimethoprim,J,Antiinfectives for systemic use,Yes,102
+typhoid vaccine,J,Antiinfectives for systemic use,No,0
+valganciclovir,J,Antiinfectives for systemic use,No,0
+vancomycin,J,Antiinfectives for systemic use,Yes,23
+varicella vaccine,J,Antiinfectives for systemic use,No,0
+voriconazole,J,Antiinfectives for systemic use,Yes,2
+yellow fever vaccine,J,Antiinfectives for systemic use,No,0
+zidovudine,J,Antiinfectives for systemic use,Yes,25
+adalimumab,L,Antineoplastic and immunomodulating agents,Yes,13
+all-trans retinoid acid (atra),L,Antineoplastic and immunomodulating agents,No,0
+arsenic trioxide,L,Antineoplastic and immunomodulating agents,Yes,3
+asparaginase,L,Antineoplastic and immunomodulating agents,Yes,15
+azathioprine,L,Antineoplastic and immunomodulating agents,Yes,9
+bleomycin,L,Antineoplastic and immunomodulating agents,Yes,10
+carboplatin,L,Antineoplastic and immunomodulating agents,Yes,13
+ciclosporin,L,Antineoplastic and immunomodulating agents,Yes,6
+cisplatin,L,Antineoplastic and immunomodulating agents,Yes,18
+cyclophosphamide,L,Antineoplastic and immunomodulating agents,Yes,49
+cytarabine,L,Antineoplastic and immunomodulating agents,Yes,34
+dacarbazine,L,Antineoplastic and immunomodulating agents,Yes,7
+dactinomycin,L,Antineoplastic and immunomodulating agents,Yes,16
+dasatinib,L,Antineoplastic and immunomodulating agents,Yes,1
+daunorubicin,L,Antineoplastic and immunomodulating agents,Yes,18
+doxorubicin,L,Antineoplastic and immunomodulating agents,Yes,35
+doxorubicin (as pegylated liposomal),L,Antineoplastic and immunomodulating agents,Yes,35
+etoposide,L,Antineoplastic and immunomodulating agents,Yes,23
+everolimus,L,Antineoplastic and immunomodulating agents,Yes,8
+filgrastim,L,Antineoplastic and immunomodulating agents,Yes,26
+fluorouracil,L,Antineoplastic and immunomodulating agents,Yes,4
+hydroxycarbamide (hydroxyurea),L,Antineoplastic and immunomodulating agents,Yes,14
+ifosfamide,L,Antineoplastic and immunomodulating agents,Yes,7
+imatinib,L,Antineoplastic and immunomodulating agents,Yes,1
+irinotecan,L,Antineoplastic and immunomodulating agents,Yes,4
+mercaptopurine,L,Antineoplastic and immunomodulating agents,Yes,24
+mesna,L,Antineoplastic and immunomodulating agents,No,0
+methotrexate,L,Antineoplastic and immunomodulating agents,Yes,94
+nilotinib,L,Antineoplastic and immunomodulating agents,No,0
+oxaliplatin,L,Antineoplastic and immunomodulating agents,No,0
+paclitaxel,L,Antineoplastic and immunomodulating agents,No,0
+pegaspargase,L,Antineoplastic and immunomodulating agents,Yes,9
+pegfilgrastim,L,Antineoplastic and immunomodulating agents,Yes,4
+procarbazine,L,Antineoplastic and immunomodulating agents,Yes,8
+realgar-indigo naturalis formulation,L,Antineoplastic and immunomodulating agents,No,0
+rituximab,L,Antineoplastic and immunomodulating agents,Yes,15
+tacrolimus,L,Antineoplastic and immunomodulating agents,Yes,48
+tioguanine,L,Antineoplastic and immunomodulating agents,Yes,3
+vinblastine,L,Antineoplastic and immunomodulating agents,Yes,6
+vincristine,L,Antineoplastic and immunomodulating agents,Yes,80
+vinorelbine,L,Antineoplastic and immunomodulating agents,Yes,1
+allopurinol,M,Musculoskeletal system,Yes,9
+suxamethonium,M,Musculoskeletal system,Yes,8
+vecuronium,M,Musculoskeletal system,Yes,8
+acetylsalicylic acid,N,Nervous system,No,0
+amitriptyline,N,Nervous system,Yes,17
+bupivacaine,N,Nervous system,Yes,267
+caffeine citrate,N,Nervous system,Yes,9
+carbamazepine,N,Nervous system,Yes,13
+diazepam,N,Nervous system,Yes,58
+ethosuximide,N,Nervous system,Yes,3
+halothane,N,Nervous system,Yes,44
+ibuprofen,N,Nervous system,Yes,164
+isoflurane,N,Nervous system,Yes,37
+ketamine,N,Nervous system,Yes,315
+lamotrigine,N,Nervous system,Yes,13
+levetiracetam,N,Nervous system,Yes,40
+lidocaine,N,Nervous system,Yes,263
+lidocaine + epinephrine (adrenaline),N,Nervous system,Yes,263
+lorazepam,N,Nervous system,Yes,13
+methadone,N,Nervous system,Yes,6
+midazolam,N,Nervous system,Yes,397
+morphine,N,Nervous system,Yes,130
+neostigmine,N,Nervous system,Yes,18
+nitrous oxide,N,Nervous system,Yes,60
+paracetamol (acetaminophen),N,Nervous system,Yes,206
+phenobarbital,N,Nervous system,Yes,56
+phenytoin,N,Nervous system,Yes,12
+propofol,N,Nervous system,Yes,272
+pyridostigmine,N,Nervous system,Yes,3
+sevoflurane,N,Nervous system,Yes,184
+tetracaine,N,Nervous system,Yes,42
+valproic acid (sodium valproate),N,Nervous system,Yes,41
+albendazole,P,"Antiparasitic products, insecticides and repellents",Yes,81
+amodiaquine,P,"Antiparasitic products, insecticides and repellents",Yes,110
+artemether,P,"Antiparasitic products, insecticides and repellents",Yes,100
+artemether + lumefantrine,P,"Antiparasitic products, insecticides and repellents",Yes,100
+artesunate,P,"Antiparasitic products, insecticides and repellents",Yes,137
+artesunate + amodiaquine,P,"Antiparasitic products, insecticides and repellents",Yes,137
+artesunate + mefloquine,P,"Antiparasitic products, insecticides and repellents",Yes,137
+artesunate + pyronaridine tetraphosphate,P,"Antiparasitic products, insecticides and repellents",Yes,137
+benznidazole,P,"Antiparasitic products, insecticides and repellents",Yes,2
+benzyl benzoate,P,"Antiparasitic products, insecticides and repellents",Yes,2
+chloroquine,P,"Antiparasitic products, insecticides and repellents",Yes,55
+diethylcarbamazine,P,"Antiparasitic products, insecticides and repellents",Yes,4
+dihydroartemisinin + piperaquine phosphate,P,"Antiparasitic products, insecticides and repellents",Yes,42
+diloxanide,P,"Antiparasitic products, insecticides and repellents",No,0
+eflornithine,P,"Antiparasitic products, insecticides and repellents",No,0
+fexinidazole,P,"Antiparasitic products, insecticides and repellents",No,0
+hydroxychloroquine,P,"Antiparasitic products, insecticides and repellents",Yes,6
+ivermectin,P,"Antiparasitic products, insecticides and repellents",Yes,18
+levamisole,P,"Antiparasitic products, insecticides and repellents",Yes,16
+mebendazole,P,"Antiparasitic products, insecticides and repellents",Yes,27
+mefloquine,P,"Antiparasitic products, insecticides and repellents",Yes,18
+meglumine antimoniate,P,"Antiparasitic products, insecticides and repellents",Yes,3
+melarsoprol,P,"Antiparasitic products, insecticides and repellents",No,0
+miltefosine,P,"Antiparasitic products, insecticides and repellents",Yes,2
+niclosamide,P,"Antiparasitic products, insecticides and repellents",No,0
+nifurtimox,P,"Antiparasitic products, insecticides and repellents",No,0
+oxamniquine,P,"Antiparasitic products, insecticides and repellents",Yes,1
+paromomycin,P,"Antiparasitic products, insecticides and repellents",No,0
+pentamidine,P,"Antiparasitic products, insecticides and repellents",No,0
+permethrin,P,"Antiparasitic products, insecticides and repellents",Yes,6
+praziquantel,P,"Antiparasitic products, insecticides and repellents",Yes,44
+primaquine,P,"Antiparasitic products, insecticides and repellents",Yes,12
+proguanil,P,"Antiparasitic products, insecticides and repellents",Yes,6
+pyrantel,P,"Antiparasitic products, insecticides and repellents",Yes,5
+pyrimethamine,P,"Antiparasitic products, insecticides and repellents",Yes,121
+quinine,P,"Antiparasitic products, insecticides and repellents",Yes,21
+sodium stibogluconate,P,"Antiparasitic products, insecticides and repellents",No,0
+sulfadoxine + pyrimethamine,P,"Antiparasitic products, insecticides and repellents",Yes,107
+suramin sodium,P,"Antiparasitic products, insecticides and repellents",No,0
+triclabendazole,P,"Antiparasitic products, insecticides and repellents",Yes,1
+budesonide,R,Respiratory system,Yes,227
+loratadine,R,Respiratory system,Yes,18
+oxygen,R,Respiratory system,Yes,2
+salbutamol,R,Respiratory system,Yes,180
+surfactant,R,Respiratory system,Yes,18
+xylometazoline,R,Respiratory system,Yes,4
+fluorescein,S,Sensory organs,No,0
+natamycin,S,Sensory organs,No,0
+tropicamide,S,Sensory organs,Yes,10
+acetylcysteine,V,Various,Yes,10
+barium sulfate,V,Various,No,0
+calcium folinate (leucovorin calcium),V,Various,No,0
+"charcoal, activated",V,Various,No,0
+deferasirox,V,Various,Yes,8
+deferoxamine,V,Various,Yes,4
+dimercaprol,V,Various,No,0
+ethanol,V,Various,Yes,5
+fomepizole,V,Various,No,0
+glass ionomer cement,V,Various,No,0
+hydroxocobalamin,V,Various,Yes,2
+intraperitoneal dialysis solution,V,Various,No,0
+naloxone,V,Various,Yes,10
+protamine sulfate,V,Various,No,0
+rasburicase,V,Various,Yes,2
+resin-based composite (high-viscosity),V,Various,No,0
+resin-based composite (low-viscosity),V,Various,No,0
+sodium calcium edetate,V,Various,No,0
+succimer,V,Various,Yes,8
+"tuberculin, purified protein derivative (ppd)",V,Various,No,0
+water for injection,V,Various,No,0

@@ -1,0 +1,243 @@
+location_name,cause_name,dalys
+African Region,Cardiovascular diseases,2391624.4035324394
+African Region,Chronic respiratory diseases,1863473.414921381
+African Region,Diabetes and kidney diseases,1703657.638465524
+African Region,Digestive diseases,2516759.497159458
+African Region,Enteric infections,55387651.03808117
+African Region,HIV/AIDS and sexually transmitted infections,16455966.716836782
+African Region,Maternal and neonatal disorders,73893041.19407265
+African Region,Mental disorders,5194229.145058198
+African Region,Musculoskeletal disorders,844253.0357855001
+African Region,Neglected tropical diseases and malaria,56012519.112016775
+African Region,Neoplasms,3196787.9794704323
+African Region,Neurological disorders,2998228.288814051
+African Region,Nutritional deficiencies,16134348.244239746
+African Region,Other infectious diseases,50397980.90070014
+African Region,Other non-communicable diseases,18352262.566201635
+African Region,Respiratory infections and tuberculosis,51977302.93830486
+African Region,Self-harm and interpersonal violence,4946231.038077015
+African Region,Sense organ diseases,764292.7335348402
+African Region,Skin and subcutaneous diseases,3101552.409494721
+African Region,Substance use disorders,87318.62832858542
+African Region,Transport injuries,6789094.686062169
+African Region,Unintentional injuries,12540700.62550575
+Eastern Mediterranean Region,Cardiovascular diseases,2910353.789872471
+Eastern Mediterranean Region,Chronic respiratory diseases,923741.5519445604
+Eastern Mediterranean Region,Diabetes and kidney diseases,434664.28028428403
+Eastern Mediterranean Region,Digestive diseases,948705.7441598158
+Eastern Mediterranean Region,Enteric infections,11040717.019538984
+Eastern Mediterranean Region,HIV/AIDS and sexually transmitted infections,854127.6685114168
+Eastern Mediterranean Region,Maternal and neonatal disorders,34514010.78914479
+Eastern Mediterranean Region,Mental disorders,3272206.511863349
+Eastern Mediterranean Region,Musculoskeletal disorders,727071.448883855
+Eastern Mediterranean Region,Neglected tropical diseases and malaria,1849352.2926532342
+Eastern Mediterranean Region,Neoplasms,1669392.6253184027
+Eastern Mediterranean Region,Neurological disorders,1486813.3082004387
+Eastern Mediterranean Region,Nutritional deficiencies,5229500.365786244
+Eastern Mediterranean Region,Other infectious diseases,13621000.876630563
+Eastern Mediterranean Region,Other non-communicable diseases,12006616.35030166
+Eastern Mediterranean Region,Respiratory infections and tuberculosis,14532590.694763955
+Eastern Mediterranean Region,Self-harm and interpersonal violence,2749998.9810109166
+Eastern Mediterranean Region,Sense organ diseases,398918.5812267821
+Eastern Mediterranean Region,Skin and subcutaneous diseases,2093351.4076570552
+Eastern Mediterranean Region,Substance use disorders,88166.57103427846
+Eastern Mediterranean Region,Transport injuries,2661886.006314821
+Eastern Mediterranean Region,Unintentional injuries,5010121.652501795
+European Region,Cardiovascular diseases,488016.1511157382
+European Region,Chronic respiratory diseases,629901.420432743
+European Region,Diabetes and kidney diseases,143925.36765691373
+European Region,Digestive diseases,339220.41848940466
+European Region,Enteric infections,916952.8378278619
+European Region,HIV/AIDS and sexually transmitted infections,86535.13118431179
+European Region,Maternal and neonatal disorders,6039067.280902896
+European Region,Mental disorders,3209952.85139602
+European Region,Musculoskeletal disorders,960216.4009426112
+European Region,Neglected tropical diseases and malaria,126739.89920585696
+European Region,Neoplasms,1019437.0843671751
+European Region,Neurological disorders,1253940.5998388887
+European Region,Nutritional deficiencies,1026385.7467336198
+European Region,Other infectious diseases,1060539.7844063672
+European Region,Other non-communicable diseases,4797991.496716673
+European Region,Respiratory infections and tuberculosis,4164347.2167534214
+European Region,Self-harm and interpersonal violence,1085113.4769284767
+European Region,Sense organ diseases,288957.7405394302
+European Region,Skin and subcutaneous diseases,1129978.0688701945
+European Region,Substance use disorders,274094.0170044971
+European Region,Transport injuries,1258328.5007499505
+European Region,Unintentional injuries,2778849.630477353
+Global,Cardiovascular diseases,11970064.97898557
+Global,Chronic respiratory diseases,8107497.362304215
+Global,Diabetes and kidney diseases,3843522.4498303575
+Global,Digestive diseases,9146552.500932591
+Global,Enteric infections,118398497.04210699
+Global,HIV/AIDS and sexually transmitted infections,20558161.424124666
+Global,Maternal and neonatal disorders,226205399.07391444
+Global,Mental disorders,28359856.12643707
+Global,Musculoskeletal disorders,6402837.6146165505
+Global,Neglected tropical diseases and malaria,67648394.36121018
+Global,Neoplasms,13599128.783805698
+Global,Neurological disorders,13233079.83098694
+Global,Nutritional deficiencies,46040788.78131022
+Global,Other infectious diseases,106072704.55681315
+Global,Other non-communicable diseases,73267617.87570629
+Global,Respiratory infections and tuberculosis,134904745.75155348
+Global,Self-harm and interpersonal violence,17169156.099503834
+Global,Sense organ diseases,3738505.007887267
+Global,Skin and subcutaneous diseases,15771107.294327665
+Global,Substance use disorders,1329007.8363779217
+Global,Transport injuries,21587196.77280361
+Global,Unintentional injuries,50940373.47558906
+Region of the Americas,Cardiovascular diseases,833221.8396967264
+Region of the Americas,Chronic respiratory diseases,1714749.6276603725
+Region of the Americas,Diabetes and kidney diseases,322356.8151331036
+Region of the Americas,Digestive diseases,789601.1084751489
+Region of the Americas,Enteric infections,3162932.3693339075
+Region of the Americas,HIV/AIDS and sexually transmitted infections,568176.4693699605
+Region of the Americas,Maternal and neonatal disorders,12675124.42163954
+Region of the Americas,Mental disorders,4110720.542736069
+Region of the Americas,Musculoskeletal disorders,1250240.8156830836
+Region of the Americas,Neglected tropical diseases and malaria,643414.0930766034
+Region of the Americas,Neoplasms,1428321.0483012085
+Region of the Americas,Neurological disorders,1756902.0737936855
+Region of the Americas,Nutritional deficiencies,2555265.204579845
+Region of the Americas,Other infectious diseases,1428824.5785639205
+Region of the Americas,Other non-communicable diseases,7057447.144890204
+Region of the Americas,Respiratory infections and tuberculosis,5379287.718749914
+Region of the Americas,Self-harm and interpersonal violence,2646469.302352646
+Region of the Americas,Sense organ diseases,376229.499170787
+Region of the Americas,Skin and subcutaneous diseases,1562607.0326130018
+Region of the Americas,Substance use disorders,348361.19409308623
+Region of the Americas,Transport injuries,2202729.650638719
+Region of the Americas,Unintentional injuries,4497852.603021843
+South-East Asia Region,Cardiovascular diseases,3396564.2754584164
+South-East Asia Region,Chronic respiratory diseases,1376044.895981747
+South-East Asia Region,Diabetes and kidney diseases,576127.0247766677
+South-East Asia Region,Digestive diseases,2472683.737658458
+South-East Asia Region,Enteric infections,40003601.60330123
+South-East Asia Region,HIV/AIDS and sexually transmitted infections,1722397.9464346757
+South-East Asia Region,Maternal and neonatal disorders,74434917.64484322
+South-East Asia Region,Mental disorders,6040965.206636731
+South-East Asia Region,Musculoskeletal disorders,1356333.9863168
+South-East Asia Region,Neglected tropical diseases and malaria,6750899.933694142
+South-East Asia Region,Neoplasms,2457041.578374635
+South-East Asia Region,Neurological disorders,3345979.575633866
+South-East Asia Region,Nutritional deficiencies,17306771.834093846
+South-East Asia Region,Other infectious diseases,31177676.134032704
+South-East Asia Region,Other non-communicable diseases,16627029.310471669
+South-East Asia Region,Respiratory infections and tuberculosis,39278409.61180697
+South-East Asia Region,Self-harm and interpersonal violence,3552250.9047405496
+South-East Asia Region,Sense organ diseases,971921.9139676783
+South-East Asia Region,Skin and subcutaneous diseases,3390609.622872847
+South-East Asia Region,Substance use disorders,205263.47636733128
+South-East Asia Region,Transport injuries,3416599.0129001215
+South-East Asia Region,Unintentional injuries,13249716.089680092
+Western Pacific Region,Cardiovascular diseases,1950284.5193097785
+Western Pacific Region,Chronic respiratory diseases,1599586.451363411
+Western Pacific Region,Diabetes and kidney diseases,662791.3235138645
+Western Pacific Region,Digestive diseases,2079581.9949903053
+Western Pacific Region,Enteric infections,7886642.174023846
+Western Pacific Region,HIV/AIDS and sexually transmitted infections,870957.4917875191
+Western Pacific Region,Maternal and neonatal disorders,24649237.74331133
+Western Pacific Region,Mental disorders,6531781.868746704
+Western Pacific Region,Musculoskeletal disorders,1264721.9270047
+Western Pacific Region,Neglected tropical diseases and malaria,2265469.030563567
+Western Pacific Region,Neoplasms,3828148.4679738455
+Western Pacific Region,Neurological disorders,2391215.9847060107
+Western Pacific Region,Nutritional deficiencies,3788517.3858769224
+Western Pacific Region,Other infectious diseases,8386682.282479468
+Western Pacific Region,Other non-communicable diseases,14426271.007124448
+Western Pacific Region,Respiratory infections and tuberculosis,19572807.571174372
+Western Pacific Region,Self-harm and interpersonal violence,2189092.3963942276
+Western Pacific Region,Sense organ diseases,938184.5394477495
+Western Pacific Region,Skin and subcutaneous diseases,4493008.752819847
+Western Pacific Region,Substance use disorders,325803.9495501433
+Western Pacific Region,Transport injuries,5258558.916137828
+Western Pacific Region,Unintentional injuries,12863132.874402227
+World Bank High Income,Cardiovascular diseases,567178.1538844465
+World Bank High Income,Chronic respiratory diseases,1208336.3196710537
+World Bank High Income,Diabetes and kidney diseases,136813.26024405003
+World Bank High Income,Digestive diseases,320290.70197790983
+World Bank High Income,Enteric infections,395998.57334387704
+World Bank High Income,HIV/AIDS and sexually transmitted infections,102187.51783099749
+World Bank High Income,Maternal and neonatal disorders,4951968.101922597
+World Bank High Income,Mental disorders,4766361.470555113
+World Bank High Income,Musculoskeletal disorders,1552689.8528411267
+World Bank High Income,Neglected tropical diseases and malaria,103871.33231667563
+World Bank High Income,Neoplasms,1087277.3527831933
+World Bank High Income,Neurological disorders,1511309.176791117
+World Bank High Income,Nutritional deficiencies,847351.9584210993
+World Bank High Income,Other infectious diseases,573379.2463193771
+World Bank High Income,Other non-communicable diseases,4996284.502050702
+World Bank High Income,Respiratory infections and tuberculosis,1570396.1848421386
+World Bank High Income,Self-harm and interpersonal violence,1343796.9540546674
+World Bank High Income,Sense organ diseases,379060.30137327826
+World Bank High Income,Skin and subcutaneous diseases,1405663.6517386728
+World Bank High Income,Substance use disorders,457290.3766504339
+World Bank High Income,Transport injuries,1925928.7352363914
+World Bank High Income,Unintentional injuries,3007782.9447318623
+World Bank Low Income,Cardiovascular diseases,1821641.90812497
+World Bank Low Income,Chronic respiratory diseases,1112980.2723294361
+World Bank Low Income,Diabetes and kidney diseases,960658.8905446001
+World Bank Low Income,Digestive diseases,1372425.0978651422
+World Bank Low Income,Enteric infections,28549803.424798846
+World Bank Low Income,HIV/AIDS and sexually transmitted infections,7588027.082429621
+World Bank Low Income,Maternal and neonatal disorders,43233429.52808197
+World Bank Low Income,Mental disorders,2984074.3738300945
+World Bank Low Income,Musculoskeletal disorders,529800.0787094953
+World Bank Low Income,Neglected tropical diseases and malaria,29929611.896999393
+World Bank Low Income,Neoplasms,2213658.7647558423
+World Bank Low Income,Neurological disorders,1710005.1199237907
+World Bank Low Income,Nutritional deficiencies,9932066.700653454
+World Bank Low Income,Other infectious diseases,34056193.63657447
+World Bank Low Income,Other non-communicable diseases,12537756.418892737
+World Bank Low Income,Respiratory infections and tuberculosis,27937573.299246773
+World Bank Low Income,Self-harm and interpersonal violence,4853416.108139444
+World Bank Low Income,Sense organ diseases,409929.0540723993
+World Bank Low Income,Skin and subcutaneous diseases,1914372.6155647326
+World Bank Low Income,Substance use disorders,58643.057076284415
+World Bank Low Income,Transport injuries,4209188.424818934
+World Bank Low Income,Unintentional injuries,7837470.7039215285
+World Bank Lower Middle Income,Cardiovascular diseases,6676599.1650645025
+World Bank Lower Middle Income,Chronic respiratory diseases,3192715.039734679
+World Bank Lower Middle Income,Diabetes and kidney diseases,1804034.5794604186
+World Bank Lower Middle Income,Digestive diseases,4753462.209030593
+World Bank Lower Middle Income,Enteric infections,78586723.33344354
+World Bank Lower Middle Income,HIV/AIDS and sexually transmitted infections,10345363.709982807
+World Bank Lower Middle Income,Maternal and neonatal disorders,140187512.29512635
+World Bank Lower Middle Income,Mental disorders,11003793.684832584
+World Bank Lower Middle Income,Musculoskeletal disorders,2307860.5977577614
+World Bank Lower Middle Income,Neglected tropical diseases and malaria,35068774.58835429
+World Bank Lower Middle Income,Neoplasms,5023106.15654855
+World Bank Lower Middle Income,Neurological disorders,6050836.988683997
+World Bank Lower Middle Income,Nutritional deficiencies,29145831.2360999
+World Bank Lower Middle Income,Other infectious diseases,62546832.535448566
+World Bank Lower Middle Income,Other non-communicable diseases,33956995.05639503
+World Bank Lower Middle Income,Respiratory infections and tuberculosis,81772133.80932283
+World Bank Lower Middle Income,Self-harm and interpersonal violence,5855579.449107921
+World Bank Lower Middle Income,Sense organ diseases,1747502.0505516175
+World Bank Lower Middle Income,Skin and subcutaneous diseases,6552613.953720652
+World Bank Lower Middle Income,Substance use disorders,317165.52781668113
+World Bank Lower Middle Income,Transport injuries,7817942.5495482
+World Bank Lower Middle Income,Unintentional injuries,23857916.86244446
+World Bank Upper Middle Income,Cardiovascular diseases,2928624.1199575467
+World Bank Upper Middle Income,Chronic respiratory diseases,2629438.2393130963
+World Bank Upper Middle Income,Diabetes and kidney diseases,949960.392172804
+World Bank Upper Middle Income,Digestive diseases,2714475.952055466
+World Bank Upper Middle Income,Enteric infections,10881650.627511242
+World Bank Upper Middle Income,HIV/AIDS and sexually transmitted infections,2525360.4867648534
+World Bank Upper Middle Income,Maternal and neonatal disorders,38038076.003803924
+World Bank Upper Middle Income,Mental disorders,9717246.4752062
+World Bank Upper Middle Income,Musculoskeletal disorders,2035155.4397024564
+World Bank Upper Middle Income,Neglected tropical diseases and malaria,2551486.1378312185
+World Bank Upper Middle Income,Neoplasms,5309910.230938114
+World Bank Upper Middle Income,Neurological disorders,4001954.7476029857
+World Bank Upper Middle Income,Nutritional deficiencies,6152996.518071687
+World Bank Upper Middle Income,Other infectious diseases,8930382.420892129
+World Bank Upper Middle Income,Other non-communicable diseases,21928769.89274065
+World Bank Upper Middle Income,Respiratory infections and tuberculosis,23691180.689958863
+World Bank Upper Middle Income,Self-harm and interpersonal violence,5154669.56402626
+World Bank Upper Middle Income,Sense organ diseases,1213848.862022064
+World Bank Upper Middle Income,Skin and subcutaneous diseases,5967829.099804166
+World Bank Upper Middle Income,Substance use disorders,501181.09904800623
+World Bank Upper Middle Income,Transport injuries,7696662.943575781
+World Bank Upper Middle Income,Unintentional injuries,16329317.115610793

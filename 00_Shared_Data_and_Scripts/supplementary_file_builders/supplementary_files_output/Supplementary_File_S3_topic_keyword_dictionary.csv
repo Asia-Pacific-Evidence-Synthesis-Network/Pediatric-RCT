@@ -1,0 +1,233 @@
+topic_category,keyword_pattern
+Allergy & rhinitis,acne
+Allergy & rhinitis,acne vulgaris
+Allergy & rhinitis,allerg
+Allergy & rhinitis,allergic rhinitis
+Allergy & rhinitis,bronchoconstriction
+Allergy & rhinitis,exercise-induced bronchoconstriction
+Allergy & rhinitis,rhinitis
+Allergy & rhinitis,urticaria
+Cardiology,arrhythmia
+Cardiology,cardiac disease
+Cardiology,congenital heart defect
+Cardiology,hypertension
+Cardiology,kawasaki disease
+Cardiology,tetralogy of fallot
+"Dermatology, rheumatology & musculoskeletal",atopic dermatitis
+"Dermatology, rheumatology & musculoskeletal",duchenne muscular dystrophy
+"Dermatology, rheumatology & musculoskeletal",eczema
+"Dermatology, rheumatology & musculoskeletal",hemangioma
+"Dermatology, rheumatology & musculoskeletal",idiopathic scoliosis
+"Dermatology, rheumatology & musculoskeletal",juvenile idiopathic arthritis
+"Dermatology, rheumatology & musculoskeletal",juvenile rheumatoid arthritis
+"Dermatology, rheumatology & musculoskeletal",osteogenesis imperfecta
+"Dermatology, rheumatology & musculoskeletal",plaque psoriasis
+"Dermatology, rheumatology & musculoskeletal",psoriasis
+"Dermatology, rheumatology & musculoskeletal",scoliosis
+"ENT, dental & craniofacial",adenoid hypertrophy
+"ENT, dental & craniofacial",caries
+"ENT, dental & craniofacial",cleft lip
+"ENT, dental & craniofacial",cleft palate
+"ENT, dental & craniofacial",craniosynostosis
+"ENT, dental & craniofacial",dental procedure
+"ENT, dental & craniofacial",otitis media
+"ENT, dental & craniofacial",tonsillitis
+"Endocrine, growth & metabolic",constitutional delay of growth
+"Endocrine, growth & metabolic",diabetes
+"Endocrine, growth & metabolic",growth hormone
+"Endocrine, growth & metabolic",hypercholesterolaemia
+"Endocrine, growth & metabolic",hypercholesterolemia
+"Endocrine, growth & metabolic",hyperglycaemia
+"Endocrine, growth & metabolic",hyperglycemia
+"Endocrine, growth & metabolic",hypophosphataemia
+"Endocrine, growth & metabolic",hypophosphatemia
+"Endocrine, growth & metabolic",metabolic
+"Endocrine, growth & metabolic",obesity
+"Endocrine, growth & metabolic",polycystic ovary
+"Endocrine, growth & metabolic",prader-willi
+"Endocrine, growth & metabolic",puberty
+"Endocrine, growth & metabolic",short stature
+"Endocrine, growth & metabolic",thyroid
+"Endocrine, growth & metabolic",turner syndrome
+Gastrointestinal,appendicitis
+Gastrointestinal,chronic constipation
+Gastrointestinal,colic
+Gastrointestinal,colitis
+Gastrointestinal,crohn
+Gastrointestinal,diarrhea
+Gastrointestinal,diarrhoea
+Gastrointestinal,emesis
+Gastrointestinal,functional constipation
+Gastrointestinal,gastroenteritis
+Gastrointestinal,gastroesophageal reflux
+Gastrointestinal,helicobacter pylori
+Gastrointestinal,infantile colic
+Gastrointestinal,infantsile colic
+Gastrointestinal,inflammatory bowel
+Gastrointestinal,intestinal helminth
+Gastrointestinal,liver transplant
+Gastrointestinal,non-alcoholic fatty liver
+Gastrointestinal,vomiting
+"General/nonspecific, trauma, burns & critical care",burns?
+"General/nonspecific, trauma, burns & critical care",critical illness
+"General/nonspecific, trauma, burns & critical care",fever
+"General/nonspecific, trauma, burns & critical care",head injury
+"General/nonspecific, trauma, burns & critical care",hypotension
+"General/nonspecific, trauma, burns & critical care",inflammation
+"General/nonspecific, trauma, burns & critical care",injury
+"General/nonspecific, trauma, burns & critical care",kidney injury
+"General/nonspecific, trauma, burns & critical care",no specific disease
+"General/nonspecific, trauma, burns & critical care",severe burns
+"General/nonspecific, trauma, burns & critical care",shock
+"General/nonspecific, trauma, burns & critical care",trauma
+Infectious disease (systemic/parasitic),ascariasis
+Infectious disease (systemic/parasitic),bacterial meningitis
+Infectious disease (systemic/parasitic),chickenpox
+Infectious disease (systemic/parasitic),cholera
+Infectious disease (systemic/parasitic),dengue
+Infectious disease (systemic/parasitic),dysentery
+Infectious disease (systemic/parasitic),encephalitis
+Infectious disease (systemic/parasitic),giardiasis
+Infectious disease (systemic/parasitic),hepatitis
+Infectious disease (systemic/parasitic),hiv
+Infectious disease (systemic/parasitic),hookworm
+Infectious disease (systemic/parasitic),impetigo
+Infectious disease (systemic/parasitic),infection
+Infectious disease (systemic/parasitic),malaria
+Infectious disease (systemic/parasitic),measles
+Infectious disease (systemic/parasitic),molluscum
+Infectious disease (systemic/parasitic),pertussis
+Infectious disease (systemic/parasitic),rotavirus
+Infectious disease (systemic/parasitic),schistosomiasis
+Infectious disease (systemic/parasitic),sepsis
+Infectious disease (systemic/parasitic),shigellosis
+Infectious disease (systemic/parasitic),skin infection
+Infectious disease (systemic/parasitic),tetanus
+Infectious disease (systemic/parasitic),tinea
+Infectious disease (systemic/parasitic),trachoma
+Infectious disease (systemic/parasitic),trichuris
+Infectious disease (systemic/parasitic),tuberculosis
+Infectious disease (systemic/parasitic),typhoid
+Infectious disease (systemic/parasitic),varicella
+Neonatology (perinatal/neonatal-specific),apnea
+Neonatology (perinatal/neonatal-specific),asphyxia
+Neonatology (perinatal/neonatal-specific),bronchopulmonary dysplasia
+Neonatology (perinatal/neonatal-specific),feed intolerance
+Neonatology (perinatal/neonatal-specific),hyperbilirubinemia
+Neonatology (perinatal/neonatal-specific),hypoxic ischaemic encephalopathy
+Neonatology (perinatal/neonatal-specific),hypoxic ischemic encephalopathy
+Neonatology (perinatal/neonatal-specific),intraventricular hemorrhage
+Neonatology (perinatal/neonatal-specific),jaundice
+Neonatology (perinatal/neonatal-specific),necrotizing enterocolitis
+Neonatology (perinatal/neonatal-specific),neonat
+Neonatology (perinatal/neonatal-specific),newborn
+Neonatology (perinatal/neonatal-specific),patent ductus arteriosus
+Neonatology (perinatal/neonatal-specific),preterm birth
+Neonatology (perinatal/neonatal-specific),respiratory distress syndrome
+Neonatology (perinatal/neonatal-specific),retinopathy of prematurity
+Neonatology (perinatal/neonatal-specific),transient tachypnea
+Nephrology & urology,chronic kidney disease
+Nephrology & urology,chronic renal failure
+Nephrology & urology,cryptorchidism
+Nephrology & urology,enuresis
+Nephrology & urology,hypospadias
+Nephrology & urology,nephrotic syndrome
+Nephrology & urology,phimosis
+Nephrology & urology,pyelonephritis
+Nephrology & urology,urinary tract infection
+Nephrology & urology,vesicoureteric reflux
+Neuropsychiatric & developmental,adhd
+Neuropsychiatric & developmental,anorexia nervosa
+Neuropsychiatric & developmental,anxiety
+Neuropsychiatric & developmental,attention deficit
+Neuropsychiatric & developmental,autism
+Neuropsychiatric & developmental,behavior management
+Neuropsychiatric & developmental,behaviour management
+Neuropsychiatric & developmental,bipolar
+Neuropsychiatric & developmental,cerebral palsy
+Neuropsychiatric & developmental,conduct disorder
+Neuropsychiatric & developmental,convulsion
+Neuropsychiatric & developmental,depression
+Neuropsychiatric & developmental,disruptive behavior
+Neuropsychiatric & developmental,hyperactivity
+Neuropsychiatric & developmental,insomnia
+Neuropsychiatric & developmental,migraine
+Neuropsychiatric & developmental,minimal brain dysfunction
+Neuropsychiatric & developmental,neonatal abstinence
+Neuropsychiatric & developmental,obsessive compulsive
+Neuropsychiatric & developmental,schizophrenia
+Neuropsychiatric & developmental,seizure
+Neuropsychiatric & developmental,sleep disorder
+Neuropsychiatric & developmental,spasm
+Neuropsychiatric & developmental,stress disorder
+Neuropsychiatric & developmental,tourette
+Neuropsychiatric & developmental,withdrawal movement
+Oncology & haematology,anaemia
+Oncology & haematology,anemia
+Oncology & haematology,cancer
+Oncology & haematology,febrile neutropenia
+Oncology & haematology,glioma
+Oncology & haematology,haemophilia
+Oncology & haematology,hemophilia
+Oncology & haematology,hodgkin
+Oncology & haematology,leukaemia
+Oncology & haematology,leukemia
+Oncology & haematology,lymphoma
+Oncology & haematology,medulloblastoma
+Oncology & haematology,neuroblastoma
+Oncology & haematology,purpura
+Oncology & haematology,rhabdomyosarcoma
+Oncology & haematology,sarcoma
+Oncology & haematology,sickle cell
+Oncology & haematology,thalassaemia
+Oncology & haematology,thalassemia
+Oncology & haematology,tumor
+Oncology & haematology,tumour
+Oncology & haematology,wilms
+Ophthalmology,amblyopia
+Ophthalmology,cataract
+Ophthalmology,conjunctivitis
+Ophthalmology,myopia
+Ophthalmology,strabismus
+Ophthalmology,vernal keratoconjunctivitis
+"Perioperative pain, sedation, anaesthesia & procedural care",adenoidectomy
+"Perioperative pain, sedation, anaesthesia & procedural care",adenotonsillectomy
+"Perioperative pain, sedation, anaesthesia & procedural care",anaesthesia
+"Perioperative pain, sedation, anaesthesia & procedural care",analgesia
+"Perioperative pain, sedation, anaesthesia & procedural care",anesthesia
+"Perioperative pain, sedation, anaesthesia & procedural care",circumcision
+"Perioperative pain, sedation, anaesthesia & procedural care",colonoscopy
+"Perioperative pain, sedation, anaesthesia & procedural care",dental extraction
+"Perioperative pain, sedation, anaesthesia & procedural care",elective surgery
+"Perioperative pain, sedation, anaesthesia & procedural care",emergence agitation
+"Perioperative pain, sedation, anaesthesia & procedural care",endoscopy
+"Perioperative pain, sedation, anaesthesia & procedural care",hernia
+"Perioperative pain, sedation, anaesthesia & procedural care",infraumbilical
+"Perioperative pain, sedation, anaesthesia & procedural care",intubation
+"Perioperative pain, sedation, anaesthesia & procedural care",laceration
+"Perioperative pain, sedation, anaesthesia & procedural care",lumbar puncture
+"Perioperative pain, sedation, anaesthesia & procedural care",neuromuscular blockade
+"Perioperative pain, sedation, anaesthesia & procedural care",pain
+"Perioperative pain, sedation, anaesthesia & procedural care",premedication
+"Perioperative pain, sedation, anaesthesia & procedural care",sedation
+"Perioperative pain, sedation, anaesthesia & procedural care",surgeries
+"Perioperative pain, sedation, anaesthesia & procedural care",surgery
+"Perioperative pain, sedation, anaesthesia & procedural care",tonsillectomy
+"Perioperative pain, sedation, anaesthesia & procedural care",tonsillopharyngitis
+"Perioperative pain, sedation, anaesthesia & procedural care",venipuncture
+Respiratory (non-neonatal),asthma
+Respiratory (non-neonatal),bronchiolitis
+Respiratory (non-neonatal),chronic lung disease
+Respiratory (non-neonatal),common cold
+Respiratory (non-neonatal),cough
+Respiratory (non-neonatal),croup
+Respiratory (non-neonatal),cystic fibrosis
+Respiratory (non-neonatal),influenza
+Respiratory (non-neonatal),pneumonia
+Respiratory (non-neonatal),respiratory disease
+Respiratory (non-neonatal),respiratory syncytial virus
+Respiratory (non-neonatal),respiratory tract infection
+Respiratory (non-neonatal),rsv
+Respiratory (non-neonatal),sinusitis
+Respiratory (non-neonatal),upper respiratory
+Respiratory (non-neonatal),wheezing

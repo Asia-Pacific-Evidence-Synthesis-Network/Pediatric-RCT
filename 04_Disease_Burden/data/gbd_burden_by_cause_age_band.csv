@@ -1,0 +1,1211 @@
+location_name,cause_name,age_band,dalys
+African Region,Cardiovascular diseases,Adolescent,1240024.59835927
+African Region,Cardiovascular diseases,Child,397690.74991107656
+African Region,Cardiovascular diseases,Infant,431502.7597749455
+African Region,Cardiovascular diseases,Neonate,105402.07672027704
+African Region,Cardiovascular diseases,Young child,217004.21876687018
+African Region,Chronic respiratory diseases,Adolescent,688877.2623692487
+African Region,Chronic respiratory diseases,Child,391729.9931097587
+African Region,Chronic respiratory diseases,Infant,390203.0555413092
+African Region,Chronic respiratory diseases,Neonate,16788.802340726048
+African Region,Chronic respiratory diseases,Young child,375874.30156033835
+African Region,Diabetes and kidney diseases,Adolescent,878487.7745642108
+African Region,Diabetes and kidney diseases,Child,302916.4245417281
+African Region,Diabetes and kidney diseases,Infant,298329.78547880903
+African Region,Diabetes and kidney diseases,Neonate,8247.628800235698
+African Region,Diabetes and kidney diseases,Young child,215676.02508054042
+African Region,Digestive diseases,Adolescent,1045786.1138319055
+African Region,Digestive diseases,Child,447478.1853969088
+African Region,Digestive diseases,Infant,528174.2007303725
+African Region,Digestive diseases,Neonate,68454.3634358365
+African Region,Digestive diseases,Young child,426866.6337644349
+African Region,Enteric infections,Adolescent,3346224.4177681506
+African Region,Enteric infections,Child,4575303.085819723
+African Region,Enteric infections,Infant,33432357.8147667
+African Region,Enteric infections,Neonate,2120063.8959922306
+African Region,Enteric infections,Young child,11913701.823734362
+African Region,HIV/AIDS and sexually transmitted infections,Adolescent,2012674.3344833076
+African Region,HIV/AIDS and sexually transmitted infections,Child,1234239.809677392
+African Region,HIV/AIDS and sexually transmitted infections,Infant,7817714.504806602
+African Region,HIV/AIDS and sexually transmitted infections,Neonate,2576232.397657146
+African Region,HIV/AIDS and sexually transmitted infections,Young child,2815105.6702123336
+African Region,Maternal and neonatal disorders,Adolescent,2424425.889312914
+African Region,Maternal and neonatal disorders,Child,245068.98638417845
+African Region,Maternal and neonatal disorders,Infant,7705901.443391202
+African Region,Maternal and neonatal disorders,Neonate,62762315.11389672
+African Region,Maternal and neonatal disorders,Young child,755329.7610876343
+African Region,Mental disorders,Adolescent,3899721.438120869
+African Region,Mental disorders,Child,983088.9985648427
+African Region,Mental disorders,Infant,114736.51603077959
+African Region,Mental disorders,Neonate,4716.611666682851
+African Region,Mental disorders,Young child,191965.58067502367
+African Region,Musculoskeletal disorders,Adolescent,761123.3874331004
+African Region,Musculoskeletal disorders,Child,70842.74377463952
+African Region,Musculoskeletal disorders,Infant,11179.980399863027
+African Region,Musculoskeletal disorders,Neonate,0.0
+African Region,Musculoskeletal disorders,Young child,1106.9241778971696
+African Region,Neglected tropical diseases and malaria,Adolescent,4728253.657760817
+African Region,Neglected tropical diseases and malaria,Child,4341602.491119486
+African Region,Neglected tropical diseases and malaria,Infant,24691445.435263332
+African Region,Neglected tropical diseases and malaria,Neonate,1998911.3132659092
+African Region,Neglected tropical diseases and malaria,Young child,20252306.21460723
+African Region,Neoplasms,Adolescent,1160909.6613555662
+African Region,Neoplasms,Child,774628.8613208508
+African Region,Neoplasms,Infant,464343.9712270906
+African Region,Neoplasms,Neonate,34647.409281595515
+African Region,Neoplasms,Young child,762258.076285329
+African Region,Neurological disorders,Adolescent,1838022.9046997996
+African Region,Neurological disorders,Child,499915.47888725076
+African Region,Neurological disorders,Infant,299059.1103542701
+African Region,Neurological disorders,Neonate,9646.045645353708
+African Region,Neurological disorders,Young child,351584.74922737683
+African Region,Nutritional deficiencies,Adolescent,2065367.8712060375
+African Region,Nutritional deficiencies,Child,2452436.8614281183
+African Region,Nutritional deficiencies,Infant,6564121.150450995
+African Region,Nutritional deficiencies,Neonate,58319.20106664898
+African Region,Nutritional deficiencies,Young child,4994103.160087945
+African Region,Other infectious diseases,Adolescent,3977614.8279860383
+African Region,Other infectious diseases,Child,6340636.053181384
+African Region,Other infectious diseases,Infant,22867746.27150317
+African Region,Other infectious diseases,Neonate,3139650.979156696
+African Region,Other infectious diseases,Young child,14072332.768872852
+African Region,Other non-communicable diseases,Adolescent,2290177.7688942235
+African Region,Other non-communicable diseases,Child,1293454.924625344
+African Region,Other non-communicable diseases,Infant,7538690.84698586
+African Region,Other non-communicable diseases,Neonate,5412567.708347821
+African Region,Other non-communicable diseases,Young child,1817371.3173483852
+African Region,Respiratory infections and tuberculosis,Adolescent,4233501.873380443
+African Region,Respiratory infections and tuberculosis,Child,4020023.803615867
+African Region,Respiratory infections and tuberculosis,Infant,23441268.51586049
+African Region,Respiratory infections and tuberculosis,Neonate,8765789.656460557
+African Region,Respiratory infections and tuberculosis,Young child,11516719.0889875
+African Region,Self-harm and interpersonal violence,Adolescent,3551380.0149491653
+African Region,Self-harm and interpersonal violence,Child,631186.3140057446
+African Region,Self-harm and interpersonal violence,Infant,375690.7965864952
+African Region,Self-harm and interpersonal violence,Neonate,20605.08497082423
+African Region,Self-harm and interpersonal violence,Young child,367368.8275647862
+African Region,Sense organ diseases,Adolescent,480540.8943017055
+African Region,Sense organ diseases,Child,182040.1309351245
+African Region,Sense organ diseases,Infant,26945.843293962153
+African Region,Sense organ diseases,Neonate,977.3853004056477
+African Region,Sense organ diseases,Young child,73788.47970364231
+African Region,Skin and subcutaneous diseases,Adolescent,1233091.0462209387
+African Region,Skin and subcutaneous diseases,Child,883469.6849902999
+African Region,Skin and subcutaneous diseases,Infant,353212.2154722477
+African Region,Skin and subcutaneous diseases,Neonate,14180.626232010913
+African Region,Skin and subcutaneous diseases,Young child,617598.8365792236
+African Region,Substance use disorders,Adolescent,83868.43802005413
+African Region,Substance use disorders,Child,1737.5777842665836
+African Region,Substance use disorders,Infant,609.74454815784
+African Region,Substance use disorders,Neonate,18.41404818175905
+African Region,Substance use disorders,Young child,1084.4539279251028
+African Region,Transport injuries,Adolescent,3321579.652874648
+African Region,Transport injuries,Child,1812278.6633568867
+African Region,Transport injuries,Infant,736379.6407326228
+African Region,Transport injuries,Neonate,56814.952405433774
+African Region,Transport injuries,Young child,862041.7766925778
+African Region,Unintentional injuries,Adolescent,4003718.4096758813
+African Region,Unintentional injuries,Child,2851882.102713041
+African Region,Unintentional injuries,Infant,2770367.9456569003
+African Region,Unintentional injuries,Neonate,389669.69911420974
+African Region,Unintentional injuries,Young child,2525062.4683457157
+Eastern Mediterranean Region,Cardiovascular diseases,Adolescent,1007361.8248067201
+Eastern Mediterranean Region,Cardiovascular diseases,Child,406353.6975113464
+Eastern Mediterranean Region,Cardiovascular diseases,Infant,853758.5377223388
+Eastern Mediterranean Region,Cardiovascular diseases,Neonate,319707.6177738207
+Eastern Mediterranean Region,Cardiovascular diseases,Young child,323172.11205824494
+Eastern Mediterranean Region,Chronic respiratory diseases,Adolescent,351672.13308433804
+Eastern Mediterranean Region,Chronic respiratory diseases,Child,210843.54494687193
+Eastern Mediterranean Region,Chronic respiratory diseases,Infant,193752.4258495543
+Eastern Mediterranean Region,Chronic respiratory diseases,Neonate,20405.65293670369
+Eastern Mediterranean Region,Chronic respiratory diseases,Young child,147067.79512709242
+Eastern Mediterranean Region,Diabetes and kidney diseases,Adolescent,223540.78347323323
+Eastern Mediterranean Region,Diabetes and kidney diseases,Child,74300.45306113534
+Eastern Mediterranean Region,Diabetes and kidney diseases,Infant,85084.82859269841
+Eastern Mediterranean Region,Diabetes and kidney diseases,Neonate,4333.535777840381
+Eastern Mediterranean Region,Diabetes and kidney diseases,Young child,47404.67937937668
+Eastern Mediterranean Region,Digestive diseases,Adolescent,392668.47925156425
+Eastern Mediterranean Region,Digestive diseases,Child,173638.67723965892
+Eastern Mediterranean Region,Digestive diseases,Infant,229877.5900100759
+Eastern Mediterranean Region,Digestive diseases,Neonate,44864.18290319088
+Eastern Mediterranean Region,Digestive diseases,Young child,107656.81475532586
+Eastern Mediterranean Region,Enteric infections,Adolescent,646090.7071003458
+Eastern Mediterranean Region,Enteric infections,Child,763737.2001280632
+Eastern Mediterranean Region,Enteric infections,Infant,7275753.759035815
+Eastern Mediterranean Region,Enteric infections,Neonate,851735.2406843601
+Eastern Mediterranean Region,Enteric infections,Young child,1503400.112590401
+Eastern Mediterranean Region,HIV/AIDS and sexually transmitted infections,Adolescent,27847.77645527898
+Eastern Mediterranean Region,HIV/AIDS and sexually transmitted infections,Child,19288.413748051968
+Eastern Mediterranean Region,HIV/AIDS and sexually transmitted infections,Infant,265518.05183344695
+Eastern Mediterranean Region,HIV/AIDS and sexually transmitted infections,Neonate,488524.3384281914
+Eastern Mediterranean Region,HIV/AIDS and sexually transmitted infections,Young child,52949.08804644741
+Eastern Mediterranean Region,Maternal and neonatal disorders,Adolescent,716246.8755391365
+Eastern Mediterranean Region,Maternal and neonatal disorders,Child,267331.32207125524
+Eastern Mediterranean Region,Maternal and neonatal disorders,Infant,3839683.3365497077
+Eastern Mediterranean Region,Maternal and neonatal disorders,Neonate,29372459.710147105
+Eastern Mediterranean Region,Maternal and neonatal disorders,Young child,318289.5448375888
+Eastern Mediterranean Region,Mental disorders,Adolescent,2525352.5757938805
+Eastern Mediterranean Region,Mental disorders,Child,581322.9996024531
+Eastern Mediterranean Region,Mental disorders,Infant,57139.584481499565
+Eastern Mediterranean Region,Mental disorders,Neonate,2217.318804071998
+Eastern Mediterranean Region,Mental disorders,Young child,106174.03318144383
+Eastern Mediterranean Region,Musculoskeletal disorders,Adolescent,670493.8300212095
+Eastern Mediterranean Region,Musculoskeletal disorders,Child,54383.53052659103
+Eastern Mediterranean Region,Musculoskeletal disorders,Infant,1319.7793038594389
+Eastern Mediterranean Region,Musculoskeletal disorders,Neonate,0.0
+Eastern Mediterranean Region,Musculoskeletal disorders,Young child,874.3090321950684
+Eastern Mediterranean Region,Neglected tropical diseases and malaria,Adolescent,540227.7436828692
+Eastern Mediterranean Region,Neglected tropical diseases and malaria,Child,425747.1551128419
+Eastern Mediterranean Region,Neglected tropical diseases and malaria,Infant,429751.6126022145
+Eastern Mediterranean Region,Neglected tropical diseases and malaria,Neonate,25920.160485685537
+Eastern Mediterranean Region,Neglected tropical diseases and malaria,Young child,427705.6207696231
+Eastern Mediterranean Region,Neoplasms,Adolescent,670387.4859391548
+Eastern Mediterranean Region,Neoplasms,Child,436828.37425705366
+Eastern Mediterranean Region,Neoplasms,Infant,245095.20995998243
+Eastern Mediterranean Region,Neoplasms,Neonate,29315.503759274856
+Eastern Mediterranean Region,Neoplasms,Young child,287766.0514029369
+Eastern Mediterranean Region,Neurological disorders,Adolescent,979446.0803001736
+Eastern Mediterranean Region,Neurological disorders,Child,235628.04539428366
+Eastern Mediterranean Region,Neurological disorders,Infant,144873.03875616344
+Eastern Mediterranean Region,Neurological disorders,Neonate,9456.248519146886
+Eastern Mediterranean Region,Neurological disorders,Young child,117409.89523067119
+Eastern Mediterranean Region,Nutritional deficiencies,Adolescent,1216860.5854070988
+Eastern Mediterranean Region,Nutritional deficiencies,Child,1041734.2549840568
+Eastern Mediterranean Region,Nutritional deficiencies,Infant,1781384.971618319
+Eastern Mediterranean Region,Nutritional deficiencies,Neonate,29659.82961228212
+Eastern Mediterranean Region,Nutritional deficiencies,Young child,1159860.7241644873
+Eastern Mediterranean Region,Other infectious diseases,Adolescent,908531.9453534059
+Eastern Mediterranean Region,Other infectious diseases,Child,1475450.6846114246
+Eastern Mediterranean Region,Other infectious diseases,Infant,6920187.188446611
+Eastern Mediterranean Region,Other infectious diseases,Neonate,1089684.6911874407
+Eastern Mediterranean Region,Other infectious diseases,Young child,3227146.3670316804
+Eastern Mediterranean Region,Other non-communicable diseases,Adolescent,1174309.2191791667
+Eastern Mediterranean Region,Other non-communicable diseases,Child,807790.1596618999
+Eastern Mediterranean Region,Other non-communicable diseases,Infant,5511594.9279577695
+Eastern Mediterranean Region,Other non-communicable diseases,Neonate,3605270.102714406
+Eastern Mediterranean Region,Other non-communicable diseases,Young child,907651.940788419
+Eastern Mediterranean Region,Respiratory infections and tuberculosis,Adolescent,994822.2473030408
+Eastern Mediterranean Region,Respiratory infections and tuberculosis,Child,752676.9416477549
+Eastern Mediterranean Region,Respiratory infections and tuberculosis,Infant,7466217.777290059
+Eastern Mediterranean Region,Respiratory infections and tuberculosis,Neonate,3435567.1858759196
+Eastern Mediterranean Region,Respiratory infections and tuberculosis,Young child,1883306.5426471801
+Eastern Mediterranean Region,Self-harm and interpersonal violence,Adolescent,2165516.0858790283
+Eastern Mediterranean Region,Self-harm and interpersonal violence,Child,370912.8710993294
+Eastern Mediterranean Region,Self-harm and interpersonal violence,Infant,98869.52255621667
+Eastern Mediterranean Region,Self-harm and interpersonal violence,Neonate,6336.454928890537
+Eastern Mediterranean Region,Self-harm and interpersonal violence,Young child,108364.04654745164
+Eastern Mediterranean Region,Sense organ diseases,Adolescent,265982.84976658376
+Eastern Mediterranean Region,Sense organ diseases,Child,88297.98681609251
+Eastern Mediterranean Region,Sense organ diseases,Infant,11215.079147906978
+Eastern Mediterranean Region,Sense organ diseases,Neonate,302.2266136531648
+Eastern Mediterranean Region,Sense organ diseases,Young child,33120.4388825457
+Eastern Mediterranean Region,Skin and subcutaneous diseases,Adolescent,722956.1655224097
+Eastern Mediterranean Region,Skin and subcutaneous diseases,Child,658208.7565454536
+Eastern Mediterranean Region,Skin and subcutaneous diseases,Infant,192315.18685385838
+Eastern Mediterranean Region,Skin and subcutaneous diseases,Neonate,5524.043247169689
+Eastern Mediterranean Region,Skin and subcutaneous diseases,Young child,514347.2554881638
+Eastern Mediterranean Region,Substance use disorders,Adolescent,86350.1272328094
+Eastern Mediterranean Region,Substance use disorders,Child,892.5032236194905
+Eastern Mediterranean Region,Substance use disorders,Infant,347.78132622719244
+Eastern Mediterranean Region,Substance use disorders,Neonate,11.913298024014287
+Eastern Mediterranean Region,Substance use disorders,Young child,564.2459535983576
+Eastern Mediterranean Region,Transport injuries,Adolescent,1354651.692126399
+Eastern Mediterranean Region,Transport injuries,Child,671717.6431528308
+Eastern Mediterranean Region,Transport injuries,Infant,231871.78792061558
+Eastern Mediterranean Region,Transport injuries,Neonate,17823.484065355722
+Eastern Mediterranean Region,Transport injuries,Young child,385821.3990496203
+Eastern Mediterranean Region,Unintentional injuries,Adolescent,1818415.4469564438
+Eastern Mediterranean Region,Unintentional injuries,Child,1107377.4805576794
+Eastern Mediterranean Region,Unintentional injuries,Infant,962806.7713147586
+Eastern Mediterranean Region,Unintentional injuries,Neonate,142462.1884717371
+Eastern Mediterranean Region,Unintentional injuries,Young child,979059.7652011763
+European Region,Cardiovascular diseases,Adolescent,239418.70200727633
+European Region,Cardiovascular diseases,Child,56098.46969100646
+European Region,Cardiovascular diseases,Infant,119385.9859752308
+European Region,Cardiovascular diseases,Neonate,35855.33154654481
+European Region,Cardiovascular diseases,Young child,37257.661895679776
+European Region,Chronic respiratory diseases,Adolescent,337426.0204837222
+European Region,Chronic respiratory diseases,Child,151027.82183625107
+European Region,Chronic respiratory diseases,Infant,47431.6424735034
+European Region,Chronic respiratory diseases,Neonate,4397.937330684441
+European Region,Chronic respiratory diseases,Young child,89617.9983085819
+European Region,Diabetes and kidney diseases,Adolescent,90924.29156918045
+European Region,Diabetes and kidney diseases,Child,20527.635612169015
+European Region,Diabetes and kidney diseases,Infant,20364.61568143692
+European Region,Diabetes and kidney diseases,Neonate,727.2584960849922
+European Region,Diabetes and kidney diseases,Young child,11381.566298042346
+European Region,Digestive diseases,Adolescent,168388.78995721857
+European Region,Digestive diseases,Child,51088.49567552158
+European Region,Digestive diseases,Infant,70712.80311745273
+European Region,Digestive diseases,Neonate,12480.653639730512
+European Region,Digestive diseases,Young child,36549.676099481294
+European Region,Enteric infections,Adolescent,57216.604626763576
+European Region,Enteric infections,Child,61748.664128427044
+European Region,Enteric infections,Infant,640044.8334387823
+European Region,Enteric infections,Neonate,54639.00313638124
+European Region,Enteric infections,Young child,103303.73249750778
+European Region,HIV/AIDS and sexually transmitted infections,Adolescent,26785.305905110657
+European Region,HIV/AIDS and sexually transmitted infections,Child,12296.384700513407
+European Region,HIV/AIDS and sexually transmitted infections,Infant,27587.333708602004
+European Region,HIV/AIDS and sexually transmitted infections,Neonate,12069.6121907442
+European Region,HIV/AIDS and sexually transmitted infections,Young child,7796.494679341524
+European Region,Maternal and neonatal disorders,Adolescent,322236.94660513883
+European Region,Maternal and neonatal disorders,Child,151705.1262019993
+European Region,Maternal and neonatal disorders,Infant,751502.1121738597
+European Region,Maternal and neonatal disorders,Neonate,4700142.923094739
+European Region,Maternal and neonatal disorders,Young child,113480.17282715953
+European Region,Mental disorders,Adolescent,2532008.302503076
+European Region,Mental disorders,Child,545673.6795106328
+European Region,Mental disorders,Infant,44303.23598927073
+European Region,Mental disorders,Neonate,1724.9030287465105
+European Region,Mental disorders,Young child,86242.73036429421
+European Region,Musculoskeletal disorders,Adolescent,899045.8305055455
+European Region,Musculoskeletal disorders,Child,58843.29165117786
+European Region,Musculoskeletal disorders,Infant,1527.2316701385937
+European Region,Musculoskeletal disorders,Neonate,0.0
+European Region,Musculoskeletal disorders,Young child,800.0471157492126
+European Region,Neglected tropical diseases and malaria,Adolescent,46514.50594017796
+European Region,Neglected tropical diseases and malaria,Child,33490.22232595825
+European Region,Neglected tropical diseases and malaria,Infant,21770.101405532077
+European Region,Neglected tropical diseases and malaria,Neonate,902.9539786226063
+European Region,Neglected tropical diseases and malaria,Young child,24062.115555566063
+European Region,Neoplasms,Adolescent,474870.95256838866
+European Region,Neoplasms,Child,234638.4504398444
+European Region,Neoplasms,Infant,129697.29940560427
+European Region,Neoplasms,Neonate,13245.008327824487
+European Region,Neoplasms,Young child,166985.3736255133
+European Region,Neurological disorders,Adolescent,930970.016591679
+European Region,Neurological disorders,Child,151333.84009920488
+European Region,Neurological disorders,Infant,100117.476721667
+European Region,Neurological disorders,Neonate,8173.6916349619505
+European Region,Neurological disorders,Young child,63345.57479137591
+European Region,Nutritional deficiencies,Adolescent,416185.14528276195
+European Region,Nutritional deficiencies,Child,258688.18100877784
+European Region,Nutritional deficiencies,Infant,172145.8102393278
+European Region,Nutritional deficiencies,Neonate,4458.626298621469
+European Region,Nutritional deficiencies,Young child,174907.9839041307
+European Region,Other infectious diseases,Adolescent,134166.11639877228
+European Region,Other infectious diseases,Child,112040.48881701547
+European Region,Other infectious diseases,Infant,543393.2511345223
+European Region,Other infectious diseases,Neonate,104148.73925972896
+European Region,Other infectious diseases,Young child,166791.1887963283
+European Region,Other non-communicable diseases,Adolescent,731097.1834890089
+European Region,Other non-communicable diseases,Child,328693.8369070278
+European Region,Other non-communicable diseases,Infant,1977120.0452159187
+European Region,Other non-communicable diseases,Neonate,1415006.3771952374
+European Region,Other non-communicable diseases,Young child,346074.0539094794
+European Region,Respiratory infections and tuberculosis,Adolescent,328695.9274925977
+European Region,Respiratory infections and tuberculosis,Child,236531.7144982785
+European Region,Respiratory infections and tuberculosis,Infant,2304922.555192366
+European Region,Respiratory infections and tuberculosis,Neonate,866640.8620088827
+European Region,Respiratory infections and tuberculosis,Young child,427556.1575612969
+European Region,Self-harm and interpersonal violence,Adolescent,922309.3886381973
+European Region,Self-harm and interpersonal violence,Child,73340.41819930568
+European Region,Self-harm and interpersonal violence,Infant,52459.70607129713
+European Region,Self-harm and interpersonal violence,Neonate,6666.600560118067
+European Region,Self-harm and interpersonal violence,Young child,30337.363459558503
+European Region,Sense organ diseases,Adolescent,198411.2699168256
+European Region,Sense organ diseases,Child,60923.535817802855
+European Region,Sense organ diseases,Infant,7686.857258711727
+European Region,Sense organ diseases,Neonate,195.02016466458983
+European Region,Sense organ diseases,Young child,21741.057381425395
+European Region,Skin and subcutaneous diseases,Adolescent,493275.0273739664
+European Region,Skin and subcutaneous diseases,Child,307942.31219336705
+European Region,Skin and subcutaneous diseases,Infant,93517.10989071599
+European Region,Skin and subcutaneous diseases,Neonate,762.6903569141898
+European Region,Skin and subcutaneous diseases,Young child,234480.9290552308
+European Region,Substance use disorders,Adolescent,266819.6337729917
+European Region,Substance use disorders,Child,2369.9046034642156
+European Region,Substance use disorders,Infant,1337.6737583256277
+European Region,Substance use disorders,Neonate,123.31432363097467
+European Region,Substance use disorders,Young child,3443.4905460845844
+European Region,Transport injuries,Adolescent,851391.1762821592
+European Region,Transport injuries,Child,203600.67389284255
+European Region,Transport injuries,Infant,81836.49299774322
+European Region,Transport injuries,Neonate,5190.379657264302
+European Region,Transport injuries,Young child,116309.77791994128
+European Region,Unintentional injuries,Adolescent,1323659.398779235
+European Region,Unintentional injuries,Child,465087.0494728365
+European Region,Unintentional injuries,Infant,546911.545795605
+European Region,Unintentional injuries,Neonate,60416.15557500244
+European Region,Unintentional injuries,Young child,382775.48085467395
+Global,Cardiovascular diseases,Adolescent,5538433.869261909
+Global,Cardiovascular diseases,Child,1522263.6867107896
+Global,Cardiovascular diseases,Infant,3065745.3185072956
+Global,Cardiovascular diseases,Neonate,733010.3154102284
+Global,Cardiovascular diseases,Young child,1110611.7890953468
+Global,Chronic respiratory diseases,Adolescent,3302298.115917181
+Global,Chronic respiratory diseases,Child,1794585.0951467082
+Global,Chronic respiratory diseases,Infant,1393142.731345514
+Global,Chronic respiratory diseases,Neonate,204816.9297573724
+Global,Chronic respiratory diseases,Young child,1412654.4901374395
+Global,Diabetes and kidney diseases,Adolescent,2213227.2303797575
+Global,Diabetes and kidney diseases,Child,637034.857928612
+Global,Diabetes and kidney diseases,Infant,559986.156631707
+Global,Diabetes and kidney diseases,Neonate,18446.719602021978
+Global,Diabetes and kidney diseases,Young child,414827.4852882592
+Global,Digestive diseases,Adolescent,3761090.4994536517
+Global,Digestive diseases,Child,1443819.8410620969
+Global,Digestive diseases,Infant,2441304.175483837
+Global,Digestive diseases,Neonate,328000.6081392284
+Global,Digestive diseases,Young child,1172337.3767937769
+Global,Enteric infections,Adolescent,9913351.364290273
+Global,Enteric infections,Child,11675135.364641951
+Global,Enteric infections,Infant,68061164.98415183
+Global,Enteric infections,Neonate,6620307.248584812
+Global,Enteric infections,Young child,22128538.08043813
+Global,HIV/AIDS and sexually transmitted infections,Adolescent,2360792.8783411016
+Global,HIV/AIDS and sexually transmitted infections,Child,1393749.5426316513
+Global,HIV/AIDS and sexually transmitted infections,Infant,8961151.455756152
+Global,HIV/AIDS and sexually transmitted infections,Neonate,4699465.606966739
+Global,HIV/AIDS and sexually transmitted infections,Young child,3143001.9404290216
+Global,Maternal and neonatal disorders,Adolescent,7431540.791033786
+Global,Maternal and neonatal disorders,Child,2066733.5209081422
+Global,Maternal and neonatal disorders,Infant,20279313.455847237
+Global,Maternal and neonatal disorders,Neonate,194064720.67764208
+Global,Maternal and neonatal disorders,Young child,2363090.628483205
+Global,Mental disorders,Adolescent,21772490.350430913
+Global,Mental disorders,Child,5075981.704665799
+Global,Mental disorders,Infant,527264.1516323101
+Global,Mental disorders,Neonate,20574.80548236869
+Global,Mental disorders,Young child,963545.1142256805
+Global,Musculoskeletal disorders,Adolescent,5976774.879034163
+Global,Musculoskeletal disorders,Child,394170.4341297216
+Global,Musculoskeletal disorders,Infant,22822.712010530788
+Global,Musculoskeletal disorders,Neonate,0.0
+Global,Musculoskeletal disorders,Young child,9069.589442134475
+Global,Neglected tropical diseases and malaria,Adolescent,8140900.9383095885
+Global,Neglected tropical diseases and malaria,Child,7305950.2336816415
+Global,Neglected tropical diseases and malaria,Infant,27408349.693386797
+Global,Neglected tropical diseases and malaria,Neonate,2111650.081763881
+Global,Neglected tropical diseases and malaria,Young child,22681543.414068274
+Global,Neoplasms,Adolescent,5739897.796595282
+Global,Neoplasms,Child,3206513.114050586
+Global,Neoplasms,Infant,1905176.000385209
+Global,Neoplasms,Neonate,190114.35846098658
+Global,Neoplasms,Young child,2557427.514313636
+Global,Neurological disorders,Adolescent,9185405.955216717
+Global,Neurological disorders,Child,1887979.3079873994
+Global,Neurological disorders,Infant,1132684.4591275973
+Global,Neurological disorders,Neonate,64563.98177870934
+Global,Neurological disorders,Young child,962446.1268765173
+Global,Nutritional deficiencies,Adolescent,9139524.914082494
+Global,Nutritional deficiencies,Child,8391861.350868963
+Global,Nutritional deficiencies,Infant,17583784.526247445
+Global,Nutritional deficiencies,Neonate,171121.39156734556
+Global,Nutritional deficiencies,Young child,10754496.598543974
+Global,Other infectious diseases,Adolescent,8607581.661533521
+Global,Other infectious diseases,Child,13206326.430627713
+Global,Other infectious diseases,Infant,49285492.00055885
+Global,Other infectious diseases,Neonate,8045653.44220007
+Global,Other infectious diseases,Young child,26927651.021892995
+Global,Other non-communicable diseases,Adolescent,9569850.9847801
+Global,Other non-communicable diseases,Child,5116591.243416927
+Global,Other non-communicable diseases,Infant,30053283.081730124
+Global,Other non-communicable diseases,Neonate,22619570.516787812
+Global,Other non-communicable diseases,Young child,5908322.048991324
+Global,Respiratory infections and tuberculosis,Adolescent,10622905.870738922
+Global,Respiratory infections and tuberculosis,Child,8377630.397632972
+Global,Respiratory infections and tuberculosis,Infant,65904131.07002107
+Global,Respiratory infections and tuberculosis,Neonate,28474738.979688972
+Global,Respiratory infections and tuberculosis,Young child,21525339.433471538
+Global,Self-harm and interpersonal violence,Adolescent,13778556.569217293
+Global,Self-harm and interpersonal violence,Child,1549388.5582802456
+Global,Self-harm and interpersonal violence,Infant,937798.3559313868
+Global,Self-harm and interpersonal violence,Neonate,106208.63799791574
+Global,Self-harm and interpersonal violence,Young child,797203.9780769929
+Global,Sense organ diseases,Adolescent,2535663.8426913763
+Global,Sense organ diseases,Child,809762.3304413565
+Global,Sense organ diseases,Infant,98141.43815880513
+Global,Sense organ diseases,Neonate,2715.967845807087
+Global,Sense organ diseases,Young child,292221.4287499221
+Global,Skin and subcutaneous diseases,Adolescent,6231197.77721589
+Global,Skin and subcutaneous diseases,Child,4617822.519007521
+Global,Skin and subcutaneous diseases,Infant,1512020.569914251
+Global,Skin and subcutaneous diseases,Neonate,68327.81278992341
+Global,Skin and subcutaneous diseases,Young child,3341738.61540008
+Global,Substance use disorders,Adolescent,1305217.5824588155
+Global,Substance use disorders,Child,10704.165036847542
+Global,Substance use disorders,Infant,4384.233600630985
+Global,Substance use disorders,Neonate,233.24072096817673
+Global,Substance use disorders,Young child,8468.614560659631
+Global,Transport injuries,Adolescent,12276374.122595921
+Global,Transport injuries,Child,4750030.522900269
+Global,Transport injuries,Infant,1837051.8225777198
+Global,Transport injuries,Neonate,136338.5599698389
+Global,Transport injuries,Young child,2587401.7447598595
+Global,Unintentional injuries,Adolescent,18553102.61208036
+Global,Unintentional injuries,Child,10794848.256784046
+Global,Unintentional injuries,Infant,10529384.084627913
+Global,Unintentional injuries,Neonate,1487354.9219797605
+Global,Unintentional injuries,Young child,9575683.600116977
+Region of the Americas,Cardiovascular diseases,Adolescent,398722.6417136369
+Region of the Americas,Cardiovascular diseases,Child,100565.24176485228
+Region of the Americas,Cardiovascular diseases,Infant,212682.87672146392
+Region of the Americas,Cardiovascular diseases,Neonate,53138.57449415105
+Region of the Americas,Cardiovascular diseases,Young child,68112.5050026222
+Region of the Americas,Chronic respiratory diseases,Adolescent,701100.2508596272
+Region of the Americas,Chronic respiratory diseases,Child,430632.69430142373
+Region of the Americas,Chronic respiratory diseases,Infant,243578.87897074508
+Region of the Americas,Chronic respiratory diseases,Neonate,36837.74893496183
+Region of the Americas,Chronic respiratory diseases,Young child,302600.05459361477
+Region of the Americas,Diabetes and kidney diseases,Adolescent,194005.64303988553
+Region of the Americas,Diabetes and kidney diseases,Child,43547.108226361706
+Region of the Americas,Diabetes and kidney diseases,Infant,52217.62931055887
+Region of the Americas,Diabetes and kidney diseases,Neonate,1200.2301292480006
+Region of the Americas,Diabetes and kidney diseases,Young child,31386.204427049473
+Region of the Americas,Digestive diseases,Adolescent,259749.48144352538
+Region of the Americas,Digestive diseases,Child,104981.77773419626
+Region of the Americas,Digestive diseases,Infant,273282.2259116082
+Region of the Americas,Digestive diseases,Neonate,35080.71599275019
+Region of the Americas,Digestive diseases,Young child,116506.9073930688
+Region of the Americas,Enteric infections,Adolescent,112673.09440410636
+Region of the Americas,Enteric infections,Child,116371.86193717741
+Region of the Americas,Enteric infections,Infant,2439218.359869539
+Region of the Americas,Enteric infections,Neonate,168065.26424304384
+Region of the Americas,Enteric infections,Young child,326603.78888004104
+Region of the Americas,HIV/AIDS and sexually transmitted infections,Adolescent,90348.45976350144
+Region of the Americas,HIV/AIDS and sexually transmitted infections,Child,44737.48055511515
+Region of the Americas,HIV/AIDS and sexually transmitted infections,Infant,224648.0450981604
+Region of the Americas,HIV/AIDS and sexually transmitted infections,Neonate,120446.63929463035
+Region of the Americas,HIV/AIDS and sexually transmitted infections,Young child,87995.84465855312
+Region of the Americas,Maternal and neonatal disorders,Adolescent,534138.8460617424
+Region of the Americas,Maternal and neonatal disorders,Child,215330.5294585526
+Region of the Americas,Maternal and neonatal disorders,Infant,1525844.6731196232
+Region of the Americas,Maternal and neonatal disorders,Neonate,10226223.430288708
+Region of the Americas,Maternal and neonatal disorders,Young child,173586.9427109135
+Region of the Americas,Mental disorders,Adolescent,3262881.6487054573
+Region of the Americas,Mental disorders,Child,663936.3725322552
+Region of the Americas,Mental disorders,Infant,63118.58236914677
+Region of the Americas,Mental disorders,Neonate,2472.1387087375697
+Region of the Americas,Mental disorders,Young child,118311.80042047177
+Region of the Americas,Musculoskeletal disorders,Adolescent,1185284.739497024
+Region of the Americas,Musculoskeletal disorders,Child,60351.97064688438
+Region of the Americas,Musculoskeletal disorders,Infant,2820.900052339306
+Region of the Americas,Musculoskeletal disorders,Neonate,0.0
+Region of the Americas,Musculoskeletal disorders,Young child,1783.2054868358011
+Region of the Americas,Neglected tropical diseases and malaria,Adolescent,235936.84713188175
+Region of the Americas,Neglected tropical diseases and malaria,Child,142505.39291909029
+Region of the Americas,Neglected tropical diseases and malaria,Infant,138651.25302109343
+Region of the Americas,Neglected tropical diseases and malaria,Neonate,5362.130601869787
+Region of the Americas,Neglected tropical diseases and malaria,Young child,120958.46940266805
+Region of the Americas,Neoplasms,Adolescent,637706.8196177365
+Region of the Americas,Neoplasms,Child,334217.0810032139
+Region of the Americas,Neoplasms,Infant,172974.4694021342
+Region of the Americas,Neoplasms,Neonate,18352.807236203556
+Region of the Americas,Neoplasms,Young child,265069.87104192027
+Region of the Americas,Neurological disorders,Adolescent,1311257.2758892688
+Region of the Americas,Neurological disorders,Child,226863.50450778924
+Region of the Americas,Neurological disorders,Infant,118401.53119736316
+Region of the Americas,Neurological disorders,Neonate,7822.1492655284765
+Region of the Americas,Neurological disorders,Young child,92557.61293373567
+Region of the Americas,Nutritional deficiencies,Adolescent,555353.6170719863
+Region of the Americas,Nutritional deficiencies,Child,477679.6145471706
+Region of the Americas,Nutritional deficiencies,Infant,1098315.3899196
+Region of the Americas,Nutritional deficiencies,Neonate,7798.520269116755
+Region of the Americas,Nutritional deficiencies,Young child,416118.06277197145
+Region of the Americas,Other infectious diseases,Adolescent,177317.11604049886
+Region of the Americas,Other infectious diseases,Child,162344.61547478192
+Region of the Americas,Other infectious diseases,Infant,729109.251862531
+Region of the Americas,Other infectious diseases,Neonate,124364.08730745036
+Region of the Americas,Other infectious diseases,Young child,235689.5078786584
+Region of the Americas,Other non-communicable diseases,Adolescent,894024.5643647606
+Region of the Americas,Other non-communicable diseases,Child,412676.76485210675
+Region of the Americas,Other non-communicable diseases,Infant,2797430.7553737652
+Region of the Americas,Other non-communicable diseases,Neonate,2484362.6812092806
+Region of the Americas,Other non-communicable diseases,Young child,468952.3790902903
+Region of the Americas,Respiratory infections and tuberculosis,Adolescent,556898.8940616063
+Region of the Americas,Respiratory infections and tuberculosis,Child,343391.9760120534
+Region of the Americas,Respiratory infections and tuberculosis,Infant,3137043.0089728367
+Region of the Americas,Respiratory infections and tuberculosis,Neonate,735664.4097847743
+Region of the Americas,Respiratory infections and tuberculosis,Young child,606289.4299186438
+Region of the Americas,Self-harm and interpersonal violence,Adolescent,2255056.537093011
+Region of the Americas,Self-harm and interpersonal violence,Child,116940.27894357282
+Region of the Americas,Self-harm and interpersonal violence,Infant,145579.1273455855
+Region of the Americas,Self-harm and interpersonal violence,Neonate,24981.878479758187
+Region of the Americas,Self-harm and interpersonal violence,Young child,103911.48049071823
+Region of the Americas,Sense organ diseases,Adolescent,259233.27973896006
+Region of the Americas,Sense organ diseases,Child,78640.4555418388
+Region of the Americas,Sense organ diseases,Infant,9907.381874470162
+Region of the Americas,Sense organ diseases,Neonate,250.9745446316843
+Region of the Americas,Sense organ diseases,Young child,28197.407470886275
+Region of the Americas,Skin and subcutaneous diseases,Adolescent,644486.6111119814
+Region of the Americas,Skin and subcutaneous diseases,Child,441325.7503699822
+Region of the Americas,Skin and subcutaneous diseases,Infant,143671.8702616143
+Region of the Americas,Skin and subcutaneous diseases,Neonate,2830.5534309258433
+Region of the Americas,Skin and subcutaneous diseases,Young child,330292.247438498
+Region of the Americas,Substance use disorders,Adolescent,346793.786873913
+Region of the Americas,Substance use disorders,Child,797.5670370547183
+Region of the Americas,Substance use disorders,Infant,277.54063348434306
+Region of the Americas,Substance use disorders,Neonate,9.567192603059594
+Region of the Americas,Substance use disorders,Young child,482.73235603108185
+Region of the Americas,Transport injuries,Adolescent,1403859.739268867
+Region of the Americas,Transport injuries,Child,358254.7408300367
+Region of the Americas,Transport injuries,Infant,182373.26809304432
+Region of the Americas,Transport injuries,Neonate,11941.491786519857
+Region of the Americas,Transport injuries,Young child,246300.41066025122
+Region of the Americas,Unintentional injuries,Adolescent,1892182.5451692843
+Region of the Americas,Unintentional injuries,Child,704802.6550257517
+Region of the Americas,Unintentional injuries,Infant,1093404.2193234474
+Region of the Americas,Unintentional injuries,Neonate,157816.05854380733
+Region of the Americas,Unintentional injuries,Young child,649647.1249595528
+South-East Asia Region,Cardiovascular diseases,Adolescent,1552969.4221805043
+South-East Asia Region,Cardiovascular diseases,Child,309757.7523809599
+South-East Asia Region,Cardiovascular diseases,Infant,1075911.938409928
+South-East Asia Region,Cardiovascular diseases,Neonate,120641.89228583235
+South-East Asia Region,Cardiovascular diseases,Young child,337283.2702011921
+South-East Asia Region,Chronic respiratory diseases,Adolescent,559518.129725765
+South-East Asia Region,Chronic respiratory diseases,Child,221044.87110197454
+South-East Asia Region,Chronic respiratory diseases,Infant,311990.152171041
+South-East Asia Region,Chronic respiratory diseases,Neonate,114611.27353150026
+South-East Asia Region,Chronic respiratory diseases,Young child,168880.46945146623
+South-East Asia Region,Diabetes and kidney diseases,Adolescent,405890.45918155025
+South-East Asia Region,Diabetes and kidney diseases,Child,82944.08315966818
+South-East Asia Region,Diabetes and kidney diseases,Infant,34751.17910069652
+South-East Asia Region,Diabetes and kidney diseases,Neonate,1706.114790872603
+South-East Asia Region,Diabetes and kidney diseases,Young child,50835.18854388023
+South-East Asia Region,Digestive diseases,Adolescent,1250395.7977851816
+South-East Asia Region,Digestive diseases,Child,394191.90433084604
+South-East Asia Region,Digestive diseases,Infant,549700.7569519955
+South-East Asia Region,Digestive diseases,Neonate,60266.85889759192
+South-East Asia Region,Digestive diseases,Young child,218128.41969284255
+South-East Asia Region,Enteric infections,Adolescent,5025799.3345932895
+South-East Asia Region,Enteric infections,Child,5411745.0748790465
+South-East Asia Region,Enteric infections,Infant,19374870.503309015
+South-East Asia Region,Enteric infections,Neonate,3069968.34757739
+South-East Asia Region,Enteric infections,Young child,7121218.342942486
+South-East Asia Region,HIV/AIDS and sexually transmitted infections,Adolescent,141216.74840383558
+South-East Asia Region,HIV/AIDS and sexually transmitted infections,Child,58570.18129587816
+South-East Asia Region,HIV/AIDS and sexually transmitted infections,Infant,406644.47703167924
+South-East Asia Region,HIV/AIDS and sexually transmitted infections,Neonate,976911.1709298242
+South-East Asia Region,HIV/AIDS and sexually transmitted infections,Young child,139055.3687734584
+South-East Asia Region,Maternal and neonatal disorders,Adolescent,2604872.2008890826
+South-East Asia Region,Maternal and neonatal disorders,Child,891269.2865662802
+South-East Asia Region,Maternal and neonatal disorders,Infant,3506829.8382501146
+South-East Asia Region,Maternal and neonatal disorders,Neonate,66700889.44761626
+South-East Asia Region,Maternal and neonatal disorders,Young child,731056.8715214872
+South-East Asia Region,Mental disorders,Adolescent,4562045.775284395
+South-East Asia Region,Mental disorders,Child,1077117.8235648521
+South-East Asia Region,Mental disorders,Infant,142776.2687462965
+South-East Asia Region,Mental disorders,Neonate,5441.580835212699
+South-East Asia Region,Mental disorders,Young child,253583.75820597526
+South-East Asia Region,Musculoskeletal disorders,Adolescent,1275505.1649573294
+South-East Asia Region,Musculoskeletal disorders,Child,79118.3250417274
+South-East Asia Region,Musculoskeletal disorders,Infant,643.4827503789427
+South-East Asia Region,Musculoskeletal disorders,Neonate,0.0
+South-East Asia Region,Musculoskeletal disorders,Young child,1067.0135673642087
+South-East Asia Region,Neglected tropical diseases and malaria,Adolescent,1851241.3061755735
+South-East Asia Region,Neglected tropical diseases and malaria,Child,1835296.662516064
+South-East Asia Region,Neglected tropical diseases and malaria,Infant,1603535.9467646766
+South-East Asia Region,Neglected tropical diseases and malaria,Neonate,54945.703445622836
+South-East Asia Region,Neglected tropical diseases and malaria,Young child,1405880.3147922046
+South-East Asia Region,Neoplasms,Adolescent,1096268.8119568496
+South-East Asia Region,Neoplasms,Child,585981.3830754547
+South-East Asia Region,Neoplasms,Infant,280413.95049771515
+South-East Asia Region,Neoplasms,Neonate,52213.008021294474
+South-East Asia Region,Neoplasms,Young child,442164.4248233209
+South-East Asia Region,Neurological disorders,Adolescent,2337253.7738023708
+South-East Asia Region,Neurological disorders,Child,458749.8181144678
+South-East Asia Region,Neurological disorders,Infant,311789.00166691106
+South-East Asia Region,Neurological disorders,Neonate,21316.984079513873
+South-East Asia Region,Neurological disorders,Young child,216869.9979706023
+South-East Asia Region,Nutritional deficiencies,Adolescent,3819410.353460563
+South-East Asia Region,Nutritional deficiencies,Child,3256669.75117669
+South-East Asia Region,Nutritional deficiencies,Infant,6755580.983584152
+South-East Asia Region,Nutritional deficiencies,Neonate,54951.25590995515
+South-East Asia Region,Nutritional deficiencies,Young child,3420159.4899624856
+South-East Asia Region,Other infectious diseases,Adolescent,2654353.7619485613
+South-East Asia Region,Other infectious diseases,Child,4121431.770786843
+South-East Asia Region,Other infectious diseases,Infant,13998897.93353437
+South-East Asia Region,Other infectious diseases,Neonate,2860341.8742751437
+South-East Asia Region,Other infectious diseases,Young child,7542650.793487787
+South-East Asia Region,Other non-communicable diseases,Adolescent,2439341.7200297
+South-East Asia Region,Other non-communicable diseases,Child,1279587.420030781
+South-East Asia Region,Other non-communicable diseases,Infant,5854563.454602421
+South-East Asia Region,Other non-communicable diseases,Neonate,5732609.104267823
+South-East Asia Region,Other non-communicable diseases,Young child,1320927.6115409443
+South-East Asia Region,Respiratory infections and tuberculosis,Adolescent,2886613.2962524365
+South-East Asia Region,Respiratory infections and tuberculosis,Child,1875658.398479972
+South-East Asia Region,Respiratory infections and tuberculosis,Infant,18498952.686741263
+South-East Asia Region,Respiratory infections and tuberculosis,Neonate,11011571.125467042
+South-East Asia Region,Respiratory infections and tuberculosis,Young child,5005614.104866251
+South-East Asia Region,Self-harm and interpersonal violence,Adolescent,3189704.0711363237
+South-East Asia Region,Self-harm and interpersonal violence,Child,164547.573903213
+South-East Asia Region,Self-harm and interpersonal violence,Infant,93541.94119205727
+South-East Asia Region,Self-harm and interpersonal violence,Neonate,25269.629375469693
+South-East Asia Region,Self-harm and interpersonal violence,Young child,79187.68913348601
+South-East Asia Region,Sense organ diseases,Adolescent,669419.8506121853
+South-East Asia Region,Sense organ diseases,Child,208488.32739188624
+South-East Asia Region,Sense organ diseases,Infant,22376.832653989008
+South-East Asia Region,Sense organ diseases,Neonate,510.7861864805998
+South-East Asia Region,Sense organ diseases,Young child,71126.11712313729
+South-East Asia Region,Skin and subcutaneous diseases,Adolescent,1297954.624726545
+South-East Asia Region,Skin and subcutaneous diseases,Child,964204.8130730449
+South-East Asia Region,Skin and subcutaneous diseases,Infant,388479.95793169044
+South-East Asia Region,Skin and subcutaneous diseases,Neonate,37915.045163832416
+South-East Asia Region,Skin and subcutaneous diseases,Young child,702055.1819777342
+South-East Asia Region,Substance use disorders,Adolescent,198434.3473461289
+South-East Asia Region,Substance use disorders,Child,3413.9568776457227
+South-East Asia Region,Substance use disorders,Infant,1313.7848430908466
+South-East Asia Region,Substance use disorders,Neonate,52.60936093775638
+South-East Asia Region,Substance use disorders,Young child,2048.777939528065
+South-East Asia Region,Transport injuries,Adolescent,2169534.569159536
+South-East Asia Region,Transport injuries,Child,676313.328085474
+South-East Asia Region,Transport injuries,Infant,217986.92451395473
+South-East Asia Region,Transport injuries,Neonate,24994.17603766148
+South-East Asia Region,Transport injuries,Young child,327770.0151034952
+South-East Asia Region,Unintentional injuries,Adolescent,4560930.443985347
+South-East Asia Region,Unintentional injuries,Child,2771129.8011466856
+South-East Asia Region,Unintentional injuries,Infant,2688231.139376126
+South-East Asia Region,Unintentional injuries,Neonate,457241.0404795992
+South-East Asia Region,Unintentional injuries,Young child,2772183.6646923334
+Western Pacific Region,Cardiovascular diseases,Adolescent,1099936.6801945018
+Western Pacific Region,Cardiovascular diseases,Child,251797.77545154796
+Western Pacific Region,Cardiovascular diseases,Infant,372503.2199033886
+Western Pacific Region,Cardiovascular diseases,Neonate,98264.82258960248
+Western Pacific Region,Cardiovascular diseases,Young child,127782.02117073776
+Western Pacific Region,Chronic respiratory diseases,Adolescent,663704.31939448
+Western Pacific Region,Chronic respiratory diseases,Child,389306.1698504282
+Western Pacific Region,Chronic respiratory diseases,Infant,206186.57633936103
+Western Pacific Region,Chronic respiratory diseases,Neonate,11775.51468279611
+Western Pacific Region,Chronic respiratory diseases,Young child,328613.8710963458
+Western Pacific Region,Diabetes and kidney diseases,Adolescent,420378.2785516974
+Western Pacific Region,Diabetes and kidney diseases,Child,112799.15332754956
+Western Pacific Region,Diabetes and kidney diseases,Infant,69238.11846750716
+Western Pacific Region,Diabetes and kidney diseases,Neonate,2231.951607740303
+Western Pacific Region,Diabetes and kidney diseases,Young child,58143.82155937009
+Western Pacific Region,Digestive diseases,Adolescent,644101.8371842562
+Western Pacific Region,Digestive diseases,Child,272440.8006849652
+Western Pacific Region,Digestive diseases,Infant,789556.5987623319
+Western Pacific Region,Digestive diseases,Neonate,106853.83327012841
+Western Pacific Region,Digestive diseases,Young child,266628.92508862354
+Western Pacific Region,Enteric infections,Adolescent,725347.2057976183
+Western Pacific Region,Enteric infections,Child,746229.4777495153
+Western Pacific Region,Enteric infections,Infant,4898919.713731974
+Western Pacific Region,Enteric infections,Neonate,355835.4969514056
+Western Pacific Region,Enteric infections,Young child,1160310.2797933326
+Western Pacific Region,HIV/AIDS and sexually transmitted infections,Adolescent,61920.253330067615
+Western Pacific Region,HIV/AIDS and sexually transmitted infections,Child,24617.27265470038
+Western Pacific Region,HIV/AIDS and sexually transmitted infections,Infant,219039.0432776612
+Western Pacific Region,HIV/AIDS and sexually transmitted infections,Neonate,525281.4484662022
+Western Pacific Region,HIV/AIDS and sexually transmitted infections,Young child,40099.47405888768
+Western Pacific Region,Maternal and neonatal disorders,Adolescent,829620.0326257718
+Western Pacific Region,Maternal and neonatal disorders,Child,296028.2702258762
+Western Pacific Region,Maternal and neonatal disorders,Infant,2949552.05236273
+Western Pacific Region,Maternal and neonatal disorders,Neonate,20302690.05259853
+Western Pacific Region,Maternal and neonatal disorders,Young child,271347.3354984218
+Western Pacific Region,Mental disorders,Adolescent,4990480.610023236
+Western Pacific Region,Mental disorders,Child,1224841.830890763
+Western Pacific Region,Mental disorders,Infant,105189.96401531692
+Western Pacific Region,Mental disorders,Neonate,4002.252438917065
+Western Pacific Region,Mental disorders,Young child,207267.21137847178
+Western Pacific Region,Musculoskeletal disorders,Adolescent,1185321.9266199542
+Western Pacific Region,Musculoskeletal disorders,Child,70630.57248870145
+Western Pacific Region,Musculoskeletal disorders,Infant,5331.337833951478
+Western Pacific Region,Musculoskeletal disorders,Neonate,0.0
+Western Pacific Region,Musculoskeletal disorders,Young child,3438.0900620930147
+Western Pacific Region,Neglected tropical diseases and malaria,Adolescent,738726.8776182693
+Western Pacific Region,Neglected tropical diseases and malaria,Child,527308.3096882014
+Western Pacific Region,Neglected tropical diseases and malaria,Infant,523195.3443299483
+Western Pacific Region,Neglected tropical diseases and malaria,Neonate,25607.819986170558
+Western Pacific Region,Neglected tropical diseases and malaria,Young child,450630.6789409774
+Western Pacific Region,Neoplasms,Adolescent,1699754.065157586
+Western Pacific Region,Neoplasms,Child,840218.963954168
+Western Pacific Region,Neoplasms,Infant,612651.0998926824
+Western Pacific Region,Neoplasms,Neonate,42340.62183479371
+Western Pacific Region,Neoplasms,Young child,633183.7171346154
+Western Pacific Region,Neurological disorders,Adolescent,1788455.903933425
+Western Pacific Region,Neurological disorders,Child,315488.6209844031
+Western Pacific Region,Neurological disorders,Infant,158444.30043122257
+Western Pacific Region,Neurological disorders,Neonate,8148.862634204455
+Western Pacific Region,Neurological disorders,Young child,120678.29672275546
+Western Pacific Region,Nutritional deficiencies,Adolescent,1066347.3416540448
+Western Pacific Region,Nutritional deficiencies,Child,904652.6877241486
+Western Pacific Region,Nutritional deficiencies,Infant,1212236.2204350529
+Western Pacific Region,Nutritional deficiencies,Neonate,15933.958410721081
+Western Pacific Region,Nutritional deficiencies,Young child,589347.1776529552
+Western Pacific Region,Other infectious diseases,Adolescent,755597.8938062452
+Western Pacific Region,Other infectious diseases,Child,994422.8177562648
+Western Pacific Region,Other infectious diseases,Infant,4226158.104077658
+Western Pacific Region,Other infectious diseases,Neonate,727463.0710136103
+Western Pacific Region,Other infectious diseases,Young child,1683040.39582569
+Western Pacific Region,Other non-communicable diseases,Adolescent,2040900.5288232393
+Western Pacific Region,Other non-communicable diseases,Child,994388.1373397672
+Western Pacific Region,Other non-communicable diseases,Infant,6373883.05159439
+Western Pacific Region,Other non-communicable diseases,Neonate,3969754.5430532447
+Western Pacific Region,Other non-communicable diseases,Young child,1047344.7463138065
+Western Pacific Region,Respiratory infections and tuberculosis,Adolescent,1622373.6322487982
+Western Pacific Region,Respiratory infections and tuberculosis,Child,1149347.5633790465
+Western Pacific Region,Respiratory infections and tuberculosis,Infant,11055726.525964063
+Western Pacific Region,Respiratory infections and tuberculosis,Neonate,3659505.740091797
+Western Pacific Region,Respiratory infections and tuberculosis,Young child,2085854.1094906672
+Western Pacific Region,Self-harm and interpersonal violence,Adolescent,1694590.471521565
+Western Pacific Region,Self-harm and interpersonal violence,Child,192461.10212907998
+Western Pacific Region,Self-harm and interpersonal violence,Infant,171657.26217973512
+Western Pacific Region,Self-harm and interpersonal violence,Neonate,22348.989682855034
+Western Pacific Region,Self-harm and interpersonal violence,Young child,108034.57088099243
+Western Pacific Region,Sense organ diseases,Adolescent,662075.6983551163
+Western Pacific Region,Sense organ diseases,Child,191371.89393861164
+Western Pacific Region,Sense organ diseases,Infant,20009.443929765108
+Western Pacific Region,Sense organ diseases,Neonate,479.5750359714005
+Western Pacific Region,Sense organ diseases,Young child,64247.928188285114
+Western Pacific Region,Skin and subcutaneous diseases,Adolescent,1839434.3022600494
+Western Pacific Region,Skin and subcutaneous diseases,Child,1362671.2018353732
+Western Pacific Region,Skin and subcutaneous diseases,Infant,340824.2295041244
+Western Pacific Region,Skin and subcutaneous diseases,Neonate,7114.854359070368
+Western Pacific Region,Skin and subcutaneous diseases,Young child,942964.1648612297
+Western Pacific Region,Substance use disorders,Adolescent,322951.24921291834
+Western Pacific Region,Substance use disorders,Child,1492.6555107968109
+Western Pacific Region,Substance use disorders,Infant,497.70849134513526
+Western Pacific Region,Substance use disorders,Neonate,17.422497590612764
+Western Pacific Region,Substance use disorders,Young child,844.913837492439
+Western Pacific Region,Transport injuries,Adolescent,3175357.292884312
+Western Pacific Region,Transport injuries,Child,1027865.4735821995
+Western Pacific Region,Transport injuries,Infant,386603.70831973915
+Western Pacific Region,Transport injuries,Neonate,19574.076017603755
+Western Pacific Region,Transport injuries,Young child,649158.3653339735
+Western Pacific Region,Unintentional injuries,Adolescent,4954196.36751417
+Western Pacific Region,Unintentional injuries,Child,2894569.1678680517
+Western Pacific Region,Unintentional injuries,Infant,2467662.4631610755
+Western Pacific Region,Unintentional injuries,Neonate,279749.7797954049
+Western Pacific Region,Unintentional injuries,Young child,2266955.0960635245
+World Bank High Income,Cardiovascular diseases,Adolescent,293583.8003275429
+World Bank High Income,Cardiovascular diseases,Child,72658.87112867243
+World Bank High Income,Cardiovascular diseases,Infant,116832.46921393927
+World Bank High Income,Cardiovascular diseases,Neonate,35667.05330601453
+World Bank High Income,Cardiovascular diseases,Young child,48435.95990827739
+World Bank High Income,Chronic respiratory diseases,Adolescent,659230.2623234042
+World Bank High Income,Chronic respiratory diseases,Child,320586.9304963155
+World Bank High Income,Chronic respiratory diseases,Infant,54973.16439848734
+World Bank High Income,Chronic respiratory diseases,Neonate,1807.6404882784764
+World Bank High Income,Chronic respiratory diseases,Young child,171738.32196456814
+World Bank High Income,Diabetes and kidney diseases,Adolescent,93622.1302032314
+World Bank High Income,Diabetes and kidney diseases,Child,17592.817690496562
+World Bank High Income,Diabetes and kidney diseases,Infant,15410.606622070407
+World Bank High Income,Diabetes and kidney diseases,Neonate,782.0995426251711
+World Bank High Income,Diabetes and kidney diseases,Young child,9405.6061856265
+World Bank High Income,Digestive diseases,Adolescent,166165.96895252177
+World Bank High Income,Digestive diseases,Child,47572.79772113047
+World Bank High Income,Digestive diseases,Infant,58659.885387875285
+World Bank High Income,Digestive diseases,Neonate,12922.757081381616
+World Bank High Income,Digestive diseases,Young child,34969.29283500072
+World Bank High Income,Enteric infections,Adolescent,60146.80933651397
+World Bank High Income,Enteric infections,Child,57080.721865906875
+World Bank High Income,Enteric infections,Infant,193393.8759020598
+World Bank High Income,Enteric infections,Neonate,21526.243860692884
+World Bank High Income,Enteric infections,Young child,63850.922378703486
+World Bank High Income,HIV/AIDS and sexually transmitted infections,Adolescent,34515.76278547
+World Bank High Income,HIV/AIDS and sexually transmitted infections,Child,14743.66381407759
+World Bank High Income,HIV/AIDS and sexually transmitted infections,Infant,32579.317772688624
+World Bank High Income,HIV/AIDS and sexually transmitted infections,Neonate,8845.682268987151
+World Bank High Income,HIV/AIDS and sexually transmitted infections,Young child,11503.091189774117
+World Bank High Income,Maternal and neonatal disorders,Adolescent,406406.82177782105
+World Bank High Income,Maternal and neonatal disorders,Child,191029.655389354
+World Bank High Income,Maternal and neonatal disorders,Infant,657529.5105183467
+World Bank High Income,Maternal and neonatal disorders,Neonate,3554526.535746123
+World Bank High Income,Maternal and neonatal disorders,Young child,142475.57849095174
+World Bank High Income,Mental disorders,Adolescent,3736899.6042816574
+World Bank High Income,Mental disorders,Child,805463.0853568563
+World Bank High Income,Mental disorders,Infant,77162.9263880513
+World Bank High Income,Mental disorders,Neonate,3049.670884839491
+World Bank High Income,Mental disorders,Young child,143786.18364370847
+World Bank High Income,Musculoskeletal disorders,Adolescent,1470643.8334836755
+World Bank High Income,Musculoskeletal disorders,Child,78765.16101409408
+World Bank High Income,Musculoskeletal disorders,Infant,2084.36992924482
+World Bank High Income,Musculoskeletal disorders,Neonate,0.0
+World Bank High Income,Musculoskeletal disorders,Young child,1196.4884141122561
+World Bank High Income,Neglected tropical diseases and malaria,Adolescent,44926.26792362244
+World Bank High Income,Neglected tropical diseases and malaria,Child,26307.049706923524
+World Bank High Income,Neglected tropical diseases and malaria,Infant,14954.71396175877
+World Bank High Income,Neglected tropical diseases and malaria,Neonate,908.2131033445204
+World Bank High Income,Neglected tropical diseases and malaria,Young child,16775.087621026363
+World Bank High Income,Neoplasms,Adolescent,539228.1867693951
+World Bank High Income,Neoplasms,Child,243303.72862351412
+World Bank High Income,Neoplasms,Infant,120053.6426614658
+World Bank High Income,Neoplasms,Neonate,14482.846535600027
+World Bank High Income,Neoplasms,Young child,170208.94819321833
+World Bank High Income,Neurological disorders,Adolescent,1170435.2836412773
+World Bank High Income,Neurological disorders,Child,166515.33276518554
+World Bank High Income,Neurological disorders,Infant,100042.75003318815
+World Bank High Income,Neurological disorders,Neonate,9618.58150413428
+World Bank High Income,Neurological disorders,Young child,64697.22884733159
+World Bank High Income,Nutritional deficiencies,Adolescent,389326.96827193507
+World Bank High Income,Nutritional deficiencies,Child,202570.40266561657
+World Bank High Income,Nutritional deficiencies,Infant,125294.06117324141
+World Bank High Income,Nutritional deficiencies,Neonate,3270.7039320222475
+World Bank High Income,Nutritional deficiencies,Young child,126889.82237828405
+World Bank High Income,Other infectious diseases,Adolescent,110044.11873729395
+World Bank High Income,Other infectious diseases,Child,63483.31218805622
+World Bank High Income,Other infectious diseases,Infant,247401.06228968047
+World Bank High Income,Other infectious diseases,Neonate,75079.73686332462
+World Bank High Income,Other infectious diseases,Young child,77371.01624102185
+World Bank High Income,Other non-communicable diseases,Adolescent,926455.0990731388
+World Bank High Income,Other non-communicable diseases,Child,371100.1489109753
+World Bank High Income,Other non-communicable diseases,Infant,1921448.8553143917
+World Bank High Income,Other non-communicable diseases,Neonate,1404885.3841805232
+World Bank High Income,Other non-communicable diseases,Young child,372395.0145716733
+World Bank High Income,Respiratory infections and tuberculosis,Adolescent,337785.79150902573
+World Bank High Income,Respiratory infections and tuberculosis,Child,192959.30516117794
+World Bank High Income,Respiratory infections and tuberculosis,Infant,683424.090447401
+World Bank High Income,Respiratory infections and tuberculosis,Neonate,155100.06890001163
+World Bank High Income,Respiratory infections and tuberculosis,Young child,201126.9288245222
+World Bank High Income,Self-harm and interpersonal violence,Adolescent,1126889.4201011467
+World Bank High Income,Self-harm and interpersonal violence,Child,61880.918618207164
+World Bank High Income,Self-harm and interpersonal violence,Infant,92983.7393434932
+World Bank High Income,Self-harm and interpersonal violence,Neonate,11194.513375896313
+World Bank High Income,Self-harm and interpersonal violence,Young child,50848.36261592407
+World Bank High Income,Sense organ diseases,Adolescent,260096.36883567166
+World Bank High Income,Sense organ diseases,Child,79666.01276798226
+World Bank High Income,Sense organ diseases,Infant,10544.156907237084
+World Bank High Income,Sense organ diseases,Neonate,283.2571729535425
+World Bank High Income,Sense organ diseases,Young child,28470.505689433743
+World Bank High Income,Skin and subcutaneous diseases,Adolescent,645715.7166273779
+World Bank High Income,Skin and subcutaneous diseases,Child,362448.49989355914
+World Bank High Income,Skin and subcutaneous diseases,Infant,118094.22775655732
+World Bank High Income,Skin and subcutaneous diseases,Neonate,1353.4932481341607
+World Bank High Income,Skin and subcutaneous diseases,Young child,278051.71421304427
+World Bank High Income,Substance use disorders,Adolescent,455534.64616272267
+World Bank High Income,Substance use disorders,Child,879.8590896850093
+World Bank High Income,Substance use disorders,Infant,305.92770513300525
+World Bank High Income,Substance use disorders,Neonate,10.976169385156567
+World Bank High Income,Substance use disorders,Young child,558.9675235080712
+World Bank High Income,Transport injuries,Adolescent,1401710.8272987793
+World Bank High Income,Transport injuries,Child,255444.68289445387
+World Bank High Income,Transport injuries,Infant,103920.19318179888
+World Bank High Income,Transport injuries,Neonate,6097.870899609393
+World Bank High Income,Transport injuries,Young child,158755.16096175
+World Bank High Income,Unintentional injuries,Adolescent,1614982.640206317
+World Bank High Income,Unintentional injuries,Child,499029.62614932377
+World Bank High Income,Unintentional injuries,Infant,486645.94924595655
+World Bank High Income,Unintentional injuries,Neonate,50379.18321973607
+World Bank High Income,Unintentional injuries,Young child,356745.54591052874
+World Bank Low Income,Cardiovascular diseases,Adolescent,885138.4222043008
+World Bank Low Income,Cardiovascular diseases,Child,313747.203055496
+World Bank Low Income,Cardiovascular diseases,Infant,339926.9177027749
+World Bank Low Income,Cardiovascular diseases,Neonate,123753.80173702586
+World Bank Low Income,Cardiovascular diseases,Young child,159075.56342537244
+World Bank Low Income,Chronic respiratory diseases,Adolescent,413764.1548657371
+World Bank Low Income,Chronic respiratory diseases,Child,257534.58120423454
+World Bank Low Income,Chronic respiratory diseases,Infant,219988.16925722652
+World Bank Low Income,Chronic respiratory diseases,Neonate,12928.13310756672
+World Bank Low Income,Chronic respiratory diseases,Young child,208765.2338946714
+World Bank Low Income,Diabetes and kidney diseases,Adolescent,517388.83988399396
+World Bank Low Income,Diabetes and kidney diseases,Child,171868.45899102368
+World Bank Low Income,Diabetes and kidney diseases,Infant,161491.2310499382
+World Bank Low Income,Diabetes and kidney diseases,Neonate,5568.009013626549
+World Bank Low Income,Diabetes and kidney diseases,Young child,104342.35160601769
+World Bank Low Income,Digestive diseases,Adolescent,605281.4644626462
+World Bank Low Income,Digestive diseases,Child,255945.0679048495
+World Bank Low Income,Digestive diseases,Infant,259179.93146952416
+World Bank Low Income,Digestive diseases,Neonate,41158.426583960536
+World Bank Low Income,Digestive diseases,Young child,210860.2074441618
+World Bank Low Income,Enteric infections,Adolescent,1961021.3927477377
+World Bank Low Income,Enteric infections,Child,2490737.977877336
+World Bank Low Income,Enteric infections,Infant,17021528.640061844
+World Bank Low Income,Enteric infections,Neonate,1377547.9578070021
+World Bank Low Income,Enteric infections,Young child,5698967.456304927
+World Bank Low Income,HIV/AIDS and sexually transmitted infections,Adolescent,830387.3443871716
+World Bank Low Income,HIV/AIDS and sexually transmitted infections,Child,534046.242936758
+World Bank Low Income,HIV/AIDS and sexually transmitted infections,Infant,3351972.701738904
+World Bank Low Income,HIV/AIDS and sexually transmitted infections,Neonate,1629469.06394704
+World Bank Low Income,HIV/AIDS and sexually transmitted infections,Young child,1242151.7294197474
+World Bank Low Income,Maternal and neonatal disorders,Adolescent,1532200.5483600602
+World Bank Low Income,Maternal and neonatal disorders,Child,157796.78952948816
+World Bank Low Income,Maternal and neonatal disorders,Infant,5448289.944413829
+World Bank Low Income,Maternal and neonatal disorders,Neonate,35688214.11608426
+World Bank Low Income,Maternal and neonatal disorders,Young child,406928.129694328
+World Bank Low Income,Mental disorders,Adolescent,2229234.027595242
+World Bank Low Income,Mental disorders,Child,568024.9728789561
+World Bank Low Income,Mental disorders,Infant,68588.27982990979
+World Bank Low Income,Mental disorders,Neonate,2816.0473853297226
+World Bank Low Income,Mental disorders,Young child,115411.04614065684
+World Bank Low Income,Musculoskeletal disorders,Adolescent,477757.0786581968
+World Bank Low Income,Musculoskeletal disorders,Child,47818.6832064302
+World Bank Low Income,Musculoskeletal disorders,Infant,3514.139222783694
+World Bank Low Income,Musculoskeletal disorders,Neonate,0.0
+World Bank Low Income,Musculoskeletal disorders,Young child,710.1776220845737
+World Bank Low Income,Neglected tropical diseases and malaria,Adolescent,2578003.6949578486
+World Bank Low Income,Neglected tropical diseases and malaria,Child,2270172.9001118448
+World Bank Low Income,Neglected tropical diseases and malaria,Infant,13723008.047300018
+World Bank Low Income,Neglected tropical diseases and malaria,Neonate,1071582.6169852463
+World Bank Low Income,Neglected tropical diseases and malaria,Young child,10286844.637644434
+World Bank Low Income,Neoplasms,Adolescent,843983.709271012
+World Bank Low Income,Neoplasms,Child,537431.8547141422
+World Bank Low Income,Neoplasms,Infant,331871.19458752853
+World Bank Low Income,Neoplasms,Neonate,26385.674533023906
+World Bank Low Income,Neoplasms,Young child,473986.3316501357
+World Bank Low Income,Neurological disorders,Adolescent,1053363.6839954827
+World Bank Low Income,Neurological disorders,Child,288640.6059943178
+World Bank Low Income,Neurological disorders,Infant,167700.274224169
+World Bank Low Income,Neurological disorders,Neonate,6201.996202058495
+World Bank Low Income,Neurological disorders,Young child,194098.5595077627
+World Bank Low Income,Nutritional deficiencies,Adolescent,1332218.128945132
+World Bank Low Income,Nutritional deficiencies,Child,1608365.302711275
+World Bank Low Income,Nutritional deficiencies,Infant,4030160.746452301
+World Bank Low Income,Nutritional deficiencies,Neonate,43477.15291691001
+World Bank Low Income,Nutritional deficiencies,Young child,2917845.3696278357
+World Bank Low Income,Other infectious diseases,Adolescent,2389900.920709618
+World Bank Low Income,Other infectious diseases,Child,4180096.65331385
+World Bank Low Income,Other infectious diseases,Infant,15924628.603633478
+World Bank Low Income,Other infectious diseases,Neonate,2187876.821093865
+World Bank Low Income,Other infectious diseases,Young child,9373690.637823662
+World Bank Low Income,Other non-communicable diseases,Adolescent,1336328.2266862094
+World Bank Low Income,Other non-communicable diseases,Child,836265.6572784424
+World Bank Low Income,Other non-communicable diseases,Infant,5564149.569102639
+World Bank Low Income,Other non-communicable diseases,Neonate,3744935.692420472
+World Bank Low Income,Other non-communicable diseases,Young child,1056077.2734049747
+World Bank Low Income,Respiratory infections and tuberculosis,Adolescent,2599251.9801173597
+World Bank Low Income,Respiratory infections and tuberculosis,Child,2240693.7484994554
+World Bank Low Income,Respiratory infections and tuberculosis,Infant,13006958.079837251
+World Bank Low Income,Respiratory infections and tuberculosis,Neonate,4478881.41535838
+World Bank Low Income,Respiratory infections and tuberculosis,Young child,5611788.075434325
+World Bank Low Income,Self-harm and interpersonal violence,Adolescent,3679255.632895564
+World Bank Low Income,Self-harm and interpersonal violence,Child,698135.3085926892
+World Bank Low Income,Self-harm and interpersonal violence,Infant,226220.9676124009
+World Bank Low Income,Self-harm and interpersonal violence,Neonate,12979.582415841769
+World Bank Low Income,Self-harm and interpersonal violence,Young child,236824.61662294812
+World Bank Low Income,Sense organ diseases,Adolescent,256613.49423591324
+World Bank Low Income,Sense organ diseases,Child,98436.86671933049
+World Bank Low Income,Sense organ diseases,Infant,14464.21599455009
+World Bank Low Income,Sense organ diseases,Neonate,479.8778845171776
+World Bank Low Income,Sense organ diseases,Young child,39934.5992380883
+World Bank Low Income,Skin and subcutaneous diseases,Adolescent,732748.1043205481
+World Bank Low Income,Skin and subcutaneous diseases,Child,570997.4194080068
+World Bank Low Income,Skin and subcutaneous diseases,Infant,196851.62280035522
+World Bank Low Income,Skin and subcutaneous diseases,Neonate,6913.470171422887
+World Bank Low Income,Skin and subcutaneous diseases,Young child,406861.9988643996
+World Bank Low Income,Substance use disorders,Adolescent,56748.24635965046
+World Bank Low Income,Substance use disorders,Child,959.8862710209366
+World Bank Low Income,Substance use disorders,Infant,334.63228006824414
+World Bank Low Income,Substance use disorders,Neonate,10.328338708402898
+World Bank Low Income,Substance use disorders,Young child,589.9638268363685
+World Bank Low Income,Transport injuries,Adolescent,2217067.9176140293
+World Bank Low Income,Transport injuries,Child,1142803.9506652895
+World Bank Low Income,Transport injuries,Infant,356036.93031672447
+World Bank Low Income,Transport injuries,Neonate,28366.91827467732
+World Bank Low Income,Transport injuries,Young child,464912.7079482132
+World Bank Low Income,Unintentional injuries,Adolescent,2608759.150389076
+World Bank Low Income,Unintentional injuries,Child,1920763.7792358212
+World Bank Low Income,Unintentional injuries,Infant,1586364.6713873679
+World Bank Low Income,Unintentional injuries,Neonate,248887.35905914032
+World Bank Low Income,Unintentional injuries,Young child,1472695.7438501231
+World Bank Lower Middle Income,Cardiovascular diseases,Adolescent,2868694.6609454216
+World Bank Lower Middle Income,Cardiovascular diseases,Child,758469.0035642926
+World Bank Lower Middle Income,Cardiovascular diseases,Infant,1960756.0657126587
+World Bank Lower Middle Income,Cardiovascular diseases,Neonate,402655.8198178365
+World Bank Lower Middle Income,Cardiovascular diseases,Young child,686023.6150242935
+World Bank Lower Middle Income,Chronic respiratory diseases,Adolescent,1191772.417059883
+World Bank Lower Middle Income,Chronic respiratory diseases,Child,596246.2106728317
+World Bank Lower Middle Income,Chronic respiratory diseases,Infant,715191.4644098051
+World Bank Lower Middle Income,Chronic respiratory diseases,Neonate,151540.8674922106
+World Bank Lower Middle Income,Chronic respiratory diseases,Young child,537964.0800999482
+World Bank Lower Middle Income,Diabetes and kidney diseases,Adolescent,1023210.1214267035
+World Bank Lower Middle Income,Diabetes and kidney diseases,Child,301124.23633144674
+World Bank Lower Middle Income,Diabetes and kidney diseases,Infant,252634.42619268683
+World Bank Lower Middle Income,Diabetes and kidney diseases,Neonate,8324.482635806251
+World Bank Lower Middle Income,Diabetes and kidney diseases,Young child,218741.3128737752
+World Bank Lower Middle Income,Digestive diseases,Adolescent,2121999.422441968
+World Bank Lower Middle Income,Digestive diseases,Child,780717.5458921186
+World Bank Lower Middle Income,Digestive diseases,Infant,1133319.95397399
+World Bank Lower Middle Income,Digestive diseases,Neonate,137751.75475578802
+World Bank Lower Middle Income,Digestive diseases,Young child,579673.5319667284
+World Bank Lower Middle Income,Enteric infections,Adolescent,7070139.824542412
+World Bank Lower Middle Income,Enteric infections,Child,8317100.839312671
+World Bank Lower Middle Income,Enteric infections,Infant,43443323.02220767
+World Bank Lower Middle Income,Enteric infections,Neonate,4694514.680371628
+World Bank Lower Middle Income,Enteric infections,Young child,15061644.967009155
+World Bank Lower Middle Income,HIV/AIDS and sexually transmitted infections,Adolescent,1124416.6876793231
+World Bank Lower Middle Income,HIV/AIDS and sexually transmitted infections,Child,679610.3956081681
+World Bank Lower Middle Income,HIV/AIDS and sexually transmitted infections,Infant,4521029.032725418
+World Bank Lower Middle Income,HIV/AIDS and sexually transmitted infections,Neonate,2433693.1953013344
+World Bank Lower Middle Income,HIV/AIDS and sexually transmitted infections,Young child,1586614.398668563
+World Bank Lower Middle Income,Maternal and neonatal disorders,Adolescent,4279341.955658085
+World Bank Lower Middle Income,Maternal and neonatal disorders,Child,1255146.8054792827
+World Bank Lower Middle Income,Maternal and neonatal disorders,Infant,9216601.831029879
+World Bank Lower Middle Income,Maternal and neonatal disorders,Neonate,124050289.57552809
+World Bank Lower Middle Income,Maternal and neonatal disorders,Young child,1386132.1274310255
+World Bank Lower Middle Income,Mental disorders,Adolescent,8301301.610261627
+World Bank Lower Middle Income,Mental disorders,Child,2008792.7987760901
+World Bank Lower Middle Income,Mental disorders,Infant,248064.62061666546
+World Bank Lower Middle Income,Mental disorders,Neonate,9633.740091784699
+World Bank Lower Middle Income,Mental disorders,Young child,436000.91508641694
+World Bank Lower Middle Income,Musculoskeletal disorders,Adolescent,2147509.3309942866
+World Bank Lower Middle Income,Musculoskeletal disorders,Child,149108.3694473135
+World Bank Lower Middle Income,Musculoskeletal disorders,Infant,9067.319702730532
+World Bank Lower Middle Income,Musculoskeletal disorders,Neonate,0.0
+World Bank Lower Middle Income,Musculoskeletal disorders,Young child,2175.577613430405
+World Bank Lower Middle Income,Neglected tropical diseases and malaria,Adolescent,4723329.765343596
+World Bank Lower Middle Income,Neglected tropical diseases and malaria,Child,4433451.27194682
+World Bank Lower Middle Income,Neglected tropical diseases and malaria,Infant,13041257.395674976
+World Bank Lower Middle Income,Neglected tropical diseases and malaria,Neonate,1006058.7538953542
+World Bank Lower Middle Income,Neglected tropical diseases and malaria,Young child,11864677.401493547
+World Bank Lower Middle Income,Neoplasms,Adolescent,2025542.9228988132
+World Bank Lower Middle Income,Neoplasms,Child,1223539.5954344468
+World Bank Lower Middle Income,Neoplasms,Infant,638008.2436014559
+World Bank Lower Middle Income,Neoplasms,Neonate,87837.06093616973
+World Bank Lower Middle Income,Neoplasms,Young child,1048178.3336776649
+World Bank Lower Middle Income,Neurological disorders,Adolescent,4073491.742998548
+World Bank Lower Middle Income,Neurological disorders,Child,894084.0332790125
+World Bank Lower Middle Income,Neurological disorders,Infant,567420.4479818146
+World Bank Lower Middle Income,Neurological disorders,Neonate,32674.028461569433
+World Bank Lower Middle Income,Neurological disorders,Young child,483166.7359630525
+World Bank Lower Middle Income,Nutritional deficiencies,Adolescent,5825721.081214228
+World Bank Lower Middle Income,Nutritional deficiencies,Child,5180479.544461448
+World Bank Lower Middle Income,Nutritional deficiencies,Infant,11256679.421232954
+World Bank Lower Middle Income,Nutritional deficiencies,Neonate,100880.51427849734
+World Bank Lower Middle Income,Nutritional deficiencies,Young child,6782070.674912772
+World Bank Lower Middle Income,Other infectious diseases,Adolescent,5261794.29537495
+World Bank Lower Middle Income,Other infectious diseases,Child,7933591.7956484
+World Bank Lower Middle Income,Other infectious diseases,Infant,28439793.25078758
+World Bank Lower Middle Income,Other infectious diseases,Neonate,5092883.65727605
+World Bank Lower Middle Income,Other infectious diseases,Young child,15818769.536361586
+World Bank Lower Middle Income,Other non-communicable diseases,Adolescent,4520109.655090158
+World Bank Lower Middle Income,Other non-communicable diseases,Child,2477210.5814029723
+World Bank Lower Middle Income,Other non-communicable diseases,Infant,12882256.906452173
+World Bank Lower Middle Income,Other non-communicable diseases,Neonate,11125483.186260592
+World Bank Lower Middle Income,Other non-communicable diseases,Young child,2951934.727189135
+World Bank Lower Middle Income,Respiratory infections and tuberculosis,Adolescent,5680202.612174434
+World Bank Lower Middle Income,Respiratory infections and tuberculosis,Child,4602765.256049976
+World Bank Lower Middle Income,Respiratory infections and tuberculosis,Infant,38193070.7316743
+World Bank Lower Middle Income,Respiratory infections and tuberculosis,Neonate,19845745.124752358
+World Bank Lower Middle Income,Respiratory infections and tuberculosis,Young child,13450350.084671756
+World Bank Lower Middle Income,Self-harm and interpersonal violence,Adolescent,4799972.216761084
+World Bank Lower Middle Income,Self-harm and interpersonal violence,Child,394869.57687157724
+World Bank Lower Middle Income,Self-harm and interpersonal violence,Infant,321219.02520885225
+World Bank Lower Middle Income,Self-harm and interpersonal violence,Neonate,38747.823571224086
+World Bank Lower Middle Income,Self-harm and interpersonal violence,Young child,300770.8066951825
+World Bank Lower Middle Income,Sense organ diseases,Adolescent,1171344.7524138554
+World Bank Lower Middle Income,Sense organ diseases,Child,387754.3032868932
+World Bank Lower Middle Income,Sense organ diseases,Infant,46581.54900707993
+World Bank Lower Middle Income,Sense organ diseases,Neonate,1317.0123948300347
+World Bank Lower Middle Income,Sense organ diseases,Young child,140504.43344895905
+World Bank Lower Middle Income,Skin and subcutaneous diseases,Adolescent,2460607.350083865
+World Bank Lower Middle Income,Skin and subcutaneous diseases,Child,1897412.0711117198
+World Bank Lower Middle Income,Skin and subcutaneous diseases,Infant,738912.5494956769
+World Bank Lower Middle Income,Skin and subcutaneous diseases,Neonate,51160.494455876724
+World Bank Lower Middle Income,Skin and subcutaneous diseases,Young child,1404521.488573513
+World Bank Lower Middle Income,Substance use disorders,Adolescent,303111.5955261628
+World Bank Lower Middle Income,Substance use disorders,Child,6188.2266353825225
+World Bank Lower Middle Income,Substance use disorders,Infant,2707.444977178848
+World Bank Lower Middle Income,Substance use disorders,Neonate,146.68681864928402
+World Bank Lower Middle Income,Substance use disorders,Young child,5011.573859307664
+World Bank Lower Middle Income,Transport injuries,Adolescent,4170230.742501307
+World Bank Lower Middle Income,Transport injuries,Child,1838724.4295554832
+World Bank Lower Middle Income,Transport injuries,Infant,744063.062497992
+World Bank Lower Middle Income,Transport injuries,Neonate,66004.074339731
+World Bank Lower Middle Income,Transport injuries,Young child,998920.2406536874
+World Bank Lower Middle Income,Unintentional injuries,Adolescent,7953062.922579051
+World Bank Lower Middle Income,Unintentional injuries,Child,5022652.374322229
+World Bank Lower Middle Income,Unintentional injuries,Infant,5021516.824630504
+World Bank Lower Middle Income,Unintentional injuries,Neonate,783301.0460876975
+World Bank Lower Middle Income,Unintentional injuries,Young child,5077383.694824979
+World Bank Upper Middle Income,Cardiovascular diseases,Adolescent,1502811.4118485497
+World Bank Upper Middle Income,Cardiovascular diseases,Child,380860.36784709705
+World Bank Upper Middle Income,Cardiovascular diseases,Infant,653052.283320559
+World Bank Upper Middle Income,Cardiovascular diseases,Neonate,172730.02142246105
+World Bank Upper Middle Income,Cardiovascular diseases,Young child,219170.03551887994
+World Bank Upper Middle Income,Chronic respiratory diseases,Adolescent,1053247.3205878336
+World Bank Upper Middle Income,Chronic respiratory diseases,Child,630365.3598904263
+World Bank Upper Middle Income,Chronic respiratory diseases,Infant,405702.7656843274
+World Bank Upper Middle Income,Chronic respiratory diseases,Neonate,38827.14071387669
+World Bank Upper Middle Income,Chronic respiratory diseases,Young child,501295.6524366321
+World Bank Upper Middle Income,Diabetes and kidney diseases,Adolescent,584367.5299850098
+World Bank Upper Middle Income,Diabetes and kidney diseases,Child,147476.66749446644
+World Bank Upper Middle Income,Diabetes and kidney diseases,Infant,131459.67341065378
+World Bank Upper Middle Income,Diabetes and kidney diseases,Neonate,3817.793793513356
+World Bank Upper Middle Income,Diabetes and kidney diseases,Young child,82838.7274891606
+World Bank Upper Middle Income,Digestive diseases,Adolescent,873698.4587079566
+World Bank Upper Middle Income,Digestive diseases,Child,361741.83585978486
+World Bank Upper Middle Income,Digestive diseases,Infant,993582.6476580207
+World Bank Upper Middle Income,Digestive diseases,Neonate,136920.50054750888
+World Bank Upper Middle Income,Digestive diseases,Young child,348532.509282195
+World Bank Upper Middle Income,Enteric infections,Adolescent,824254.1283071346
+World Bank Upper Middle Income,Enteric infections,Child,812552.5971123818
+World Bank Upper Middle Income,Enteric infections,Infant,7410200.923757017
+World Bank Upper Middle Income,Enteric infections,Neonate,527616.5756707822
+World Bank Upper Middle Income,Enteric infections,Young child,1307026.4026639275
+World Bank Upper Middle Income,HIV/AIDS and sexually transmitted infections,Adolescent,372231.07231442834
+World Bank Upper Middle Income,HIV/AIDS and sexually transmitted infections,Child,165509.9547067224
+World Bank Upper Middle Income,HIV/AIDS and sexually transmitted infections,Infant,1056310.9199468875
+World Bank Upper Middle Income,HIV/AIDS and sexually transmitted infections,Neonate,628418.2247090748
+World Bank Upper Middle Income,HIV/AIDS and sexually transmitted infections,Young child,302890.3150877403
+World Bank Upper Middle Income,Maternal and neonatal disorders,Adolescent,1225176.8231842995
+World Bank Upper Middle Income,Maternal and neonatal disorders,Child,468306.29118755914
+World Bank Upper Middle Income,Maternal and neonatal disorders,Infant,4993288.485053748
+World Bank Upper Middle Income,Maternal and neonatal disorders,Neonate,30918953.98209433
+World Bank Upper Middle Income,Maternal and neonatal disorders,Young child,432350.4222839913
+World Bank Upper Middle Income,Mental disorders,Adolescent,7594030.352342052
+World Bank Upper Middle Income,Mental disorders,Child,1712331.6324169966
+World Bank Upper Middle Income,Mental disorders,Infant,134785.68844783545
+World Bank Upper Middle Income,Mental disorders,Neonate,5127.975392399096
+World Bank Upper Middle Income,Mental disorders,Young child,270970.82660691603
+World Bank Upper Middle Income,Musculoskeletal disorders,Adolescent,1902195.7640717654
+World Bank Upper Middle Income,Musculoskeletal disorders,Child,119755.7443220343
+World Bank Upper Middle Income,Musculoskeletal disorders,Infant,8192.11264606916
+World Bank Upper Middle Income,Musculoskeletal disorders,Neonate,0.0
+World Bank Upper Middle Income,Musculoskeletal disorders,Young child,5011.818662587609
+World Bank Upper Middle Income,Neglected tropical diseases and malaria,Adolescent,796726.2685178233
+World Bank Upper Middle Income,Neglected tropical diseases and malaria,Child,577977.3373814535
+World Bank Upper Middle Income,Neglected tropical diseases and malaria,Infant,629659.1914470228
+World Bank Upper Middle Income,Neglected tropical diseases and malaria,Neonate,33117.23522032007
+World Bank Upper Middle Income,Neglected tropical diseases and malaria,Young child,514006.1052645987
+World Bank Upper Middle Income,Neoplasms,Adolescent,2349668.0709751346
+World Bank Upper Middle Income,Neoplasms,Child,1209381.073729633
+World Bank Upper Middle Income,Neoplasms,Infant,819179.1530778568
+World Bank Upper Middle Income,Neoplasms,Neonate,61820.570178337664
+World Bank Upper Middle Income,Neoplasms,Young child,869861.3629771527
+World Bank Upper Middle Income,Neurological disorders,Adolescent,2919528.1121724863
+World Bank Upper Middle Income,Neurological disorders,Child,543913.9246148668
+World Bank Upper Middle Income,Neurological disorders,Infant,299872.60280319565
+World Bank Upper Middle Income,Neurological disorders,Neonate,16209.689225874114
+World Bank Upper Middle Income,Neurological disorders,Young child,222430.41878656278
+World Bank Upper Middle Income,Nutritional deficiencies,Adolescent,1604964.0399792162
+World Bank Upper Middle Income,Nutritional deficiencies,Child,1414112.6328958739
+World Bank Upper Middle Income,Nutritional deficiencies,Infant,2177223.598856373
+World Bank Upper Middle Income,Nutritional deficiencies,Neonate,23611.176442893397
+World Bank Upper Middle Income,Nutritional deficiencies,Young child,933085.0698973302
+World Bank Upper Middle Income,Other infectious diseases,Adolescent,850214.1069396248
+World Bank Upper Middle Income,Other infectious diseases,Child,1034105.0554923357
+World Bank Upper Middle Income,Other infectious diseases,Infant,4689456.62940076
+World Bank Upper Middle Income,Other infectious diseases,Neonate,690848.1232695105
+World Bank Upper Middle Income,Other infectious diseases,Young child,1665758.505789897
+World Bank Upper Middle Income,Other non-communicable diseases,Adolescent,2812583.871422219
+World Bank Upper Middle Income,Other non-communicable diseases,Child,1444014.8058604095
+World Bank Upper Middle Income,Other non-communicable diseases,Infant,9745139.785949128
+World Bank Upper Middle Income,Other non-communicable diseases,Neonate,6386386.697700518
+World Bank Upper Middle Income,Other non-communicable diseases,Young child,1540644.7318083746
+World Bank Upper Middle Income,Respiratory infections and tuberculosis,Adolescent,2017031.98154933
+World Bank Upper Middle Income,Respiratory infections and tuberculosis,Child,1348051.299329598
+World Bank Upper Middle Income,Respiratory infections and tuberculosis,Infant,14047022.19894114
+World Bank Upper Middle Income,Respiratory infections and tuberculosis,Neonate,4008741.5792468265
+World Bank Upper Middle Income,Respiratory infections and tuberculosis,Young child,2270333.630891967
+World Bank Upper Middle Income,Self-harm and interpersonal violence,Adolescent,4204034.92367329
+World Bank Upper Middle Income,Self-harm and interpersonal violence,Child,398066.83586960996
+World Bank Upper Middle Income,Self-harm and interpersonal violence,Infant,298827.7100482388
+World Bank Upper Middle Income,Self-harm and interpersonal violence,Neonate,43529.28054722429
+World Bank Upper Middle Income,Self-harm and interpersonal violence,Young child,210210.8138878969
+World Bank Upper Middle Income,Sense organ diseases,Adolescent,855953.9238173942
+World Bank Upper Middle Income,Sense organ diseases,Child,246294.4633256462
+World Bank Upper Middle Income,Sense organ diseases,Infant,26817.999997240564
+World Bank Upper Middle Income,Sense organ diseases,Neonate,641.4331934367414
+World Bank Upper Middle Income,Sense organ diseases,Young child,84141.04168834611
+World Bank Upper Middle Income,Skin and subcutaneous diseases,Adolescent,2420356.885325442
+World Bank Upper Middle Income,Skin and subcutaneous diseases,Child,1807839.654399032
+World Bank Upper Middle Income,Skin and subcutaneous diseases,Infant,463340.99826947285
+World Bank Upper Middle Income,Skin and subcutaneous diseases,Neonate,9000.114524385324
+World Bank Upper Middle Income,Skin and subcutaneous diseases,Young child,1267291.447285834
+World Bank Upper Middle Income,Substance use disorders,Adolescent,495079.8266162371
+World Bank Upper Middle Income,Substance use disorders,Child,2684.4876037459626
+World Bank Upper Middle Income,Substance use disorders,Infant,1038.853102615604
+World Bank Upper Middle Income,Substance use disorders,Neonate,65.3388139027925
+World Bank Upper Middle Income,Substance use disorders,Young child,2312.592911504788
+World Bank Upper Middle Income,Transport injuries,Adolescent,4533260.058768425
+World Bank Upper Middle Income,Transport injuries,Child,1520133.5261785856
+World Bank Upper Middle Income,Transport injuries,Infant,637097.2829953461
+World Bank Upper Middle Income,Transport injuries,Neonate,36032.53433585306
+World Bank Upper Middle Income,Transport injuries,Young child,970139.5412975709
+World Bank Upper Middle Income,Unintentional injuries,Adolescent,6425459.080866747
+World Bank Upper Middle Income,Unintentional injuries,Child,3367526.3883157773
+World Bank Upper Middle Income,Unintentional injuries,Infant,3449413.2784622298
+World Bank Upper Middle Income,Unintentional injuries,Neonate,407095.7003598553
+World Bank Upper Middle Income,Unintentional injuries,Young child,2679822.667606185
